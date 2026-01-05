@@ -1,0 +1,62 @@
+[
+  {
+    "institution": "University of Pennsylvania",
+    "weighted_degree": 1053
+  },
+  {
+    "institution": "University of Michigan\u2013Ann Arbor",
+    "weighted_degree": 1009
+  },
+  {
+    "institution": "University of California, San Diego",
+    "weighted_degree": 911
+  },
+  {
+    "institution": "Massachusetts General Hospital",
+    "weighted_degree": 755
+  },
+  {
+    "institution": "Memorial Sloan Kettering Cancer Center",
+    "weighted_degree": 749
+  },
+  {
+    "institution": "University College London",
+    "weighted_degree": 727
+  },
+  {
+    "institution": "Harvard University",
+    "weighted_degree": 714
+  },
+  {
+    "institution": "Centre National de la Recherche Scientifique",
+    "weighted_degree": 637
+  },
+  {
+    "institution": "The University of Texas MD Anderson Cancer Center",
+    "weighted_degree": 595
+  },
+  {
+    "institution": "University of Cambridge",
+    "weighted_degree": 573
+  },
+  {
+    "institution": "The University of Texas Southwestern Medical Center",
+    "weighted_degree": 567
+  },
+  {
+    "institution": "Cancer Institute (WIA)",
+    "weighted_degree": 564
+  },
+  {
+    "institution": "Fred Hutch Cancer Center",
+    "weighted_degree": 561
+  },
+  {
+    "institution": "University of Colorado Denver",
+    "weighted_degree": 559
+  },
+  {
+    "institution": "Moffitt Cancer Center",
+    "weighted_degree": 543
+  }
+]

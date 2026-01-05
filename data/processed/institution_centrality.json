@@ -1,0 +1,62 @@
+[
+  {
+    "institution": "University College London",
+    "degree_centrality": 554
+  },
+  {
+    "institution": "Centre National de la Recherche Scientifique",
+    "degree_centrality": 513
+  },
+  {
+    "institution": "University of Michigan\u2013Ann Arbor",
+    "degree_centrality": 513
+  },
+  {
+    "institution": "Harvard University",
+    "degree_centrality": 490
+  },
+  {
+    "institution": "University of Pennsylvania",
+    "degree_centrality": 474
+  },
+  {
+    "institution": "University of California, San Diego",
+    "degree_centrality": 464
+  },
+  {
+    "institution": "University of Cambridge",
+    "degree_centrality": 452
+  },
+  {
+    "institution": "Inserm",
+    "degree_centrality": 398
+  },
+  {
+    "institution": "University of Oxford",
+    "degree_centrality": 396
+  },
+  {
+    "institution": "Imperial College London",
+    "degree_centrality": 395
+  },
+  {
+    "institution": "University of Washington",
+    "degree_centrality": 352
+  },
+  {
+    "institution": "Yale University",
+    "degree_centrality": 348
+  },
+  {
+    "institution": "University of Helsinki",
+    "degree_centrality": 337
+  },
+  {
+    "institution": "Erasmus MC",
+    "degree_centrality": 314
+  },
+  {
+    "institution": "Massachusetts General Hospital",
+    "degree_centrality": 312
+  }
+]

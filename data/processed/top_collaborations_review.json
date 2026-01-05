@@ -1,0 +1,222 @@
+[
+  {
+    "institution_1": "University of Michigan\u2013Ann Arbor",
+    "country_1": "US",
+    "lat_1": 42.27756118774414,
+    "lon_1": -83.74088287353516,
+    "institution_2": "University of Pennsylvania",
+    "country_2": "US",
+    "lat_2": 39.9523811340332,
+    "lon_2": -75.16361999511719,
+    "joint_publications": 15
+  },
+  {
+    "institution_1": "Memorial Sloan Kettering Cancer Center",
+    "country_1": "US",
+    "lat_1": 40.714271545410156,
+    "lon_1": -74.00596618652344,
+    "institution_2": "University of Pennsylvania",
+    "country_2": "US",
+    "lat_2": 39.9523811340332,
+    "lon_2": -75.16361999511719,
+    "joint_publications": 14
+  },
+  {
+    "institution_1": "Massachusetts General Hospital",
+    "country_1": "US",
+    "lat_1": 42.358428955078125,
+    "lon_1": -71.05976867675781,
+    "institution_2": "University of Pennsylvania",
+    "country_2": "US",
+    "lat_2": 39.9523811340332,
+    "lon_2": -75.16361999511719,
+    "joint_publications": 14
+  },
+  {
+    "institution_1": "Memorial Sloan Kettering Cancer Center",
+    "country_1": "US",
+    "lat_1": 40.714271545410156,
+    "lon_1": -74.00596618652344,
+    "institution_2": "Massachusetts General Hospital",
+    "country_2": "US",
+    "lat_2": 42.358428955078125,
+    "lon_2": -71.05976867675781,
+    "joint_publications": 13
+  },
+  {
+    "institution_1": "University of California, San Diego",
+    "country_1": "US",
+    "lat_1": 32.7157096862793,
+    "lon_1": -117.16471862792969,
+    "institution_2": "University of Pennsylvania",
+    "country_2": "US",
+    "lat_2": 39.9523811340332,
+    "lon_2": -75.16361999511719,
+    "joint_publications": 13
+  },
+  {
+    "institution_1": "Memorial Sloan Kettering Cancer Center",
+    "country_1": "US",
+    "lat_1": 40.714271545410156,
+    "lon_1": -74.00596618652344,
+    "institution_2": "Cancer Institute (WIA)",
+    "country_2": "IN",
+    "lat_2": 13.08784008026123,
+    "lon_2": 80.27847290039062,
+    "joint_publications": 13
+  },
+  {
+    "institution_1": "Memorial Sloan Kettering Cancer Center",
+    "country_1": "US",
+    "lat_1": 40.714271545410156,
+    "lon_1": -74.00596618652344,
+    "institution_2": "The University of Texas MD Anderson Cancer Center",
+    "country_2": "US",
+    "lat_2": 29.763280868530273,
+    "lon_2": -95.36327362060547,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "Memorial Sloan Kettering Cancer Center",
+    "country_1": "US",
+    "lat_1": 40.714271545410156,
+    "lon_1": -74.00596618652344,
+    "institution_2": "Moffitt Cancer Center",
+    "country_2": "US",
+    "lat_2": 27.947519302368164,
+    "lon_2": -82.45842742919922,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "Memorial Sloan Kettering Cancer Center",
+    "country_1": "US",
+    "lat_1": 40.714271545410156,
+    "lon_1": -74.00596618652344,
+    "institution_2": "Fred Hutch Cancer Center",
+    "country_2": "US",
+    "lat_2": 47.60620880126953,
+    "lon_2": -122.33206939697266,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "Memorial Sloan Kettering Cancer Center",
+    "country_1": "US",
+    "lat_1": 40.714271545410156,
+    "lon_1": -74.00596618652344,
+    "institution_2": "The University of Texas Southwestern Medical Center",
+    "country_2": "US",
+    "lat_2": 32.783058166503906,
+    "lon_2": -96.80667114257812,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "The University of Texas MD Anderson Cancer Center",
+    "country_1": "US",
+    "lat_1": 29.763280868530273,
+    "lon_1": -95.36327362060547,
+    "institution_2": "University of Pennsylvania",
+    "country_2": "US",
+    "lat_2": 39.9523811340332,
+    "lon_2": -75.16361999511719,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "Moffitt Cancer Center",
+    "country_1": "US",
+    "lat_1": 27.947519302368164,
+    "lon_1": -82.45842742919922,
+    "institution_2": "University of Pennsylvania",
+    "country_2": "US",
+    "lat_2": 39.9523811340332,
+    "lon_2": -75.16361999511719,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "Moffitt Cancer Center",
+    "country_1": "US",
+    "lat_1": 27.947519302368164,
+    "lon_1": -82.45842742919922,
+    "institution_2": "The University of Texas Southwestern Medical Center",
+    "country_2": "US",
+    "lat_2": 32.783058166503906,
+    "lon_2": -96.80667114257812,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "Fred Hutch Cancer Center",
+    "country_1": "US",
+    "lat_1": 47.60620880126953,
+    "lon_1": -122.33206939697266,
+    "institution_2": "University of Pennsylvania",
+    "country_2": "US",
+    "lat_2": 39.9523811340332,
+    "lon_2": -75.16361999511719,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "University of Pennsylvania",
+    "country_1": "US",
+    "lat_1": 39.9523811340332,
+    "lon_1": -75.16361999511719,
+    "institution_2": "The University of Texas Southwestern Medical Center",
+    "country_2": "US",
+    "lat_2": 32.783058166503906,
+    "lon_2": -96.80667114257812,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "Memorial Sloan Kettering Cancer Center",
+    "country_1": "US",
+    "lat_1": 40.714271545410156,
+    "lon_1": -74.00596618652344,
+    "institution_2": "University of Michigan\u2013Ann Arbor",
+    "country_2": "US",
+    "lat_2": 42.27756118774414,
+    "lon_2": -83.74088287353516,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "University of Michigan\u2013Ann Arbor",
+    "country_1": "US",
+    "lat_1": 42.27756118774414,
+    "lon_1": -83.74088287353516,
+    "institution_2": "Massachusetts General Hospital",
+    "country_2": "US",
+    "lat_2": 42.358428955078125,
+    "lon_2": -71.05976867675781,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "University of Michigan\u2013Ann Arbor",
+    "country_1": "US",
+    "lat_1": 42.27756118774414,
+    "lon_1": -83.74088287353516,
+    "institution_2": "University of Colorado Denver",
+    "country_2": "US",
+    "lat_2": 39.73915100097656,
+    "lon_2": -104.98470306396484,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "Cancer Institute (WIA)",
+    "country_1": "IN",
+    "lat_1": 13.08784008026123,
+    "lon_1": 80.27847290039062,
+    "institution_2": "University of Pennsylvania",
+    "country_2": "US",
+    "lat_2": 39.9523811340332,
+    "lon_2": -75.16361999511719,
+    "joint_publications": 12
+  },
+  {
+    "institution_1": "Fox Chase Cancer Center",
+    "country_1": "US",
+    "lat_1": 39.9523811340332,
+    "lon_1": -75.16361999511719,
+    "institution_2": "Memorial Sloan Kettering Cancer Center",
+    "country_2": "US",
+    "lat_2": 40.714271545410156,
+    "lon_2": -74.00596618652344,
+    "joint_publications": 11
+  }
+]

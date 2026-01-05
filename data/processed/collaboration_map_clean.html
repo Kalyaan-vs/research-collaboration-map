@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_ed14d0a78b381a194fc8d7eed8c9dbc0 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_ed14d0a78b381a194fc8d7eed8c9dbc0" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_ed14d0a78b381a194fc8d7eed8c9dbc0 = L.map(
+                "map_ed14d0a78b381a194fc8d7eed8c9dbc0",
+                {
+                    center: [20.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 2,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_39f936d7d98841b1616df1241be63df4 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_39f936d7d98841b1616df1241be63df4.addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            var poly_line_6e130c32ddace173bd5c98f42c243e01 = L.polyline(
+                [[42.27756118774414, -83.74088287353516], [39.9523811340332, -75.16361999511719]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 17}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_6e130c32ddace173bd5c98f42c243e01.bindTooltip(
+                `<div>
+                     University of Michigan–Ann Arbor ↔ University of Pennsylvania (15 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_db18e95ddf107d06d3ab8e05622c61fd = L.polyline(
+                [[40.714271545410156, -74.00596618652344], [39.9523811340332, -75.16361999511719]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 16}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_db18e95ddf107d06d3ab8e05622c61fd.bindTooltip(
+                `<div>
+                     Memorial Sloan Kettering Cancer Center ↔ University of Pennsylvania (14 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e626eccf7cb45bceecadf5b07a63b899 = L.polyline(
+                [[42.358428955078125, -71.05976867675781], [39.9523811340332, -75.16361999511719]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 16}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_e626eccf7cb45bceecadf5b07a63b899.bindTooltip(
+                `<div>
+                     Massachusetts General Hospital ↔ University of Pennsylvania (14 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_13ead71718252ed272a740d845ab42a2 = L.polyline(
+                [[40.714271545410156, -74.00596618652344], [42.358428955078125, -71.05976867675781]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 15}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_13ead71718252ed272a740d845ab42a2.bindTooltip(
+                `<div>
+                     Memorial Sloan Kettering Cancer Center ↔ Massachusetts General Hospital (13 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_c6a0c33a140d0a20bdae1cade80daecc = L.polyline(
+                [[32.7157096862793, -117.16471862792969], [39.9523811340332, -75.16361999511719]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 15}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_c6a0c33a140d0a20bdae1cade80daecc.bindTooltip(
+                `<div>
+                     University of California, San Diego ↔ University of Pennsylvania (13 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f22446a27b7b5959b3fb682dd911c882 = L.polyline(
+                [[40.714271545410156, -74.00596618652344], [13.08784008026123, 80.27847290039062]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 15}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_f22446a27b7b5959b3fb682dd911c882.bindTooltip(
+                `<div>
+                     Memorial Sloan Kettering Cancer Center ↔ Cancer Institute (WIA) (13 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_85be40b0afa7852d94d11f7ac2c9e8f0 = L.polyline(
+                [[40.714271545410156, -74.00596618652344], [29.763280868530273, -95.36327362060547]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_85be40b0afa7852d94d11f7ac2c9e8f0.bindTooltip(
+                `<div>
+                     Memorial Sloan Kettering Cancer Center ↔ The University of Texas MD Anderson Cancer Center (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_7df3e2efe54332459ce20be87d429cd6 = L.polyline(
+                [[40.714271545410156, -74.00596618652344], [27.947519302368164, -82.45842742919922]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_7df3e2efe54332459ce20be87d429cd6.bindTooltip(
+                `<div>
+                     Memorial Sloan Kettering Cancer Center ↔ Moffitt Cancer Center (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_892c9d82b13832e11b482afa3687251b = L.polyline(
+                [[40.714271545410156, -74.00596618652344], [47.60620880126953, -122.33206939697266]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_892c9d82b13832e11b482afa3687251b.bindTooltip(
+                `<div>
+                     Memorial Sloan Kettering Cancer Center ↔ Fred Hutch Cancer Center (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_0ef983f677bcdaba923c8f28b1401475 = L.polyline(
+                [[40.714271545410156, -74.00596618652344], [32.783058166503906, -96.80667114257812]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_0ef983f677bcdaba923c8f28b1401475.bindTooltip(
+                `<div>
+                     Memorial Sloan Kettering Cancer Center ↔ The University of Texas Southwestern Medical Center (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_46ad32aae308fe90e5c519b6eb991b18 = L.polyline(
+                [[29.763280868530273, -95.36327362060547], [39.9523811340332, -75.16361999511719]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_46ad32aae308fe90e5c519b6eb991b18.bindTooltip(
+                `<div>
+                     The University of Texas MD Anderson Cancer Center ↔ University of Pennsylvania (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_00a39d3152bd8f79d1f09fad9a4738d2 = L.polyline(
+                [[27.947519302368164, -82.45842742919922], [39.9523811340332, -75.16361999511719]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_00a39d3152bd8f79d1f09fad9a4738d2.bindTooltip(
+                `<div>
+                     Moffitt Cancer Center ↔ University of Pennsylvania (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_19b3a7e3b46fa65a73128d162c441a90 = L.polyline(
+                [[27.947519302368164, -82.45842742919922], [32.783058166503906, -96.80667114257812]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_19b3a7e3b46fa65a73128d162c441a90.bindTooltip(
+                `<div>
+                     Moffitt Cancer Center ↔ The University of Texas Southwestern Medical Center (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_1fe0d4c2e64401d935a6544bf30696c3 = L.polyline(
+                [[47.60620880126953, -122.33206939697266], [39.9523811340332, -75.16361999511719]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_1fe0d4c2e64401d935a6544bf30696c3.bindTooltip(
+                `<div>
+                     Fred Hutch Cancer Center ↔ University of Pennsylvania (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_5c7010e7fee29906212092a5c0d27733 = L.polyline(
+                [[39.9523811340332, -75.16361999511719], [32.783058166503906, -96.80667114257812]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_5c7010e7fee29906212092a5c0d27733.bindTooltip(
+                `<div>
+                     University of Pennsylvania ↔ The University of Texas Southwestern Medical Center (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_b2d35081bca94d31c8ba2ef2775bafea = L.polyline(
+                [[40.714271545410156, -74.00596618652344], [42.27756118774414, -83.74088287353516]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_b2d35081bca94d31c8ba2ef2775bafea.bindTooltip(
+                `<div>
+                     Memorial Sloan Kettering Cancer Center ↔ University of Michigan–Ann Arbor (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e18b782b25b3c0e3e317ff9c730241b4 = L.polyline(
+                [[42.27756118774414, -83.74088287353516], [42.358428955078125, -71.05976867675781]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_e18b782b25b3c0e3e317ff9c730241b4.bindTooltip(
+                `<div>
+                     University of Michigan–Ann Arbor ↔ Massachusetts General Hospital (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_0036d071f3b5bfa92e52495b1416a9fd = L.polyline(
+                [[42.27756118774414, -83.74088287353516], [39.73915100097656, -104.98470306396484]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_0036d071f3b5bfa92e52495b1416a9fd.bindTooltip(
+                `<div>
+                     University of Michigan–Ann Arbor ↔ University of Colorado Denver (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e128c2087adbcb6f77e50609b8725512 = L.polyline(
+                [[13.08784008026123, 80.27847290039062], [39.9523811340332, -75.16361999511719]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 14}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_e128c2087adbcb6f77e50609b8725512.bindTooltip(
+                `<div>
+                     Cancer Institute (WIA) ↔ University of Pennsylvania (12 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_01eb6e80025439efc2e40bc5efd46d89 = L.polyline(
+                [[39.9523811340332, -75.16361999511719], [40.714271545410156, -74.00596618652344]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_01eb6e80025439efc2e40bc5efd46d89.bindTooltip(
+                `<div>
+                     Fox Chase Cancer Center ↔ Memorial Sloan Kettering Cancer Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_9cea762823f213d8e03c17930f71885c = L.polyline(
+                [[39.9523811340332, -75.16361999511719], [27.947519302368164, -82.45842742919922]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_9cea762823f213d8e03c17930f71885c.bindTooltip(
+                `<div>
+                     Fox Chase Cancer Center ↔ Moffitt Cancer Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_0c3794813402ca1ac5f487f51e54c7a1 = L.polyline(
+                [[39.9523811340332, -75.16361999511719], [39.9523811340332, -75.16361999511719]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_0c3794813402ca1ac5f487f51e54c7a1.bindTooltip(
+                `<div>
+                     Fox Chase Cancer Center ↔ University of Pennsylvania (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_0d3354f0c890c789888920a734115a13 = L.polyline(
+                [[39.9523811340332, -75.16361999511719], [32.783058166503906, -96.80667114257812]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_0d3354f0c890c789888920a734115a13.bindTooltip(
+                `<div>
+                     Fox Chase Cancer Center ↔ The University of Texas Southwestern Medical Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_3139456a73ad463b1f0aa3b806d96a3c = L.polyline(
+                [[29.763280868530273, -95.36327362060547], [27.947519302368164, -82.45842742919922]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_3139456a73ad463b1f0aa3b806d96a3c.bindTooltip(
+                `<div>
+                     The University of Texas MD Anderson Cancer Center ↔ Moffitt Cancer Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f0c8e800a8ee00b648e06ad016ebe2a3 = L.polyline(
+                [[29.763280868530273, -95.36327362060547], [42.358428955078125, -71.05976867675781]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_f0c8e800a8ee00b648e06ad016ebe2a3.bindTooltip(
+                `<div>
+                     The University of Texas MD Anderson Cancer Center ↔ Massachusetts General Hospital (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_47035a7c24957b5654ab65082ca29eed = L.polyline(
+                [[29.763280868530273, -95.36327362060547], [47.60620880126953, -122.33206939697266]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_47035a7c24957b5654ab65082ca29eed.bindTooltip(
+                `<div>
+                     The University of Texas MD Anderson Cancer Center ↔ Fred Hutch Cancer Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_334ec89b0a40ad80ea0811075bbdd099 = L.polyline(
+                [[29.763280868530273, -95.36327362060547], [32.783058166503906, -96.80667114257812]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_334ec89b0a40ad80ea0811075bbdd099.bindTooltip(
+                `<div>
+                     The University of Texas MD Anderson Cancer Center ↔ The University of Texas Southwestern Medical Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_860c36685b8d2a4f260d5a730b37f932 = L.polyline(
+                [[27.947519302368164, -82.45842742919922], [42.358428955078125, -71.05976867675781]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_860c36685b8d2a4f260d5a730b37f932.bindTooltip(
+                `<div>
+                     Moffitt Cancer Center ↔ Massachusetts General Hospital (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_3211f19376024c23173940884581e119 = L.polyline(
+                [[27.947519302368164, -82.45842742919922], [47.60620880126953, -122.33206939697266]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_3211f19376024c23173940884581e119.bindTooltip(
+                `<div>
+                     Moffitt Cancer Center ↔ Fred Hutch Cancer Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_aaeaaa9ee44359bbb7ffb59575d68789 = L.polyline(
+                [[42.358428955078125, -71.05976867675781], [47.60620880126953, -122.33206939697266]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_aaeaaa9ee44359bbb7ffb59575d68789.bindTooltip(
+                `<div>
+                     Massachusetts General Hospital ↔ Fred Hutch Cancer Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_aa0264f7edccddcc57eb6ec93c0a5b1c = L.polyline(
+                [[42.358428955078125, -71.05976867675781], [32.783058166503906, -96.80667114257812]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_aa0264f7edccddcc57eb6ec93c0a5b1c.bindTooltip(
+                `<div>
+                     Massachusetts General Hospital ↔ The University of Texas Southwestern Medical Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_6a2d4b4eb0a8383753ad9413d57d841e = L.polyline(
+                [[47.60620880126953, -122.33206939697266], [32.783058166503906, -96.80667114257812]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_6a2d4b4eb0a8383753ad9413d57d841e.bindTooltip(
+                `<div>
+                     Fred Hutch Cancer Center ↔ The University of Texas Southwestern Medical Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_7b7461263ed71189a13984d97f62c0ad = L.polyline(
+                [[29.763280868530273, -95.36327362060547], [42.27756118774414, -83.74088287353516]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_7b7461263ed71189a13984d97f62c0ad.bindTooltip(
+                `<div>
+                     The University of Texas MD Anderson Cancer Center ↔ University of Michigan–Ann Arbor (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_2398195b12b9fcbcf07bc1ee04c9d5da = L.polyline(
+                [[42.27756118774414, -83.74088287353516], [47.60620880126953, -122.33206939697266]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_2398195b12b9fcbcf07bc1ee04c9d5da.bindTooltip(
+                `<div>
+                     University of Michigan–Ann Arbor ↔ Fred Hutch Cancer Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_20861281843c04fa25884ca519d08980 = L.polyline(
+                [[41.3841438293457, -81.7184066772461], [27.947519302368164, -82.45842742919922]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_20861281843c04fa25884ca519d08980.bindTooltip(
+                `<div>
+                     Cleveland Clinic ↔ Moffitt Cancer Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_b335cf839d2cc5730a65ec619deaf4b9 = L.polyline(
+                [[40.714271545410156, -74.00596618652344], [37.77492904663086, -122.41941833496094]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_b335cf839d2cc5730a65ec619deaf4b9.bindTooltip(
+                `<div>
+                     Memorial Sloan Kettering Cancer Center ↔ UCSF Helen Diller Family Comprehensive Cancer Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_ddbdfe71ee47dcfdf7b858457cbf6fc3 = L.polyline(
+                [[29.763280868530273, -95.36327362060547], [13.08784008026123, 80.27847290039062]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_ddbdfe71ee47dcfdf7b858457cbf6fc3.bindTooltip(
+                `<div>
+                     The University of Texas MD Anderson Cancer Center ↔ Cancer Institute (WIA) (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_2763edb09c6b5d2164c5f9eeafa9e628 = L.polyline(
+                [[42.27756118774414, -83.74088287353516], [13.08784008026123, 80.27847290039062]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_2763edb09c6b5d2164c5f9eeafa9e628.bindTooltip(
+                `<div>
+                     University of Michigan–Ann Arbor ↔ Cancer Institute (WIA) (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f233a05abd146d0f16d220843158a4fc = L.polyline(
+                [[42.27756118774414, -83.74088287353516], [27.947519302368164, -82.45842742919922]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_f233a05abd146d0f16d220843158a4fc.bindTooltip(
+                `<div>
+                     University of Michigan–Ann Arbor ↔ Moffitt Cancer Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_4b2e49b98bdbfc285d48b25d9ef65782 = L.polyline(
+                [[42.27756118774414, -83.74088287353516], [32.7157096862793, -117.16471862792969]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_4b2e49b98bdbfc285d48b25d9ef65782.bindTooltip(
+                `<div>
+                     University of Michigan–Ann Arbor ↔ University of California, San Diego (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_5ed007e29fddd5c033d8061d7eb68889 = L.polyline(
+                [[42.27756118774414, -83.74088287353516], [32.783058166503906, -96.80667114257812]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_5ed007e29fddd5c033d8061d7eb68889.bindTooltip(
+                `<div>
+                     University of Michigan–Ann Arbor ↔ The University of Texas Southwestern Medical Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_533b249e724af709b73477106032bbf8 = L.polyline(
+                [[13.08784008026123, 80.27847290039062], [27.947519302368164, -82.45842742919922]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_533b249e724af709b73477106032bbf8.bindTooltip(
+                `<div>
+                     Cancer Institute (WIA) ↔ Moffitt Cancer Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_d4365abb1134f8c734de993a940d3067 = L.polyline(
+                [[13.08784008026123, 80.27847290039062], [42.358428955078125, -71.05976867675781]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_d4365abb1134f8c734de993a940d3067.bindTooltip(
+                `<div>
+                     Cancer Institute (WIA) ↔ Massachusetts General Hospital (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_06a9ff5d2a27bbdbb274de0b84748323 = L.polyline(
+                [[13.08784008026123, 80.27847290039062], [32.783058166503906, -96.80667114257812]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_06a9ff5d2a27bbdbb274de0b84748323.bindTooltip(
+                `<div>
+                     Cancer Institute (WIA) ↔ The University of Texas Southwestern Medical Center (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_7f093db25f02a3e8972aa301d3074bf1 = L.polyline(
+                [[32.783058166503906, -96.80667114257812], [39.73915100097656, -104.98470306396484]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 13}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_7f093db25f02a3e8972aa301d3074bf1.bindTooltip(
+                `<div>
+                     The University of Texas Southwestern Medical Center ↔ University of Colorado Denver (11 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_3d68f7672d24b52fc8496e0848221e2d = L.polyline(
+                [[39.9523811340332, -75.16361999511719], [29.763280868530273, -95.36327362060547]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 12}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_3d68f7672d24b52fc8496e0848221e2d.bindTooltip(
+                `<div>
+                     Fox Chase Cancer Center ↔ The University of Texas MD Anderson Cancer Center (10 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_6ff50a0739207534df319af9e25638b6 = L.polyline(
+                [[39.9523811340332, -75.16361999511719], [32.7157096862793, -117.16471862792969]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 12}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_6ff50a0739207534df319af9e25638b6.bindTooltip(
+                `<div>
+                     Fox Chase Cancer Center ↔ University of California, San Diego (10 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_5eee4c6984f513ec14c310eaff11a490 = L.polyline(
+                [[39.9523811340332, -75.16361999511719], [42.358428955078125, -71.05976867675781]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 12}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_5eee4c6984f513ec14c310eaff11a490.bindTooltip(
+                `<div>
+                     Fox Chase Cancer Center ↔ Massachusetts General Hospital (10 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_66421ee8eb1be5c8d2369d4622c90585 = L.polyline(
+                [[39.9523811340332, -75.16361999511719], [47.60620880126953, -122.33206939697266]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 12}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_66421ee8eb1be5c8d2369d4622c90585.bindTooltip(
+                `<div>
+                     Fox Chase Cancer Center ↔ Fred Hutch Cancer Center (10 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_160bc4ce2749b64dae378d318147a331 = L.polyline(
+                [[40.714271545410156, -74.00596618652344], [32.7157096862793, -117.16471862792969]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 12}
+            ).addTo(map_ed14d0a78b381a194fc8d7eed8c9dbc0);
+        
+    
+            poly_line_160bc4ce2749b64dae378d318147a331.bindTooltip(
+                `<div>
+                     Memorial Sloan Kettering Cancer Center ↔ University of California, San Diego (10 joint papers)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
