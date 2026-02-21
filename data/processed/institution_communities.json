@@ -1,0 +1,1530 @@
+[
+  {
+    "institution":"University College Dublin",
+    "community_id":0
+  },
+  {
+    "institution":"Imperial College London",
+    "community_id":2
+  },
+  {
+    "institution":"University of T\u00fcbingen",
+    "community_id":0
+  },
+  {
+    "institution":"University of Amsterdam",
+    "community_id":2
+  },
+  {
+    "institution":"Northwestern University",
+    "community_id":2
+  },
+  {
+    "institution":"Centre National de la Recherche Scientifique",
+    "community_id":3
+  },
+  {
+    "institution":"University of Cambridge",
+    "community_id":2
+  },
+  {
+    "institution":"University of Chicago",
+    "community_id":2
+  },
+  {
+    "institution":"University College London",
+    "community_id":2
+  },
+  {
+    "institution":"Nagoya University",
+    "community_id":2
+  },
+  {
+    "institution":"Tata Institute of Fundamental Research",
+    "community_id":2
+  },
+  {
+    "institution":"Fermi National Accelerator Laboratory",
+    "community_id":5
+  },
+  {
+    "institution":"University of Helsinki",
+    "community_id":2
+  },
+  {
+    "institution":"Helsinki Institute of Physics",
+    "community_id":2
+  },
+  {
+    "institution":"ETH Zurich",
+    "community_id":2
+  },
+  {
+    "institution":"Monash University",
+    "community_id":2
+  },
+  {
+    "institution":"Argonne National Laboratory",
+    "community_id":5
+  },
+  {
+    "institution":"University of Wisconsin\u2013Madison",
+    "community_id":5
+  },
+  {
+    "institution":"Lawrence Berkeley National Laboratory",
+    "community_id":5
+  },
+  {
+    "institution":"University of Illinois Urbana-Champaign",
+    "community_id":5
+  },
+  {
+    "institution":"University of Sussex",
+    "community_id":5
+  },
+  {
+    "institution":"The Ohio State University",
+    "community_id":5
+  },
+  {
+    "institution":"Universidad Aut\u00f3noma de Madrid",
+    "community_id":5
+  },
+  {
+    "institution":"Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "community_id":5
+  },
+  {
+    "institution":"University of Minnesota",
+    "community_id":2
+  },
+  {
+    "institution":"Austrian Academy of Sciences",
+    "community_id":3
+  },
+  {
+    "institution":"Johns Hopkins University",
+    "community_id":2
+  },
+  {
+    "institution":"University of Liverpool",
+    "community_id":2
+  },
+  {
+    "institution":"King's College London",
+    "community_id":2
+  },
+  {
+    "institution":"Tohoku University",
+    "community_id":2
+  },
+  {
+    "institution":"Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives",
+    "community_id":2
+  },
+  {
+    "institution":"Universit\u00e9 Paris-Saclay",
+    "community_id":3
+  },
+  {
+    "institution":"Yale University",
+    "community_id":2
+  },
+  {
+    "institution":"University of California, San Diego",
+    "community_id":7
+  },
+  {
+    "institution":"Humboldt-Universit\u00e4t zu Berlin",
+    "community_id":2
+  },
+  {
+    "institution":"University of Virginia",
+    "community_id":2
+  },
+  {
+    "institution":"University of Maryland, College Park",
+    "community_id":2
+  },
+  {
+    "institution":"Memorial Sloan Kettering Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Children's Hospital of Los Angeles",
+    "community_id":3
+  },
+  {
+    "institution":"The University of Texas MD Anderson Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Harvard University",
+    "community_id":2
+  },
+  {
+    "institution":"Garvan Institute of Medical Research",
+    "community_id":3
+  },
+  {
+    "institution":"Inserm",
+    "community_id":2
+  },
+  {
+    "institution":"Baylor College of Medicine",
+    "community_id":3
+  },
+  {
+    "institution":"University of Milan",
+    "community_id":3
+  },
+  {
+    "institution":"Universit\u00e4t Ulm",
+    "community_id":3
+  },
+  {
+    "institution":"University of Washington",
+    "community_id":2
+  },
+  {
+    "institution":"Universit\u00e9 Paris Cit\u00e9",
+    "community_id":3
+  },
+  {
+    "institution":"Fudan University",
+    "community_id":2
+  },
+  {
+    "institution":"Tata Memorial Hospital",
+    "community_id":3
+  },
+  {
+    "institution":"Hospital for Sick Children",
+    "community_id":2
+  },
+  {
+    "institution":"Institut Gustave Roussy",
+    "community_id":3
+  },
+  {
+    "institution":"Robert Bosch Hospital",
+    "community_id":3
+  },
+  {
+    "institution":"Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico",
+    "community_id":3
+  },
+  {
+    "institution":"University of Alabama at Birmingham",
+    "community_id":3
+  },
+  {
+    "institution":"University of Oxford",
+    "community_id":2
+  },
+  {
+    "institution":"Massachusetts General Hospital",
+    "community_id":7
+  },
+  {
+    "institution":"Fred Hutch Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Assistance Publique \u2013 H\u00f4pitaux de Paris",
+    "community_id":2
+  },
+  {
+    "institution":"National University Cancer Institute, Singapore",
+    "community_id":3
+  },
+  {
+    "institution":"Dr. Margarete Fischer-Bosch-Institute of Clinical Pharmacology",
+    "community_id":3
+  },
+  {
+    "institution":"Bambino Ges\u00f9 Children's Hospital",
+    "community_id":3
+  },
+  {
+    "institution":"Jena University Hospital",
+    "community_id":3
+  },
+  {
+    "institution":"Texas Children's Hospital",
+    "community_id":3
+  },
+  {
+    "institution":"Amsterdam University Medical Centers",
+    "community_id":3
+  },
+  {
+    "institution":"Istituti di Ricovero e Cura a Carattere Scientifico",
+    "community_id":3
+  },
+  {
+    "institution":"Queen Elizabeth Hospital",
+    "community_id":3
+  },
+  {
+    "institution":"University of Southampton",
+    "community_id":3
+  },
+  {
+    "institution":"Heinrich Heine University D\u00fcsseldorf",
+    "community_id":2
+  },
+  {
+    "institution":"Indiana University \u2013 Purdue University Indianapolis",
+    "community_id":3
+  },
+  {
+    "institution":"University of Pennsylvania",
+    "community_id":2
+  },
+  {
+    "institution":"Vrije Universiteit Amsterdam",
+    "community_id":3
+  },
+  {
+    "institution":"University of Gothenburg",
+    "community_id":2
+  },
+  {
+    "institution":"Stanford University",
+    "community_id":3
+  },
+  {
+    "institution":"Boston Children's Hospital",
+    "community_id":2
+  },
+  {
+    "institution":"Universit\u00e9 de Bordeaux",
+    "community_id":2
+  },
+  {
+    "institution":"National University of Singapore",
+    "community_id":2
+  },
+  {
+    "institution":"Duke University",
+    "community_id":2
+  },
+  {
+    "institution":"Cornell University",
+    "community_id":5
+  },
+  {
+    "institution":"Charles University",
+    "community_id":3
+  },
+  {
+    "institution":"University of Michigan\u2013Ann Arbor",
+    "community_id":7
+  },
+  {
+    "institution":"Leiden University Medical Center",
+    "community_id":2
+  },
+  {
+    "institution":"Mayo Clinic in Arizona",
+    "community_id":2
+  },
+  {
+    "institution":"Weill Cornell Medicine",
+    "community_id":2
+  },
+  {
+    "institution":"University of North Carolina at Chapel Hill",
+    "community_id":2
+  },
+  {
+    "institution":"University of Toronto",
+    "community_id":2
+  },
+  {
+    "institution":"Normandie Universit\u00e9",
+    "community_id":3
+  },
+  {
+    "institution":"University of Edinburgh",
+    "community_id":2
+  },
+  {
+    "institution":"Icahn School of Medicine at Mount Sinai",
+    "community_id":2
+  },
+  {
+    "institution":"University of Queensland",
+    "community_id":2
+  },
+  {
+    "institution":"Erasmus MC",
+    "community_id":2
+  },
+  {
+    "institution":"Institut de Recherche pour le D\u00e9veloppement",
+    "community_id":3
+  },
+  {
+    "institution":"University of Pretoria",
+    "community_id":3
+  },
+  {
+    "institution":"University of Copenhagen",
+    "community_id":2
+  },
+  {
+    "institution":"Kyushu University",
+    "community_id":2
+  },
+  {
+    "institution":"Kyoto University",
+    "community_id":2
+  },
+  {
+    "institution":"Chinese Academy of Sciences",
+    "community_id":10
+  },
+  {
+    "institution":"Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+    "community_id":2
+  },
+  {
+    "institution":"Heidelberg University",
+    "community_id":2
+  },
+  {
+    "institution":"Agency for Science, Technology and Research",
+    "community_id":2
+  },
+  {
+    "institution":"Children's Hospital of Philadelphia",
+    "community_id":2
+  },
+  {
+    "institution":"\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+    "community_id":5
+  },
+  {
+    "institution":"University of Padua",
+    "community_id":2
+  },
+  {
+    "institution":"The University of Tokyo",
+    "community_id":2
+  },
+  {
+    "institution":"Broad Institute",
+    "community_id":2
+  },
+  {
+    "institution":"Boston University",
+    "community_id":2
+  },
+  {
+    "institution":"Brigham and Women's Hospital",
+    "community_id":2
+  },
+  {
+    "institution":"National Institutes of Health",
+    "community_id":2
+  },
+  {
+    "institution":"Centre for Human Genetics",
+    "community_id":2
+  },
+  {
+    "institution":"Radboud University Nijmegen",
+    "community_id":2
+  },
+  {
+    "institution":"National Taiwan University",
+    "community_id":2
+  },
+  {
+    "institution":"Centre for Cellular and Molecular Biology",
+    "community_id":2
+  },
+  {
+    "institution":"Washington University in St. Louis",
+    "community_id":2
+  },
+  {
+    "institution":"University of Massachusetts Amherst",
+    "community_id":2
+  },
+  {
+    "institution":"Singapore National Eye Center",
+    "community_id":2
+  },
+  {
+    "institution":"Novo Nordisk Foundation",
+    "community_id":2
+  },
+  {
+    "institution":"VA Boston Healthcare System",
+    "community_id":2
+  },
+  {
+    "institution":"Copenhagen University Hospital",
+    "community_id":2
+  },
+  {
+    "institution":"Gentofte Hospital",
+    "community_id":2
+  },
+  {
+    "institution":"Rigshospitalet",
+    "community_id":2
+  },
+  {
+    "institution":"Jackson Memorial Hospital",
+    "community_id":2
+  },
+  {
+    "institution":"Radboud University Medical Center",
+    "community_id":2
+  },
+  {
+    "institution":"Helmholtz Zentrum M\u00fcnchen",
+    "community_id":2
+  },
+  {
+    "institution":"National Human Genome Research Institute",
+    "community_id":2
+  },
+  {
+    "institution":"Institute of Biomedical Sciences, Academia Sinica",
+    "community_id":2
+  },
+  {
+    "institution":"Singapore Eye Research Institute",
+    "community_id":2
+  },
+  {
+    "institution":"National Taiwan University Hospital",
+    "community_id":2
+  },
+  {
+    "institution":"Institute for Molecular Medicine Finland",
+    "community_id":2
+  },
+  {
+    "institution":"National University Health System",
+    "community_id":2
+  },
+  {
+    "institution":"RIKEN Center for Integrative Medical Sciences",
+    "community_id":2
+  },
+  {
+    "institution":"Harbor\u2013UCLA Medical Center",
+    "community_id":2
+  },
+  {
+    "institution":"Wake Forest University",
+    "community_id":2
+  },
+  {
+    "institution":"University of Tartu",
+    "community_id":2
+  },
+  {
+    "institution":"Vanderbilt University Medical Center",
+    "community_id":2
+  },
+  {
+    "institution":"Osaka University",
+    "community_id":2
+  },
+  {
+    "institution":"University of Southern Denmark",
+    "community_id":2
+  },
+  {
+    "institution":"Universit\u00e9 de Lille",
+    "community_id":2
+  },
+  {
+    "institution":"Institut Pasteur de Lille",
+    "community_id":2
+  },
+  {
+    "institution":"National Institute on Aging",
+    "community_id":2
+  },
+  {
+    "institution":"McMaster University",
+    "community_id":2
+  },
+  {
+    "institution":"Utrecht University",
+    "community_id":2
+  },
+  {
+    "institution":"Finnish Institute for Health and Welfare",
+    "community_id":2
+  },
+  {
+    "institution":"Tel Aviv University",
+    "community_id":2
+  },
+  {
+    "institution":"University of Pittsburgh",
+    "community_id":2
+  },
+  {
+    "institution":"University of California, Santa Cruz",
+    "community_id":2
+  },
+  {
+    "institution":"University of California, Berkeley",
+    "community_id":2
+  },
+  {
+    "institution":"Wellcome Sanger Institute",
+    "community_id":2
+  },
+  {
+    "institution":"Kaiser Permanente",
+    "community_id":2
+  },
+  {
+    "institution":"University of Freiburg",
+    "community_id":2
+  },
+  {
+    "institution":"Johns Hopkins Medicine",
+    "community_id":2
+  },
+  {
+    "institution":"University of Ljubljana",
+    "community_id":2
+  },
+  {
+    "institution":"University of Sydney",
+    "community_id":2
+  },
+  {
+    "institution":"University of Alberta",
+    "community_id":2
+  },
+  {
+    "institution":"Universit\u00e9 de Montpellier",
+    "community_id":2
+  },
+  {
+    "institution":"Centre Hospitalier Universitaire de Montpellier",
+    "community_id":2
+  },
+  {
+    "institution":"KU Leuven",
+    "community_id":2
+  },
+  {
+    "institution":"Universitat Aut\u00f2noma de Barcelona",
+    "community_id":2
+  },
+  {
+    "institution":"Emory University",
+    "community_id":2
+  },
+  {
+    "institution":"University of Colorado Denver",
+    "community_id":7
+  },
+  {
+    "institution":"University of British Columbia",
+    "community_id":10
+  },
+  {
+    "institution":"Queen Mary University of London",
+    "community_id":2
+  },
+  {
+    "institution":"Universit\u00e4tsklinikum Erlangen",
+    "community_id":2
+  },
+  {
+    "institution":"George Washington University",
+    "community_id":2
+  },
+  {
+    "institution":"University of Melbourne",
+    "community_id":2
+  },
+  {
+    "institution":"Queen's University",
+    "community_id":2
+  },
+  {
+    "institution":"Trinity College Dublin",
+    "community_id":2
+  },
+  {
+    "institution":"McGill University",
+    "community_id":2
+  },
+  {
+    "institution":"UNSW Sydney",
+    "community_id":10
+  },
+  {
+    "institution":"University of Malaya",
+    "community_id":2
+  },
+  {
+    "institution":"Chinese University of Hong Kong",
+    "community_id":5
+  },
+  {
+    "institution":"Yonsei University",
+    "community_id":2
+  },
+  {
+    "institution":"Johannes Gutenberg University Mainz",
+    "community_id":0
+  },
+  {
+    "institution":"University Medical Center of the Johannes Gutenberg University Mainz",
+    "community_id":0
+  },
+  {
+    "institution":"University of W\u00fcrzburg",
+    "community_id":2
+  },
+  {
+    "institution":"Columbia University Irving Medical Center",
+    "community_id":2
+  },
+  {
+    "institution":"University of Geneva",
+    "community_id":2
+  },
+  {
+    "institution":"University of Turku",
+    "community_id":2
+  },
+  {
+    "institution":"Ollscoil na Gaillimhe \u2013 University of Galway",
+    "community_id":2
+  },
+  {
+    "institution":"Seoul National University Bundang Hospital",
+    "community_id":2
+  },
+  {
+    "institution":"Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+    "community_id":2
+  },
+  {
+    "institution":"University of Manchester",
+    "community_id":10
+  },
+  {
+    "institution":"The University of Texas at Austin",
+    "community_id":10
+  },
+  {
+    "institution":"University of Tennessee Health Science Center",
+    "community_id":7
+  },
+  {
+    "institution":"University of Southern California",
+    "community_id":2
+  },
+  {
+    "institution":"Turku University Hospital",
+    "community_id":2
+  },
+  {
+    "institution":"Columbia University",
+    "community_id":2
+  },
+  {
+    "institution":"University of Bern",
+    "community_id":2
+  },
+  {
+    "institution":"University of Warwick",
+    "community_id":0
+  },
+  {
+    "institution":"University of Delaware",
+    "community_id":0
+  },
+  {
+    "institution":"Fox Chase Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Moffitt Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"The University of Texas Southwestern Medical Center",
+    "community_id":7
+  },
+  {
+    "institution":"University of California, Davis",
+    "community_id":7
+  },
+  {
+    "institution":"Barnes-Jewish Hospital",
+    "community_id":7
+  },
+  {
+    "institution":"City Of Hope National Medical Center",
+    "community_id":7
+  },
+  {
+    "institution":"St. Jude Children's Research Hospital",
+    "community_id":7
+  },
+  {
+    "institution":"Cleveland Clinic",
+    "community_id":7
+  },
+  {
+    "institution":"Cape Town HVTN Immunology Laboratory \/ Hutchinson Centre Research Institute of South Africa",
+    "community_id":7
+  },
+  {
+    "institution":"Seattle Cancer Care Alliance",
+    "community_id":7
+  },
+  {
+    "institution":"Breast Cancer Research Foundation",
+    "community_id":7
+  },
+  {
+    "institution":"The Ohio State University Comprehensive Cancer Center \u2013 Arthur G. James Cancer Hospital and Richard J. Solove Research Institute",
+    "community_id":7
+  },
+  {
+    "institution":"Cancer Institute (WIA)",
+    "community_id":7
+  },
+  {
+    "institution":"Susan Thompson Buffett Foundation",
+    "community_id":7
+  },
+  {
+    "institution":"Kettering University",
+    "community_id":7
+  },
+  {
+    "institution":"Jewish Hospital",
+    "community_id":7
+  },
+  {
+    "institution":"University of Wisconsin Carbone Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"University Hospitals Seidman Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Cancer Research Center",
+    "community_id":7
+  },
+  {
+    "institution":"University of Colorado Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Dana-Farber Brigham Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Sidney Kimmel Comprehensive Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Smilow Cancer Hospital",
+    "community_id":7
+  },
+  {
+    "institution":"UCSF Helen Diller Family Comprehensive Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Robert H. Lurie Comprehensive Cancer Center of Northwestern University",
+    "community_id":7
+  },
+  {
+    "institution":"Moores Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"UCLA Jonsson Comprehensive Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Vanderbilt-Ingram Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Stanford Cancer Institute",
+    "community_id":7
+  },
+  {
+    "institution":"Duke Cancer Institute",
+    "community_id":7
+  },
+  {
+    "institution":"Fred and Pamela Buffett Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"UC Davis Comprehensive Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Harold C. Simmons Comprehensive Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"O'Neal Comprehensive Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"National Comprehensive Cancer Network",
+    "community_id":7
+  },
+  {
+    "institution":"University of Utah",
+    "community_id":7
+  },
+  {
+    "institution":"Huntsman Cancer Institute",
+    "community_id":7
+  },
+  {
+    "institution":"University of Groningen",
+    "community_id":2
+  },
+  {
+    "institution":"Aarhus University",
+    "community_id":2
+  },
+  {
+    "institution":"Technical University of Denmark",
+    "community_id":2
+  },
+  {
+    "institution":"UC San Diego Health System",
+    "community_id":7
+  },
+  {
+    "institution":"Universitat de Barcelona",
+    "community_id":0
+  },
+  {
+    "institution":"University of Western Australia",
+    "community_id":0
+  },
+  {
+    "institution":"University of California, Los Angeles",
+    "community_id":2
+  },
+  {
+    "institution":"Pontificia Universidad Cat\u00f3lica de Chile",
+    "community_id":2
+  },
+  {
+    "institution":"Lund University",
+    "community_id":2
+  },
+  {
+    "institution":"Duke-NUS Medical School",
+    "community_id":2
+  },
+  {
+    "institution":"University of Nottingham",
+    "community_id":10
+  },
+  {
+    "institution":"University of Calgary",
+    "community_id":5
+  },
+  {
+    "institution":"Odense University Hospital",
+    "community_id":2
+  },
+  {
+    "institution":"Instituto Nacional de Ciencias M\u00e9dicas y Nutrici\u00f3n Salvador Zubir\u00e1n",
+    "community_id":2
+  },
+  {
+    "institution":"University of Trieste",
+    "community_id":2
+  },
+  {
+    "institution":"Universidade de S\u00e3o Paulo",
+    "community_id":2
+  },
+  {
+    "institution":"Chinese Academy of Medical Sciences & Peking Union Medical College",
+    "community_id":2
+  },
+  {
+    "institution":"Hebrew University of Jerusalem",
+    "community_id":2
+  },
+  {
+    "institution":"Centro de Investigaci\u00f3n Biom\u00e9dica en Red Diabetes y Enfermedades Metab\u00f3licas Asociadas",
+    "community_id":2
+  },
+  {
+    "institution":"National Center for Global Health and Medicine",
+    "community_id":2
+  },
+  {
+    "institution":"Hospital de Sant Pau",
+    "community_id":2
+  },
+  {
+    "institution":"University of Arizona",
+    "community_id":5
+  },
+  {
+    "institution":"Barcelona Institute for Global Health",
+    "community_id":0
+  },
+  {
+    "institution":"H\u00f4pital Lyon Sud",
+    "community_id":0
+  },
+  {
+    "institution":"University of Ottawa",
+    "community_id":0
+  },
+  {
+    "institution":"Marien Ngouabi University",
+    "community_id":0
+  },
+  {
+    "institution":"Ulsan College",
+    "community_id":5
+  },
+  {
+    "institution":"Humanitas University",
+    "community_id":5
+  },
+  {
+    "institution":"Khon Kaen University",
+    "community_id":5
+  },
+  {
+    "institution":"University of California, San Francisco",
+    "community_id":5
+  },
+  {
+    "institution":"Kyorin University",
+    "community_id":5
+  },
+  {
+    "institution":"Russian Railways",
+    "community_id":5
+  },
+  {
+    "institution":"Asan Medical Center",
+    "community_id":5
+  },
+  {
+    "institution":"University of Ulsan",
+    "community_id":5
+  },
+  {
+    "institution":"Russian Cancer Research Center NN Blokhin",
+    "community_id":5
+  },
+  {
+    "institution":"Humanity & Health",
+    "community_id":5
+  },
+  {
+    "institution":"Sri Venkateshwaraa Medical College Hospital and Research Centre",
+    "community_id":5
+  },
+  {
+    "institution":"H\u00f4pital Robert-Debr\u00e9",
+    "community_id":5
+  },
+  {
+    "institution":"Clinica Universidad de Navarra",
+    "community_id":5
+  },
+  {
+    "institution":"Mayo Clinic in Florida",
+    "community_id":5
+  },
+  {
+    "institution":"IRCCS Humanitas Research Hospital",
+    "community_id":5
+  },
+  {
+    "institution":"Kindai University",
+    "community_id":5
+  },
+  {
+    "institution":"LMU Klinikum",
+    "community_id":5
+  },
+  {
+    "institution":"Yale Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Beth Israel Deaconess Medical Center",
+    "community_id":3
+  },
+  {
+    "institution":"Universit\u00e9 de Montr\u00e9al",
+    "community_id":3
+  },
+  {
+    "institution":"Oregon Health & Science University",
+    "community_id":3
+  },
+  {
+    "institution":"Aichi Medical University Hospital",
+    "community_id":3
+  },
+  {
+    "institution":"Medical College of Wisconsin",
+    "community_id":3
+  },
+  {
+    "institution":"Barts Health NHS Trust",
+    "community_id":3
+  },
+  {
+    "institution":"Aga Khan University Nairobi",
+    "community_id":3
+  },
+  {
+    "institution":"Hotel Dieu Hospital",
+    "community_id":2
+  },
+  {
+    "institution":"Levine Cancer Institute",
+    "community_id":2
+  },
+  {
+    "institution":"City of Hope",
+    "community_id":2
+  },
+  {
+    "institution":"Homi Bhabha National Institute",
+    "community_id":3
+  },
+  {
+    "institution":"Centre International de Recherche sur le Cancer",
+    "community_id":3
+  },
+  {
+    "institution":"Roswell Park Comprehensive Cancer Center",
+    "community_id":7
+  },
+  {
+    "institution":"Dana-Farber Cancer Institute",
+    "community_id":2
+  },
+  {
+    "institution":"University of Miami",
+    "community_id":2
+  },
+  {
+    "institution":"Pennsylvania State University",
+    "community_id":2
+  },
+  {
+    "institution":"University of Leicester",
+    "community_id":2
+  },
+  {
+    "institution":"Freeman Hospital",
+    "community_id":2
+  },
+  {
+    "institution":"University of Mississippi Medical Center",
+    "community_id":2
+  },
+  {
+    "institution":"University of Leeds",
+    "community_id":2
+  },
+  {
+    "institution":"University of Ibadan",
+    "community_id":2
+  },
+  {
+    "institution":"Shanghai Jiao Tong University",
+    "community_id":2
+  },
+  {
+    "institution":"National Cancer Institute",
+    "community_id":2
+  },
+  {
+    "institution":"University of Lausanne",
+    "community_id":2
+  },
+  {
+    "institution":"Peking University",
+    "community_id":2
+  },
+  {
+    "institution":"Hospices Civils de Lyon",
+    "community_id":7
+  },
+  {
+    "institution":"Indian Institute of Technology Hyderabad",
+    "community_id":2
+  },
+  {
+    "institution":"St Petersburg University",
+    "community_id":18
+  },
+  {
+    "institution":"Indian Institute of Science Bangalore",
+    "community_id":18
+  },
+  {
+    "institution":"Rush University Medical Center",
+    "community_id":2
+  },
+  {
+    "institution":"Hong Kong Polytechnic University",
+    "community_id":19
+  },
+  {
+    "institution":"University of Piraeus",
+    "community_id":19
+  },
+  {
+    "institution":"Audencia Business School",
+    "community_id":19
+  },
+  {
+    "institution":"University of Georgia",
+    "community_id":19
+  },
+  {
+    "institution":"BI Norwegian Business School",
+    "community_id":19
+  },
+  {
+    "institution":"Curtin University",
+    "community_id":19
+  },
+  {
+    "institution":"The University of Texas Rio Grande Valley",
+    "community_id":19
+  },
+  {
+    "institution":"Swansea University",
+    "community_id":19
+  },
+  {
+    "institution":"Universit\u00e4t der Bundeswehr M\u00fcnchen",
+    "community_id":19
+  },
+  {
+    "institution":"ESIC Business & Marketing School",
+    "community_id":19
+  },
+  {
+    "institution":"National Institute of Industrial Engineering",
+    "community_id":19
+  },
+  {
+    "institution":"EAE Business School",
+    "community_id":19
+  },
+  {
+    "institution":"Symbiosis International University",
+    "community_id":19
+  },
+  {
+    "institution":"\u00c9cole de management de Normandie",
+    "community_id":19
+  },
+  {
+    "institution":"\u00c9cole de management de Lyon",
+    "community_id":19
+  },
+  {
+    "institution":"Galgotias University",
+    "community_id":12
+  },
+  {
+    "institution":"Govind Ballabh Pant University of Agriculture and Technology",
+    "community_id":12
+  },
+  {
+    "institution":"Jamia Millia Islamia",
+    "community_id":12
+  },
+  {
+    "institution":"Dr. B. R. Ambedkar National Institute of Technology Jalandhar",
+    "community_id":12
+  },
+  {
+    "institution":"Nanyang Technological University",
+    "community_id":2
+  },
+  {
+    "institution":"Simon Fraser University",
+    "community_id":2
+  },
+  {
+    "institution":"Sri Ramachandra Institute of Higher Education and Research",
+    "community_id":6
+  },
+  {
+    "institution":"Sri Sivasubramaniya Nadar College of Engineering",
+    "community_id":6
+  },
+  {
+    "institution":"Fondazione IRCCS Istituto Nazionale dei Tumori",
+    "community_id":2
+  },
+  {
+    "institution":"Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats",
+    "community_id":10
+  },
+  {
+    "institution":"Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas",
+    "community_id":10
+  },
+  {
+    "institution":"University of Ghana",
+    "community_id":10
+  },
+  {
+    "institution":"Addis Ababa University",
+    "community_id":10
+  },
+  {
+    "institution":"University of Cape Town",
+    "community_id":2
+  },
+  {
+    "institution":"Murdoch Children's Research Institute",
+    "community_id":2
+  },
+  {
+    "institution":"Red Cross War Memorial Children's Hospital",
+    "community_id":2
+  },
+  {
+    "institution":"University of the Witwatersrand",
+    "community_id":0
+  },
+  {
+    "institution":"Oregon State University",
+    "community_id":0
+  },
+  {
+    "institution":"Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+    "community_id":0
+  },
+  {
+    "institution":"All India Institute of Medical Sciences",
+    "community_id":13
+  },
+  {
+    "institution":"All India Institute of Medical Sciences Raipur",
+    "community_id":13
+  },
+  {
+    "institution":"All India Institute of Medical Sciences Bhopal",
+    "community_id":13
+  },
+  {
+    "institution":"Georgia State University",
+    "community_id":14
+  },
+  {
+    "institution":"Swinburne University of Technology",
+    "community_id":14
+  },
+  {
+    "institution":"Malaviya National Institute of Technology Jaipur",
+    "community_id":14
+  },
+  {
+    "institution":"Swinburne University of Technology Sarawak Campus",
+    "community_id":14
+  },
+  {
+    "institution":"Keck Hospital of USC",
+    "community_id":2
+  },
+  {
+    "institution":"The Francis Crick Institute",
+    "community_id":2
+  },
+  {
+    "institution":"Lovely Professional University",
+    "community_id":15
+  },
+  {
+    "institution":"Central University of Rajasthan",
+    "community_id":15
+  },
+  {
+    "institution":"Peter the Great St. Petersburg Polytechnic University",
+    "community_id":15
+  },
+  {
+    "institution":"Uttaranchal University",
+    "community_id":15
+  },
+  {
+    "institution":"University of Nairobi",
+    "community_id":16
+  },
+  {
+    "institution":"Karolinska Institutet",
+    "community_id":16
+  },
+  {
+    "institution":"University of Kinshasa",
+    "community_id":16
+  },
+  {
+    "institution":"Sorbonne Universit\u00e9",
+    "community_id":2
+  },
+  {
+    "institution":"Western University",
+    "community_id":10
+  },
+  {
+    "institution":"Universidade do Porto",
+    "community_id":10
+  },
+  {
+    "institution":"Manipal Academy of Higher Education",
+    "community_id":17
+  },
+  {
+    "institution":"Kasturba Medical College, Manipal",
+    "community_id":17
+  },
+  {
+    "institution":"Nitte University",
+    "community_id":17
+  },
+  {
+    "institution":"University of Glasgow",
+    "community_id":2
+  },
+  {
+    "institution":"Kumamoto University",
+    "community_id":2
+  },
+  {
+    "institution":"EcoHealth Alliance",
+    "community_id":2
+  },
+  {
+    "institution":"Carnegie Mellon University",
+    "community_id":10
+  },
+  {
+    "institution":"University of Delhi",
+    "community_id":20
+  },
+  {
+    "institution":"Dr. Yashwant Singh Parmar University of Horticulture and Forestry",
+    "community_id":20
+  },
+  {
+    "institution":"University of Akron",
+    "community_id":14
+  },
+  {
+    "institution":"Free University of Bozen-Bolzano",
+    "community_id":14
+  },
+  {
+    "institution":"Bursa Uluda\u011f \u00dcni\u0307versi\u0307tesi\u0307",
+    "community_id":1
+  },
+  {
+    "institution":"Jazan University",
+    "community_id":1
+  },
+  {
+    "institution":"University of Cagliari",
+    "community_id":4
+  },
+  {
+    "institution":"Centre for Advanced Bioenergy Research",
+    "community_id":4
+  },
+  {
+    "institution":"International Centre for Genetic Engineering and Biotechnology",
+    "community_id":4
+  },
+  {
+    "institution":"Saveetha University",
+    "community_id":6
+  },
+  {
+    "institution":"Rajalakshmi Engineering College",
+    "community_id":6
+  },
+  {
+    "institution":"University of Sharjah",
+    "community_id":10
+  },
+  {
+    "institution":"Universit\u00e9 Bourgogne Franche-Comt\u00e9",
+    "community_id":10
+  },
+  {
+    "institution":"Central Electrochemical Research Institute",
+    "community_id":8
+  },
+  {
+    "institution":"Academy of Scientific and Innovative Research",
+    "community_id":8
+  },
+  {
+    "institution":"Daffodil International University",
+    "community_id":9
+  },
+  {
+    "institution":"University of Dhaka",
+    "community_id":9
+  },
+  {
+    "institution":"BGC Trust University Bangladesh",
+    "community_id":9
+  },
+  {
+    "institution":"Sharda University",
+    "community_id":9
+  },
+  {
+    "institution":"University of Tarapac\u00e1",
+    "community_id":6
+  },
+  {
+    "institution":"Tabriz University of Medical Sciences",
+    "community_id":11
+  },
+  {
+    "institution":"Sechenov University",
+    "community_id":11
+  }
+]

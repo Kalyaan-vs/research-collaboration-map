@@ -1,0 +1,6766 @@
+[
+  {
+    "institution":"Centre National de la Recherche Scientifique",
+    "betweenness_centrality":0.0597149665
+  },
+  {
+    "institution":"National University of Singapore",
+    "betweenness_centrality":0.0294787818
+  },
+  {
+    "institution":"University College London",
+    "betweenness_centrality":0.0283952985
+  },
+  {
+    "institution":"The University of Tokyo",
+    "betweenness_centrality":0.0263734139
+  },
+  {
+    "institution":"University of Western Australia",
+    "betweenness_centrality":0.0262134375
+  },
+  {
+    "institution":"University of Queensland",
+    "betweenness_centrality":0.0250136883
+  },
+  {
+    "institution":"University of Michigan\u2013Ann Arbor",
+    "betweenness_centrality":0.0237466618
+  },
+  {
+    "institution":"Duke University",
+    "betweenness_centrality":0.0233322838
+  },
+  {
+    "institution":"University of Melbourne",
+    "betweenness_centrality":0.0202606386
+  },
+  {
+    "institution":"Harvard University",
+    "betweenness_centrality":0.0192089209
+  },
+  {
+    "institution":"Vellore Institute of Technology University",
+    "betweenness_centrality":0.0190100021
+  },
+  {
+    "institution":"The University of Texas Rio Grande Valley",
+    "betweenness_centrality":0.0188979568
+  },
+  {
+    "institution":"Sejong University",
+    "betweenness_centrality":0.0182565703
+  },
+  {
+    "institution":"UNSW Sydney",
+    "betweenness_centrality":0.0179615215
+  },
+  {
+    "institution":"Inserm",
+    "betweenness_centrality":0.0171991203
+  },
+  {
+    "institution":"University of Nottingham",
+    "betweenness_centrality":0.0168771837
+  },
+  {
+    "institution":"University of Cambridge",
+    "betweenness_centrality":0.0163286749
+  },
+  {
+    "institution":"Goethe University Frankfurt",
+    "betweenness_centrality":0.0147772394
+  },
+  {
+    "institution":"University of California, San Diego",
+    "betweenness_centrality":0.0145063343
+  },
+  {
+    "institution":"University of Helsinki",
+    "betweenness_centrality":0.0139428248
+  },
+  {
+    "institution":"Christ University",
+    "betweenness_centrality":0.0138474304
+  },
+  {
+    "institution":"Universitat de Barcelona",
+    "betweenness_centrality":0.0138415387
+  },
+  {
+    "institution":"Heidelberg University",
+    "betweenness_centrality":0.0130984954
+  },
+  {
+    "institution":"University of T\u00fcbingen",
+    "betweenness_centrality":0.0130666379
+  },
+  {
+    "institution":"University of Indonesia",
+    "betweenness_centrality":0.0127498258
+  },
+  {
+    "institution":"Imperial College London",
+    "betweenness_centrality":0.0127000184
+  },
+  {
+    "institution":"Chinese Academy of Sciences",
+    "betweenness_centrality":0.0124163318
+  },
+  {
+    "institution":"Manipal Academy of Higher Education",
+    "betweenness_centrality":0.0123558049
+  },
+  {
+    "institution":"University of Oxford",
+    "betweenness_centrality":0.0119412355
+  },
+  {
+    "institution":"University of Johannesburg",
+    "betweenness_centrality":0.0119264649
+  },
+  {
+    "institution":"Hong Kong Baptist University",
+    "betweenness_centrality":0.0115582901
+  },
+  {
+    "institution":"King Khalid University",
+    "betweenness_centrality":0.0114723582
+  },
+  {
+    "institution":"Yale University",
+    "betweenness_centrality":0.0114653484
+  },
+  {
+    "institution":"Monash University",
+    "betweenness_centrality":0.0111817656
+  },
+  {
+    "institution":"University of Southern Denmark",
+    "betweenness_centrality":0.0109292502
+  },
+  {
+    "institution":"University of Lisbon",
+    "betweenness_centrality":0.0109054195
+  },
+  {
+    "institution":"University of Turin",
+    "betweenness_centrality":0.0108987773
+  },
+  {
+    "institution":"Newcastle University",
+    "betweenness_centrality":0.0105489831
+  },
+  {
+    "institution":"Erasmus MC",
+    "betweenness_centrality":0.0104928425
+  },
+  {
+    "institution":"Thapar Institute of Engineering & Technology",
+    "betweenness_centrality":0.0104112584
+  },
+  {
+    "institution":"Umm al-Qura University",
+    "betweenness_centrality":0.0103986463
+  },
+  {
+    "institution":"University of Tartu",
+    "betweenness_centrality":0.0101457013
+  },
+  {
+    "institution":"Tehran University of Medical Sciences",
+    "betweenness_centrality":0.0101175644
+  },
+  {
+    "institution":"King Saud University",
+    "betweenness_centrality":0.0100169989
+  },
+  {
+    "institution":"Universiti Tunku Abdul Rahman",
+    "betweenness_centrality":0.0094648819
+  },
+  {
+    "institution":"China Medical University",
+    "betweenness_centrality":0.0092488465
+  },
+  {
+    "institution":"Universidade de S\u00e3o Paulo",
+    "betweenness_centrality":0.0087130123
+  },
+  {
+    "institution":"University of Padua",
+    "betweenness_centrality":0.0086673917
+  },
+  {
+    "institution":"Tel Aviv University",
+    "betweenness_centrality":0.0085600897
+  },
+  {
+    "institution":"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+    "betweenness_centrality":0.0082450316
+  },
+  {
+    "institution":"Norwegian University of Science and Technology",
+    "betweenness_centrality":0.0081310773
+  },
+  {
+    "institution":"Amity University",
+    "betweenness_centrality":0.008105036
+  },
+  {
+    "institution":"University of Sydney",
+    "betweenness_centrality":0.0077817577
+  },
+  {
+    "institution":"University of Pennsylvania",
+    "betweenness_centrality":0.007770067
+  },
+  {
+    "institution":"Johannes Gutenberg University Mainz",
+    "betweenness_centrality":0.0076957673
+  },
+  {
+    "institution":"Queen Elizabeth Hospital",
+    "betweenness_centrality":0.0076197386
+  },
+  {
+    "institution":"University of Edinburgh",
+    "betweenness_centrality":0.0075945251
+  },
+  {
+    "institution":"Curtin University",
+    "betweenness_centrality":0.0075201751
+  },
+  {
+    "institution":"University of Washington",
+    "betweenness_centrality":0.0074765803
+  },
+  {
+    "institution":"Ben-Gurion University of the Negev",
+    "betweenness_centrality":0.007324699
+  },
+  {
+    "institution":"Technical University of Denmark",
+    "betweenness_centrality":0.0072502334
+  },
+  {
+    "institution":"Sri Ramachandra Institute of Higher Education and Research",
+    "betweenness_centrality":0.0070645026
+  },
+  {
+    "institution":"University of Portsmouth",
+    "betweenness_centrality":0.0070516667
+  },
+  {
+    "institution":"University of Tehran",
+    "betweenness_centrality":0.0069892608
+  },
+  {
+    "institution":"All India Institute of Medical Sciences",
+    "betweenness_centrality":0.0069303521
+  },
+  {
+    "institution":"National Taiwan University Hospital",
+    "betweenness_centrality":0.006926713
+  },
+  {
+    "institution":"Stanford University",
+    "betweenness_centrality":0.0067411879
+  },
+  {
+    "institution":"King's College London",
+    "betweenness_centrality":0.0067346499
+  },
+  {
+    "institution":"University of Turku",
+    "betweenness_centrality":0.0067330039
+  },
+  {
+    "institution":"University of Miami",
+    "betweenness_centrality":0.0066581052
+  },
+  {
+    "institution":"Universit\u00e9 de Montpellier",
+    "betweenness_centrality":0.0066080431
+  },
+  {
+    "institution":"Kyoto University",
+    "betweenness_centrality":0.0065677861
+  },
+  {
+    "institution":"University of Pittsburgh",
+    "betweenness_centrality":0.0064521505
+  },
+  {
+    "institution":"Delft University of Technology",
+    "betweenness_centrality":0.0064084709
+  },
+  {
+    "institution":"University of Warwick",
+    "betweenness_centrality":0.0063840513
+  },
+  {
+    "institution":"University of Ottawa",
+    "betweenness_centrality":0.0063441889
+  },
+  {
+    "institution":"University of Electronic Science and Technology of China",
+    "betweenness_centrality":0.0061898972
+  },
+  {
+    "institution":"Durham University",
+    "betweenness_centrality":0.0060203853
+  },
+  {
+    "institution":"Central Pollution Control Board",
+    "betweenness_centrality":0.0057910391
+  },
+  {
+    "institution":"University of Cyprus",
+    "betweenness_centrality":0.0057653644
+  },
+  {
+    "institution":"Massachusetts General Hospital",
+    "betweenness_centrality":0.0057161502
+  },
+  {
+    "institution":"The Ohio State University",
+    "betweenness_centrality":0.0056784149
+  },
+  {
+    "institution":"King Abdulaziz University",
+    "betweenness_centrality":0.0056352091
+  },
+  {
+    "institution":"Memorial Sloan Kettering Cancer Center",
+    "betweenness_centrality":0.0055871537
+  },
+  {
+    "institution":"Universidade do Porto",
+    "betweenness_centrality":0.0055369908
+  },
+  {
+    "institution":"Saveetha University",
+    "betweenness_centrality":0.0054722129
+  },
+  {
+    "institution":"LMU Klinikum",
+    "betweenness_centrality":0.005470959
+  },
+  {
+    "institution":"COMSATS University Islamabad",
+    "betweenness_centrality":0.0053765052
+  },
+  {
+    "institution":"Institute of Genomics and Integrative Biology",
+    "betweenness_centrality":0.0053548509
+  },
+  {
+    "institution":"Chinese University of Hong Kong",
+    "betweenness_centrality":0.0052417211
+  },
+  {
+    "institution":"Western University",
+    "betweenness_centrality":0.0051952003
+  },
+  {
+    "institution":"Ghent University",
+    "betweenness_centrality":0.0051948367
+  },
+  {
+    "institution":"Emory University",
+    "betweenness_centrality":0.0051086195
+  },
+  {
+    "institution":"University of Amsterdam",
+    "betweenness_centrality":0.0050637606
+  },
+  {
+    "institution":"Utrecht University",
+    "betweenness_centrality":0.0050595285
+  },
+  {
+    "institution":"University of British Columbia",
+    "betweenness_centrality":0.0049875801
+  },
+  {
+    "institution":"University of Buenos Aires",
+    "betweenness_centrality":0.0048963645
+  },
+  {
+    "institution":"Indian Council of Agricultural Research",
+    "betweenness_centrality":0.0048499961
+  },
+  {
+    "institution":"University of Virginia",
+    "betweenness_centrality":0.0048489163
+  },
+  {
+    "institution":"Karolinska Institutet",
+    "betweenness_centrality":0.0048318674
+  },
+  {
+    "institution":"Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas",
+    "betweenness_centrality":0.0047524744
+  },
+  {
+    "institution":"Nanyang Technological University",
+    "betweenness_centrality":0.004718124
+  },
+  {
+    "institution":"University of Bristol",
+    "betweenness_centrality":0.0046754263
+  },
+  {
+    "institution":"Johns Hopkins University",
+    "betweenness_centrality":0.0046488109
+  },
+  {
+    "institution":"Aarhus University",
+    "betweenness_centrality":0.0045318451
+  },
+  {
+    "institution":"Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "betweenness_centrality":0.0045046315
+  },
+  {
+    "institution":"Charles University",
+    "betweenness_centrality":0.0044988345
+  },
+  {
+    "institution":"National Cancer Institute",
+    "betweenness_centrality":0.0043612617
+  },
+  {
+    "institution":"Indian Institute of Science Bangalore",
+    "betweenness_centrality":0.0043374381
+  },
+  {
+    "institution":"University of Geneva",
+    "betweenness_centrality":0.0042435826
+  },
+  {
+    "institution":"Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+    "betweenness_centrality":0.0042043772
+  },
+  {
+    "institution":"Boston Children's Hospital",
+    "betweenness_centrality":0.0041954264
+  },
+  {
+    "institution":"SRM University",
+    "betweenness_centrality":0.0041665165
+  },
+  {
+    "institution":"University of Tarapac\u00e1",
+    "betweenness_centrality":0.0041633836
+  },
+  {
+    "institution":"Chandigarh University",
+    "betweenness_centrality":0.0040465604
+  },
+  {
+    "institution":"University of Calgary",
+    "betweenness_centrality":0.0040169978
+  },
+  {
+    "institution":"Rudjer Boskovic Institute",
+    "betweenness_centrality":0.0039918191
+  },
+  {
+    "institution":"Universitat Aut\u00f2noma de Barcelona",
+    "betweenness_centrality":0.0039588435
+  },
+  {
+    "institution":"Indiana University",
+    "betweenness_centrality":0.0039220401
+  },
+  {
+    "institution":"University of Nairobi",
+    "betweenness_centrality":0.003902332
+  },
+  {
+    "institution":"University of Colorado Denver",
+    "betweenness_centrality":0.0038502039
+  },
+  {
+    "institution":"Kyushu University",
+    "betweenness_centrality":0.003812338
+  },
+  {
+    "institution":"Northeastern University",
+    "betweenness_centrality":0.0037916363
+  },
+  {
+    "institution":"UCSI University",
+    "betweenness_centrality":0.0037616679
+  },
+  {
+    "institution":"Universidad de Granada",
+    "betweenness_centrality":0.0037469933
+  },
+  {
+    "institution":"Washington University in St. Louis",
+    "betweenness_centrality":0.0036328988
+  },
+  {
+    "institution":"Czech University of Life Sciences Prague",
+    "betweenness_centrality":0.0036088221
+  },
+  {
+    "institution":"Simon Fraser University",
+    "betweenness_centrality":0.003531196
+  },
+  {
+    "institution":"University of Southern California",
+    "betweenness_centrality":0.0035050832
+  },
+  {
+    "institution":"University of North Carolina at Chapel Hill",
+    "betweenness_centrality":0.003480501
+  },
+  {
+    "institution":"Nanjing Medical University",
+    "betweenness_centrality":0.0034796249
+  },
+  {
+    "institution":"University of Petroleum and Energy Studies",
+    "betweenness_centrality":0.0034719342
+  },
+  {
+    "institution":"University of Freiburg",
+    "betweenness_centrality":0.0033901439
+  },
+  {
+    "institution":"Swansea University",
+    "betweenness_centrality":0.0033895574
+  },
+  {
+    "institution":"Purdue University West Lafayette",
+    "betweenness_centrality":0.003388874
+  },
+  {
+    "institution":"BGC Trust University Bangladesh",
+    "betweenness_centrality":0.0033150276
+  },
+  {
+    "institution":"Addis Ababa University",
+    "betweenness_centrality":0.0032541327
+  },
+  {
+    "institution":"Chiang Mai University",
+    "betweenness_centrality":0.0032483103
+  },
+  {
+    "institution":"Radboud University Medical Center",
+    "betweenness_centrality":0.0032384338
+  },
+  {
+    "institution":"Radboud University Nijmegen",
+    "betweenness_centrality":0.0032384338
+  },
+  {
+    "institution":"University of Toronto",
+    "betweenness_centrality":0.0032348474
+  },
+  {
+    "institution":"Hebrew University of Jerusalem",
+    "betweenness_centrality":0.003227472
+  },
+  {
+    "institution":"Turku University Hospital",
+    "betweenness_centrality":0.0031842995
+  },
+  {
+    "institution":"Cancer Institute (WIA)",
+    "betweenness_centrality":0.0031406448
+  },
+  {
+    "institution":"University of Copenhagen",
+    "betweenness_centrality":0.0031288849
+  },
+  {
+    "institution":"University of Maryland, College Park",
+    "betweenness_centrality":0.0030448517
+  },
+  {
+    "institution":"University of Chicago",
+    "betweenness_centrality":0.002988262
+  },
+  {
+    "institution":"\u00c9cole de management de Normandie",
+    "betweenness_centrality":0.0029618974
+  },
+  {
+    "institution":"Indian Institute of Technology Kharagpur",
+    "betweenness_centrality":0.002948156
+  },
+  {
+    "institution":"University of Ghana",
+    "betweenness_centrality":0.0029369667
+  },
+  {
+    "institution":"Roswell Park Comprehensive Cancer Center",
+    "betweenness_centrality":0.0029355936
+  },
+  {
+    "institution":"Zayed University",
+    "betweenness_centrality":0.0029318489
+  },
+  {
+    "institution":"Massachusetts Institute of Technology",
+    "betweenness_centrality":0.0028320849
+  },
+  {
+    "institution":"Novo Nordisk Foundation",
+    "betweenness_centrality":0.0027607536
+  },
+  {
+    "institution":"Taif University",
+    "betweenness_centrality":0.0026933418
+  },
+  {
+    "institution":"University of Vienna",
+    "betweenness_centrality":0.0026550199
+  },
+  {
+    "institution":"Texas A&M University",
+    "betweenness_centrality":0.0026468456
+  },
+  {
+    "institution":"Odense University Hospital",
+    "betweenness_centrality":0.0026415616
+  },
+  {
+    "institution":"Institut de Recherche pour le D\u00e9veloppement",
+    "betweenness_centrality":0.0026313658
+  },
+  {
+    "institution":"Duke-NUS Medical School",
+    "betweenness_centrality":0.0026201257
+  },
+  {
+    "institution":"University of California, Berkeley",
+    "betweenness_centrality":0.0025642374
+  },
+  {
+    "institution":"Robert Morris University Illinois",
+    "betweenness_centrality":0.0025581874
+  },
+  {
+    "institution":"Boston University",
+    "betweenness_centrality":0.0025461345
+  },
+  {
+    "institution":"Deakin University",
+    "betweenness_centrality":0.0025429824
+  },
+  {
+    "institution":"Barcelona Institute for Global Health",
+    "betweenness_centrality":0.0025210591
+  },
+  {
+    "institution":"Daffodil International University",
+    "betweenness_centrality":0.0024939508
+  },
+  {
+    "institution":"University of Dhaka",
+    "betweenness_centrality":0.0024939508
+  },
+  {
+    "institution":"Vrije Universiteit Amsterdam",
+    "betweenness_centrality":0.0024765182
+  },
+  {
+    "institution":"Brazilian Agricultural Research Corporation",
+    "betweenness_centrality":0.0024086894
+  },
+  {
+    "institution":"Baylor College of Medicine",
+    "betweenness_centrality":0.0023764282
+  },
+  {
+    "institution":"Hospices Civils de Lyon",
+    "betweenness_centrality":0.0023748821
+  },
+  {
+    "institution":"University of Ljubljana",
+    "betweenness_centrality":0.0023747077
+  },
+  {
+    "institution":"Queen Mary University of London",
+    "betweenness_centrality":0.002359264
+  },
+  {
+    "institution":"Indian Institute of Management Ahmedabad",
+    "betweenness_centrality":0.0023425709
+  },
+  {
+    "institution":"Cornell University",
+    "betweenness_centrality":0.002335046
+  },
+  {
+    "institution":"Universitat Polit\u00e8cnica de Val\u00e8ncia",
+    "betweenness_centrality":0.002320825
+  },
+  {
+    "institution":"Indian Institute of Technology Delhi",
+    "betweenness_centrality":0.0023207803
+  },
+  {
+    "institution":"Indian Statistical Institute",
+    "betweenness_centrality":0.0023206197
+  },
+  {
+    "institution":"KU Leuven",
+    "betweenness_centrality":0.0023147684
+  },
+  {
+    "institution":"The University of Texas at Austin",
+    "betweenness_centrality":0.0022986306
+  },
+  {
+    "institution":"Beth Israel Deaconess Medical Center",
+    "betweenness_centrality":0.002258603
+  },
+  {
+    "institution":"University of Delhi",
+    "betweenness_centrality":0.0022298396
+  },
+  {
+    "institution":"Sharda University",
+    "betweenness_centrality":0.0022263973
+  },
+  {
+    "institution":"Icahn School of Medicine at Mount Sinai",
+    "betweenness_centrality":0.0022005693
+  },
+  {
+    "institution":"University of Alabama at Birmingham",
+    "betweenness_centrality":0.0021806514
+  },
+  {
+    "institution":"University College Dublin",
+    "betweenness_centrality":0.0021762838
+  },
+  {
+    "institution":"University of Bern",
+    "betweenness_centrality":0.0021494163
+  },
+  {
+    "institution":"Lovely Professional University",
+    "betweenness_centrality":0.0021142984
+  },
+  {
+    "institution":"Sunway University",
+    "betweenness_centrality":0.00210829
+  },
+  {
+    "institution":"University of Hyderabad",
+    "betweenness_centrality":0.0021041261
+  },
+  {
+    "institution":"University of California, San Francisco",
+    "betweenness_centrality":0.0020936756
+  },
+  {
+    "institution":"Symbiosis International University",
+    "betweenness_centrality":0.002092369
+  },
+  {
+    "institution":"Normandie Universit\u00e9",
+    "betweenness_centrality":0.0020912411
+  },
+  {
+    "institution":"Columbia University",
+    "betweenness_centrality":0.0020911416
+  },
+  {
+    "institution":"University of Leeds",
+    "betweenness_centrality":0.0020660763
+  },
+  {
+    "institution":"University of Manchester",
+    "betweenness_centrality":0.0020644661
+  },
+  {
+    "institution":"Amsterdam University Medical Centers",
+    "betweenness_centrality":0.0020280407
+  },
+  {
+    "institution":"University of Tennessee Health Science Center",
+    "betweenness_centrality":0.0020270112
+  },
+  {
+    "institution":"Osaka University",
+    "betweenness_centrality":0.0020260971
+  },
+  {
+    "institution":"Shanghai Jiao Tong University",
+    "betweenness_centrality":0.0019561528
+  },
+  {
+    "institution":"University of Groningen",
+    "betweenness_centrality":0.0019514138
+  },
+  {
+    "institution":"University of Delaware",
+    "betweenness_centrality":0.0019401548
+  },
+  {
+    "institution":"Rigshospitalet",
+    "betweenness_centrality":0.0019236634
+  },
+  {
+    "institution":"Humboldt-Universit\u00e4t zu Berlin",
+    "betweenness_centrality":0.001884648
+  },
+  {
+    "institution":"Tohoku University",
+    "betweenness_centrality":0.001884648
+  },
+  {
+    "institution":"Lancaster University",
+    "betweenness_centrality":0.0018842466
+  },
+  {
+    "institution":"Indian Institute of Technology Hyderabad",
+    "betweenness_centrality":0.0018791774
+  },
+  {
+    "institution":"Centers for Disease Control and Prevention",
+    "betweenness_centrality":0.0018765854
+  },
+  {
+    "institution":"Fudan University",
+    "betweenness_centrality":0.0018683642
+  },
+  {
+    "institution":"University of Minnesota",
+    "betweenness_centrality":0.0018545367
+  },
+  {
+    "institution":"Georgia State University",
+    "betweenness_centrality":0.0018417507
+  },
+  {
+    "institution":"University of Manitoba",
+    "betweenness_centrality":0.0018354802
+  },
+  {
+    "institution":"Austrian Academy of Sciences",
+    "betweenness_centrality":0.0018293503
+  },
+  {
+    "institution":"Dr. B. R. Ambedkar National Institute of Technology Jalandhar",
+    "betweenness_centrality":0.0017694871
+  },
+  {
+    "institution":"Nagoya University",
+    "betweenness_centrality":0.0017377957
+  },
+  {
+    "institution":"Central University of Rajasthan",
+    "betweenness_centrality":0.0017187453
+  },
+  {
+    "institution":"Central University of Punjab",
+    "betweenness_centrality":0.0017103396
+  },
+  {
+    "institution":"University of Akron",
+    "betweenness_centrality":0.00170152
+  },
+  {
+    "institution":"Brigham and Women's Hospital",
+    "betweenness_centrality":0.0016951032
+  },
+  {
+    "institution":"The University of Texas MD Anderson Cancer Center",
+    "betweenness_centrality":0.0016846611
+  },
+  {
+    "institution":"Malaviya National Institute of Technology Jaipur",
+    "betweenness_centrality":0.0016806218
+  },
+  {
+    "institution":"University of Ibadan",
+    "betweenness_centrality":0.0016694097
+  },
+  {
+    "institution":"University of Kinshasa",
+    "betweenness_centrality":0.0016570047
+  },
+  {
+    "institution":"National Institute of Industrial Engineering",
+    "betweenness_centrality":0.00165116
+  },
+  {
+    "institution":"Jamia Millia Islamia",
+    "betweenness_centrality":0.0016481103
+  },
+  {
+    "institution":"Yonsei University",
+    "betweenness_centrality":0.0016392007
+  },
+  {
+    "institution":"University of Adelaide",
+    "betweenness_centrality":0.0016309102
+  },
+  {
+    "institution":"Georgia Institute of Technology",
+    "betweenness_centrality":0.0016185894
+  },
+  {
+    "institution":"University of Southampton",
+    "betweenness_centrality":0.0016151172
+  },
+  {
+    "institution":"Wayne State University",
+    "betweenness_centrality":0.0016139731
+  },
+  {
+    "institution":"Queen's University",
+    "betweenness_centrality":0.0016098287
+  },
+  {
+    "institution":"Trinity College Dublin",
+    "betweenness_centrality":0.0016086055
+  },
+  {
+    "institution":"Sorbonne Universit\u00e9",
+    "betweenness_centrality":0.0015965543
+  },
+  {
+    "institution":"Finnish Institute for Health and Welfare",
+    "betweenness_centrality":0.0015872271
+  },
+  {
+    "institution":"Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+    "betweenness_centrality":0.0015756256
+  },
+  {
+    "institution":"University of the Witwatersrand",
+    "betweenness_centrality":0.0015119871
+  },
+  {
+    "institution":"Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives",
+    "betweenness_centrality":0.0014909242
+  },
+  {
+    "institution":"Indiana University Melvin and Bren Simon Comprehensive Cancer Center",
+    "betweenness_centrality":0.0014851719
+  },
+  {
+    "institution":"WinnMed",
+    "betweenness_centrality":0.0014690323
+  },
+  {
+    "institution":"Qatar University",
+    "betweenness_centrality":0.0014587206
+  },
+  {
+    "institution":"EcoHealth Alliance",
+    "betweenness_centrality":0.0014537514
+  },
+  {
+    "institution":"National Institutes of Health",
+    "betweenness_centrality":0.0014481866
+  },
+  {
+    "institution":"Public Health Foundation of India",
+    "betweenness_centrality":0.0014250415
+  },
+  {
+    "institution":"Oregon State University",
+    "betweenness_centrality":0.0014190139
+  },
+  {
+    "institution":"University of Alberta",
+    "betweenness_centrality":0.0013169651
+  },
+  {
+    "institution":"Nottingham University Hospitals NHS Trust",
+    "betweenness_centrality":0.0012961856
+  },
+  {
+    "institution":"Heinrich Heine University D\u00fcsseldorf",
+    "betweenness_centrality":0.001282655
+  },
+  {
+    "institution":"National University Health System",
+    "betweenness_centrality":0.0012741412
+  },
+  {
+    "institution":"Universit\u00e4t Ulm",
+    "betweenness_centrality":0.0012564377
+  },
+  {
+    "institution":"Homi Bhabha National Institute",
+    "betweenness_centrality":0.0012549825
+  },
+  {
+    "institution":"Universit\u00e9 de Bordeaux",
+    "betweenness_centrality":0.0012548103
+  },
+  {
+    "institution":"Govind Ballabh Pant University of Agriculture and Technology",
+    "betweenness_centrality":0.0012491168
+  },
+  {
+    "institution":"Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats",
+    "betweenness_centrality":0.0012482691
+  },
+  {
+    "institution":"University of Auckland",
+    "betweenness_centrality":0.0012416325
+  },
+  {
+    "institution":"Research Advocacy Network",
+    "betweenness_centrality":0.0011990142
+  },
+  {
+    "institution":"University of Pretoria",
+    "betweenness_centrality":0.0011969205
+  },
+  {
+    "institution":"St Petersburg University",
+    "betweenness_centrality":0.0011963933
+  },
+  {
+    "institution":"H\u00f4pital Robert-Debr\u00e9",
+    "betweenness_centrality":0.0011940892
+  },
+  {
+    "institution":"University of York",
+    "betweenness_centrality":0.0011846183
+  },
+  {
+    "institution":"Zoological Society of London",
+    "betweenness_centrality":0.0011732816
+  },
+  {
+    "institution":"Vanderbilt University Medical Center",
+    "betweenness_centrality":0.0011722547
+  },
+  {
+    "institution":"Lund University",
+    "betweenness_centrality":0.0011618892
+  },
+  {
+    "institution":"Narsee Monjee Institute of Management Studies",
+    "betweenness_centrality":0.0011610105
+  },
+  {
+    "institution":"Free University of Bozen-Bolzano",
+    "betweenness_centrality":0.0011459741
+  },
+  {
+    "institution":"World Health Organization",
+    "betweenness_centrality":0.0011162104
+  },
+  {
+    "institution":"The University of Texas Southwestern Medical Center",
+    "betweenness_centrality":0.0011140946
+  },
+  {
+    "institution":"Northwestern University",
+    "betweenness_centrality":0.0011098609
+  },
+  {
+    "institution":"Robert Bosch Hospital",
+    "betweenness_centrality":0.0010791994
+  },
+  {
+    "institution":"University of Cape Town",
+    "betweenness_centrality":0.0010722866
+  },
+  {
+    "institution":"Red Cross War Memorial Children's Hospital",
+    "betweenness_centrality":0.0010722866
+  },
+  {
+    "institution":"Murdoch Children's Research Institute",
+    "betweenness_centrality":0.0010722866
+  },
+  {
+    "institution":"Near East University",
+    "betweenness_centrality":0.0010721677
+  },
+  {
+    "institution":"VA Boston Healthcare System",
+    "betweenness_centrality":0.0010700096
+  },
+  {
+    "institution":"Jawaharlal Nehru University",
+    "betweenness_centrality":0.0010596105
+  },
+  {
+    "institution":"University of Naples Federico II",
+    "betweenness_centrality":0.0010551992
+  },
+  {
+    "institution":"Marien Ngouabi University",
+    "betweenness_centrality":0.0010551653
+  },
+  {
+    "institution":"Moffitt Cancer Center",
+    "betweenness_centrality":0.0010393894
+  },
+  {
+    "institution":"University of Agder",
+    "betweenness_centrality":0.0010358388
+  },
+  {
+    "institution":"Carnegie Mellon University",
+    "betweenness_centrality":0.0010347641
+  },
+  {
+    "institution":"University of Gothenburg",
+    "betweenness_centrality":0.001033646
+  },
+  {
+    "institution":"University of Lausanne",
+    "betweenness_centrality":0.0010256589
+  },
+  {
+    "institution":"University of Milan",
+    "betweenness_centrality":0.0010234204
+  },
+  {
+    "institution":"Dana-Farber Cancer Institute",
+    "betweenness_centrality":0.0010008647
+  },
+  {
+    "institution":"University of Utah",
+    "betweenness_centrality":0.0009915694
+  },
+  {
+    "institution":"University of Trieste",
+    "betweenness_centrality":0.0009875428
+  },
+  {
+    "institution":"Universit\u00e9 Bourgogne Franche-Comt\u00e9",
+    "betweenness_centrality":0.0009720843
+  },
+  {
+    "institution":"Dublin City University",
+    "betweenness_centrality":0.0009514452
+  },
+  {
+    "institution":"George Washington University",
+    "betweenness_centrality":0.0009335087
+  },
+  {
+    "institution":"National Human Genome Research Institute",
+    "betweenness_centrality":0.0009166764
+  },
+  {
+    "institution":"ETH Zurich",
+    "betweenness_centrality":0.0009036814
+  },
+  {
+    "institution":"Tata Memorial Hospital",
+    "betweenness_centrality":0.0009033875
+  },
+  {
+    "institution":"Academy of Scientific and Innovative Research",
+    "betweenness_centrality":0.0008921397
+  },
+  {
+    "institution":"Universidad de Los Andes",
+    "betweenness_centrality":0.0008696338
+  },
+  {
+    "institution":"Chinese Academy of Medical Sciences & Peking Union Medical College",
+    "betweenness_centrality":0.0008512064
+  },
+  {
+    "institution":"Universit\u00e9 de Montr\u00e9al",
+    "betweenness_centrality":0.0008489598
+  },
+  {
+    "institution":"Indian Institute of Technology Bombay",
+    "betweenness_centrality":0.0008331563
+  },
+  {
+    "institution":"Peking University",
+    "betweenness_centrality":0.0008297628
+  },
+  {
+    "institution":"Mudra Institute of Communications Ahmedabad",
+    "betweenness_centrality":0.0008224782
+  },
+  {
+    "institution":"Aga Khan University Nairobi",
+    "betweenness_centrality":0.000820601
+  },
+  {
+    "institution":"National Institute of Mental Health",
+    "betweenness_centrality":0.0008183465
+  },
+  {
+    "institution":"University of California, Los Angeles",
+    "betweenness_centrality":0.0008139889
+  },
+  {
+    "institution":"Universit\u00e9 Paris-Saclay",
+    "betweenness_centrality":0.0007991386
+  },
+  {
+    "institution":"University of Glasgow",
+    "betweenness_centrality":0.0007954606
+  },
+  {
+    "institution":"Pontificia Universidad Cat\u00f3lica de Chile",
+    "betweenness_centrality":0.0007757391
+  },
+  {
+    "institution":"Johns Hopkins Medicine",
+    "betweenness_centrality":0.0007754967
+  },
+  {
+    "institution":"Jagiellonian University",
+    "betweenness_centrality":0.0007748651
+  },
+  {
+    "institution":"University of California, Santa Cruz",
+    "betweenness_centrality":0.0007673324
+  },
+  {
+    "institution":"University of Leicester",
+    "betweenness_centrality":0.0007598772
+  },
+  {
+    "institution":"Wellcome Sanger Institute",
+    "betweenness_centrality":0.0007493123
+  },
+  {
+    "institution":"Instituto Nacional de Ciencias M\u00e9dicas y Nutrici\u00f3n Salvador Zubir\u00e1n",
+    "betweenness_centrality":0.0007386691
+  },
+  {
+    "institution":"University of Stavanger",
+    "betweenness_centrality":0.0007175276
+  },
+  {
+    "institution":"University of Maryland, Baltimore County",
+    "betweenness_centrality":0.0007160269
+  },
+  {
+    "institution":"University of Sharjah",
+    "betweenness_centrality":0.0007134972
+  },
+  {
+    "institution":"Dr. Yashwant Singh Parmar University of Horticulture and Forestry",
+    "betweenness_centrality":0.0006994307
+  },
+  {
+    "institution":"Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir",
+    "betweenness_centrality":0.0006988746
+  },
+  {
+    "institution":"UCSF Helen Diller Family Comprehensive Cancer Center",
+    "betweenness_centrality":0.0006983818
+  },
+  {
+    "institution":"Universit\u00e9 Paris Cit\u00e9",
+    "betweenness_centrality":0.0006963145
+  },
+  {
+    "institution":"Universidad San Francisco de Quito",
+    "betweenness_centrality":0.0006952075
+  },
+  {
+    "institution":"Fermi National Accelerator Laboratory",
+    "betweenness_centrality":0.0006866625
+  },
+  {
+    "institution":"Shoolini University",
+    "betweenness_centrality":0.0006687589
+  },
+  {
+    "institution":"Sechenov University",
+    "betweenness_centrality":0.0006685364
+  },
+  {
+    "institution":"Tabriz University of Medical Sciences",
+    "betweenness_centrality":0.0006685364
+  },
+  {
+    "institution":"University of Malaya",
+    "betweenness_centrality":0.000661181
+  },
+  {
+    "institution":"Rush University Medical Center",
+    "betweenness_centrality":0.0006578387
+  },
+  {
+    "institution":"McGill University",
+    "betweenness_centrality":0.0006548193
+  },
+  {
+    "institution":"University of W\u00fcrzburg",
+    "betweenness_centrality":0.0006545342
+  },
+  {
+    "institution":"Columbia University Irving Medical Center",
+    "betweenness_centrality":0.0006545342
+  },
+  {
+    "institution":"\u00c9cole de management de Lyon",
+    "betweenness_centrality":0.0006412777
+  },
+  {
+    "institution":"Kumamoto University",
+    "betweenness_centrality":0.0006369312
+  },
+  {
+    "institution":"Kasturba Medical College, Manipal",
+    "betweenness_centrality":0.0006367156
+  },
+  {
+    "institution":"University of Arizona",
+    "betweenness_centrality":0.0006343533
+  },
+  {
+    "institution":"Hospital de Cl\u00ednicas de Porto Alegre",
+    "betweenness_centrality":0.0006328975
+  },
+  {
+    "institution":"University of Liverpool",
+    "betweenness_centrality":0.0006307522
+  },
+  {
+    "institution":"Makerere University",
+    "betweenness_centrality":0.0006281145
+  },
+  {
+    "institution":"Oregon Health & Science University",
+    "betweenness_centrality":0.0006273674
+  },
+  {
+    "institution":"Gyeongsang National University",
+    "betweenness_centrality":0.0006227606
+  },
+  {
+    "institution":"Kaiser Permanente",
+    "betweenness_centrality":0.0006158743
+  },
+  {
+    "institution":"Jazan University",
+    "betweenness_centrality":0.0006120455
+  },
+  {
+    "institution":"Bursa Uluda\u011f \u00dcni\u0307versi\u0307tesi\u0307",
+    "betweenness_centrality":0.0006120455
+  },
+  {
+    "institution":"Cardiff University",
+    "betweenness_centrality":0.0006053101
+  },
+  {
+    "institution":"RMIT University",
+    "betweenness_centrality":0.0006042459
+  },
+  {
+    "institution":"Agency for Science, Technology and Research",
+    "betweenness_centrality":0.0006036959
+  },
+  {
+    "institution":"Children's Hospital of Philadelphia",
+    "betweenness_centrality":0.0006036959
+  },
+  {
+    "institution":"Graphic Era University",
+    "betweenness_centrality":0.0005906521
+  },
+  {
+    "institution":"Centro de Investigaci\u00f3n Biom\u00e9dica en Red Diabetes y Enfermedades Metab\u00f3licas Asociadas",
+    "betweenness_centrality":0.0005665907
+  },
+  {
+    "institution":"National Center for Global Health and Medicine",
+    "betweenness_centrality":0.0005665907
+  },
+  {
+    "institution":"Institute for High Energy Physics",
+    "betweenness_centrality":0.0005450797
+  },
+  {
+    "institution":"Barts Health NHS Trust",
+    "betweenness_centrality":0.0005388402
+  },
+  {
+    "institution":"United Nations Children's Fund",
+    "betweenness_centrality":0.0005336633
+  },
+  {
+    "institution":"University of Illinois Urbana-Champaign",
+    "betweenness_centrality":0.0005290917
+  },
+  {
+    "institution":"University of Sussex",
+    "betweenness_centrality":0.0005290917
+  },
+  {
+    "institution":"Lawrence Berkeley National Laboratory",
+    "betweenness_centrality":0.0005290917
+  },
+  {
+    "institution":"Universidad Aut\u00f3noma de Madrid",
+    "betweenness_centrality":0.0005290917
+  },
+  {
+    "institution":"University of Wisconsin\u2013Madison",
+    "betweenness_centrality":0.0005290917
+  },
+  {
+    "institution":"Argonne National Laboratory",
+    "betweenness_centrality":0.0005290917
+  },
+  {
+    "institution":"Centre Hospitalier Universitaire de Montpellier",
+    "betweenness_centrality":0.0005271624
+  },
+  {
+    "institution":"Children's Hospital of Los Angeles",
+    "betweenness_centrality":0.0005227402
+  },
+  {
+    "institution":"Hospital de Sant Pau",
+    "betweenness_centrality":0.0005200557
+  },
+  {
+    "institution":"Helmholtz Centre for Environmental Research",
+    "betweenness_centrality":0.0005152288
+  },
+  {
+    "institution":"Universit\u00e4tsklinikum Erlangen",
+    "betweenness_centrality":0.0004969984
+  },
+  {
+    "institution":"Freeman Hospital",
+    "betweenness_centrality":0.0004968385
+  },
+  {
+    "institution":"University of Mississippi Medical Center",
+    "betweenness_centrality":0.000492712
+  },
+  {
+    "institution":"Fred Hutch Cancer Center",
+    "betweenness_centrality":0.0004867945
+  },
+  {
+    "institution":"Swinburne University of Technology Sarawak Campus",
+    "betweenness_centrality":0.0004808455
+  },
+  {
+    "institution":"Kumaun University",
+    "betweenness_centrality":0.0004772933
+  },
+  {
+    "institution":"Leiden University Medical Center",
+    "betweenness_centrality":0.0004765553
+  },
+  {
+    "institution":"Jaipuria Institute of Management",
+    "betweenness_centrality":0.0004690534
+  },
+  {
+    "institution":"The Francis Crick Institute",
+    "betweenness_centrality":0.0004659136
+  },
+  {
+    "institution":"Keck Hospital of USC",
+    "betweenness_centrality":0.0004659136
+  },
+  {
+    "institution":"Singapore National Eye Center",
+    "betweenness_centrality":0.0004549846
+  },
+  {
+    "institution":"Singapore Eye Research Institute",
+    "betweenness_centrality":0.0004549846
+  },
+  {
+    "institution":"Mayo Clinic in Arizona",
+    "betweenness_centrality":0.0004422477
+  },
+  {
+    "institution":"Weill Cornell Medicine",
+    "betweenness_centrality":0.0004422477
+  },
+  {
+    "institution":"Post Graduate Institute of Medical Education and Research",
+    "betweenness_centrality":0.0004340532
+  },
+  {
+    "institution":"Ollscoil na Gaillimhe \u2013 University of Galway",
+    "betweenness_centrality":0.0004335471
+  },
+  {
+    "institution":"Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+    "betweenness_centrality":0.0004335471
+  },
+  {
+    "institution":"Seoul National University Bundang Hospital",
+    "betweenness_centrality":0.0004335471
+  },
+  {
+    "institution":"Helmholtz Zentrum M\u00fcnchen",
+    "betweenness_centrality":0.0004103402
+  },
+  {
+    "institution":"Broad Institute",
+    "betweenness_centrality":0.0004103402
+  },
+  {
+    "institution":"London School of Hygiene & Tropical Medicine",
+    "betweenness_centrality":0.000404545
+  },
+  {
+    "institution":"Copenhagen University Hospital",
+    "betweenness_centrality":0.000389398
+  },
+  {
+    "institution":"University of Tennessee at Knoxville",
+    "betweenness_centrality":0.0003658222
+  },
+  {
+    "institution":"Medical College of Wisconsin",
+    "betweenness_centrality":0.0003606743
+  },
+  {
+    "institution":"Fondazione IRCCS Istituto Nazionale dei Tumori",
+    "betweenness_centrality":0.0003496793
+  },
+  {
+    "institution":"Aichi Medical University Hospital",
+    "betweenness_centrality":0.000347029
+  },
+  {
+    "institution":"Kindai University",
+    "betweenness_centrality":0.0003469849
+  },
+  {
+    "institution":"Hospital for Sick Children",
+    "betweenness_centrality":0.0003367567
+  },
+  {
+    "institution":"Assistance Publique \u2013 H\u00f4pitaux de Paris",
+    "betweenness_centrality":0.0003367567
+  },
+  {
+    "institution":"Pennsylvania State University",
+    "betweenness_centrality":0.0003292163
+  },
+  {
+    "institution":"University Medical Center of the Johannes Gutenberg University Mainz",
+    "betweenness_centrality":0.000319045
+  },
+  {
+    "institution":"Northumbria University",
+    "betweenness_centrality":0.0003119933
+  },
+  {
+    "institution":"Google (United States)",
+    "betweenness_centrality":0.0003092855
+  },
+  {
+    "institution":"IRCCS Humanitas Research Hospital",
+    "betweenness_centrality":0.0002988202
+  },
+  {
+    "institution":"Gentofte Hospital",
+    "betweenness_centrality":0.0002974344
+  },
+  {
+    "institution":"Jackson Memorial Hospital",
+    "betweenness_centrality":0.0002974344
+  },
+  {
+    "institution":"EAE Business School",
+    "betweenness_centrality":0.0002962811
+  },
+  {
+    "institution":"University of Georgia",
+    "betweenness_centrality":0.0002962811
+  },
+  {
+    "institution":"Audencia Business School",
+    "betweenness_centrality":0.0002962811
+  },
+  {
+    "institution":"ESIC Business & Marketing School",
+    "betweenness_centrality":0.0002962811
+  },
+  {
+    "institution":"Hong Kong Polytechnic University",
+    "betweenness_centrality":0.0002962811
+  },
+  {
+    "institution":"Universit\u00e4t der Bundeswehr M\u00fcnchen",
+    "betweenness_centrality":0.0002962811
+  },
+  {
+    "institution":"University of Piraeus",
+    "betweenness_centrality":0.0002962811
+  },
+  {
+    "institution":"BI Norwegian Business School",
+    "betweenness_centrality":0.0002962811
+  },
+  {
+    "institution":"Swinburne University of Technology",
+    "betweenness_centrality":0.0002917896
+  },
+  {
+    "institution":"H\u00f4pital Lyon Sud",
+    "betweenness_centrality":0.000262054
+  },
+  {
+    "institution":"Fox Chase Cancer Center",
+    "betweenness_centrality":0.0002588339
+  },
+  {
+    "institution":"Banaras Hindu University",
+    "betweenness_centrality":0.0002584597
+  },
+  {
+    "institution":"Khon Kaen University",
+    "betweenness_centrality":0.0002507246
+  },
+  {
+    "institution":"Nitte University",
+    "betweenness_centrality":0.0002377655
+  },
+  {
+    "institution":"National Institute on Aging",
+    "betweenness_centrality":0.0002186874
+  },
+  {
+    "institution":"Universit\u00e9 de Lille",
+    "betweenness_centrality":0.0002186874
+  },
+  {
+    "institution":"Institut Pasteur de Lille",
+    "betweenness_centrality":0.0002186874
+  },
+  {
+    "institution":"McMaster University",
+    "betweenness_centrality":0.0002186874
+  },
+  {
+    "institution":"All India Institute of Medical Sciences Bhopal",
+    "betweenness_centrality":0.0002099174
+  },
+  {
+    "institution":"Pandit Deendayal Petroleum University",
+    "betweenness_centrality":0.0002033957
+  },
+  {
+    "institution":"\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+    "betweenness_centrality":0.0001799171
+  },
+  {
+    "institution":"Cleveland Clinic",
+    "betweenness_centrality":0.0001765187
+  },
+  {
+    "institution":"National Institute of Food Technology Entrepreneurship and Management",
+    "betweenness_centrality":0.0001726133
+  },
+  {
+    "institution":"Florida Polytechnic University",
+    "betweenness_centrality":0.0001692284
+  },
+  {
+    "institution":"University of Massachusetts Amherst",
+    "betweenness_centrality":0.000164064
+  },
+  {
+    "institution":"National Taiwan University",
+    "betweenness_centrality":0.000164064
+  },
+  {
+    "institution":"Centre for Cellular and Molecular Biology",
+    "betweenness_centrality":0.000164064
+  },
+  {
+    "institution":"Centre for Human Genetics",
+    "betweenness_centrality":0.000164064
+  },
+  {
+    "institution":"Wake Forest University",
+    "betweenness_centrality":0.000164064
+  },
+  {
+    "institution":"Institute of Biomedical Sciences, Academia Sinica",
+    "betweenness_centrality":0.000164064
+  },
+  {
+    "institution":"Harbor\u2013UCLA Medical Center",
+    "betweenness_centrality":0.000164064
+  },
+  {
+    "institution":"Institute for Molecular Medicine Finland",
+    "betweenness_centrality":0.000164064
+  },
+  {
+    "institution":"RIKEN Center for Integrative Medical Sciences",
+    "betweenness_centrality":0.000164064
+  },
+  {
+    "institution":"George Institute for Global Health",
+    "betweenness_centrality":0.0001615247
+  },
+  {
+    "institution":"City of Hope",
+    "betweenness_centrality":0.0001545546
+  },
+  {
+    "institution":"Hotel Dieu Hospital",
+    "betweenness_centrality":0.0001545546
+  },
+  {
+    "institution":"Levine Cancer Institute",
+    "betweenness_centrality":0.0001545546
+  },
+  {
+    "institution":"Medical University of Vienna",
+    "betweenness_centrality":0.0001536167
+  },
+  {
+    "institution":"University of California, Davis",
+    "betweenness_centrality":0.0001508244
+  },
+  {
+    "institution":"Sri Sivasubramaniya Nadar College of Engineering",
+    "betweenness_centrality":0.0001468405
+  },
+  {
+    "institution":"Indian Institute of Technology Madras",
+    "betweenness_centrality":0.0001424463
+  },
+  {
+    "institution":"Yale Cancer Center",
+    "betweenness_centrality":0.0001254983
+  },
+  {
+    "institution":"Tata Institute of Fundamental Research",
+    "betweenness_centrality":0.000116159
+  },
+  {
+    "institution":"Helsinki Institute of Physics",
+    "betweenness_centrality":0.000116159
+  },
+  {
+    "institution":"Institut Gustave Roussy",
+    "betweenness_centrality":0.0001122982
+  },
+  {
+    "institution":"Istituti di Ricovero e Cura a Carattere Scientifico",
+    "betweenness_centrality":0.0001122982
+  },
+  {
+    "institution":"Indiana University \u2013 Purdue University Indianapolis",
+    "betweenness_centrality":0.0001122982
+  },
+  {
+    "institution":"Bambino Ges\u00f9 Children's Hospital",
+    "betweenness_centrality":0.0001122982
+  },
+  {
+    "institution":"National University Cancer Institute, Singapore",
+    "betweenness_centrality":0.0001122982
+  },
+  {
+    "institution":"Jena University Hospital",
+    "betweenness_centrality":0.0001122982
+  },
+  {
+    "institution":"Garvan Institute of Medical Research",
+    "betweenness_centrality":0.0001122982
+  },
+  {
+    "institution":"Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico",
+    "betweenness_centrality":0.0001122982
+  },
+  {
+    "institution":"Dr. Margarete Fischer-Bosch-Institute of Clinical Pharmacology",
+    "betweenness_centrality":0.0001122982
+  },
+  {
+    "institution":"Texas Children's Hospital",
+    "betweenness_centrality":0.0001122982
+  },
+  {
+    "institution":"Peter the Great St. Petersburg Polytechnic University",
+    "betweenness_centrality":0.0001110176
+  },
+  {
+    "institution":"Uttaranchal University",
+    "betweenness_centrality":0.0001110176
+  },
+  {
+    "institution":"Singapore General Hospital",
+    "betweenness_centrality":0.0001049705
+  },
+  {
+    "institution":"Centre International de Recherche sur le Cancer",
+    "betweenness_centrality":0.0000939719
+  },
+  {
+    "institution":"Rajalakshmi Engineering College",
+    "betweenness_centrality":0.0000835254
+  },
+  {
+    "institution":"Queen Mary Hospital",
+    "betweenness_centrality":0.0000793781
+  },
+  {
+    "institution":"Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Enfermedades Hep\u00e1ticas y Digestivas",
+    "betweenness_centrality":0.0000793781
+  },
+  {
+    "institution":"Instituto de Investigaci\u00f3n Sanitaria del Principado de Asturias",
+    "betweenness_centrality":0.0000793781
+  },
+  {
+    "institution":"81th Hospital of PLA",
+    "betweenness_centrality":0.0000793781
+  },
+  {
+    "institution":"Universidad de Oviedo",
+    "betweenness_centrality":0.0000793781
+  },
+  {
+    "institution":"AstraZeneca (Japan)",
+    "betweenness_centrality":0.0000793781
+  },
+  {
+    "institution":"National Hospital of Pediatrics",
+    "betweenness_centrality":0.0000793781
+  },
+  {
+    "institution":"Jacksonville College",
+    "betweenness_centrality":0.0000786908
+  },
+  {
+    "institution":"AstraZeneca (United States)",
+    "betweenness_centrality":0.0000786908
+  },
+  {
+    "institution":"Hanoi Medical University Hospital",
+    "betweenness_centrality":0.0000786908
+  },
+  {
+    "institution":"Centro de Investigaci\u00f3n Biom\u00e9dica en Red",
+    "betweenness_centrality":0.0000786908
+  },
+  {
+    "institution":"Centre International de Recherche en Infectiologie",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Royal Marsden Hospital",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Institut Paoli-Calmettes",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"University of Siena",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Chi Mei Medical Center",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"S.L. Raheja Hospital",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"University Hospital Schleswig-Holstein",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Universit\u00e9 Claude Bernard Lyon 1",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Leeds Teaching Hospitals NHS Trust",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Universit\u00e4tsmedizin G\u00f6ttingen",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Instituto de Investigaci\u00f3n Marqu\u00e9s de Valdecilla",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Universidade Federal da Bahia",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Children's Hospital of Wisconsin",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"H\u00f4pital Cardiologique du Haut-L\u00e9v\u00eaque",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Mayo Clinic",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"University of L\u00fcbeck",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Fudan University Shanghai Cancer Center",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Sichuan University",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Aga Khan University Hospital Nairobi",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"West China Hospital of Sichuan University",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Marqu\u00e9s de Valdecilla University Hospital",
+    "betweenness_centrality":0.0000507687
+  },
+  {
+    "institution":"Medizinische Hochschule Hannover",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"Sahlgrenska University Hospital",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"University Hospital Leipzig",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"Guy's and St Thomas' NHS Foundation Trust",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"H\u00f4pital Cochin",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"H\u00f4pital Maisonneuve-Rosemont",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"Nationwide Children's Hospital",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"Munich Leukemia Laboratory (Germany)",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"Cincinnati Children's Hospital Medical Center",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"Indiana University School of Medicine",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"Institut Cochin",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"H\u00f4pital Ambroise-Par\u00e9",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"Hospital Infantil Universitario Ni\u00f1o Jes\u00fas",
+    "betweenness_centrality":0.0000441861
+  },
+  {
+    "institution":"Indian Institute of Technology Indore",
+    "betweenness_centrality":0.0000405324
+  },
+  {
+    "institution":"Yeungnam University",
+    "betweenness_centrality":0.0000402271
+  },
+  {
+    "institution":"Statistical Research (United States)",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"MRC Epidemiology Unit",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Ealing Hospital",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Korea National Institute of Health",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Oxford Centre for Diabetes, Endocrinology and Metabolism",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"London North West Healthcare NHS Trust",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Population Health Research Institute",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Vejle Sygehus",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Medical Research Council",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Deutsches Diabetes-Zentrum e.V.",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Centre for Genomic Regulation",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Circadian (United States)",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"German Center for Diabetes Research",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"The Lundquist Institute",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Brown University",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"deCODE Genetics (Iceland)",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Hallym University",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"University of Vermont",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"European Genomic Institute for Diabetes",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Hamilton Health Sciences",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"Consejo Nacional de Humanidades, Ciencias y Tecnolog\u00edas",
+    "betweenness_centrality":0.0000284352
+  },
+  {
+    "institution":"All India Institute of Medical Sciences Raipur",
+    "betweenness_centrality":0.0000264371
+  },
+  {
+    "institution":"University of Colorado Anschutz Medical Campus",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Praevium Research (United States)",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"University Hospital Regensburg",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"University of Regensburg",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"NIHR Leicester Biomedical Research Centre",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"23andMe (United States)",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Kiel University",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"National Institute of Genomic Medicine",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"University of Mississippi",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Harokopio University of Athens",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Copenhagen Prospective Studies on Asthma in Childhood",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Institute for Biomedicine",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"National Health Research Institutes",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"VA Eastern Colorado Health Care System",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"William Harvey Research Institute",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Lundbeck Foundation",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Division of Cancer Epidemiology and Genetics",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Universit\u00e9 Laval",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"University Medical Centre Mannheim",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Isfahan University of Medical Sciences",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"University of Surrey",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Statens Serum Institut",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Queen's University Belfast",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"SIB Swiss Institute of Bioinformatics",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Eurac Research",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"University Medical Center Groningen",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Nanjing University of Chinese Medicine",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"RTI International",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"UCLA Medical Center",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"John Radcliffe Hospital",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Edinburgh Cancer Research",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"IRCCS Materno Infantile Burlo Garofolo",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Universit\u00e4t Innsbruck",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"QIMR Berghofer Medical Research Institute",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"University of Exeter",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Glenfield Hospital",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"University Hospital Heidelberg",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Steno Diabetes Center",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Innsbruck Medical University",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"University of Sassari",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"Mental Health Services",
+    "betweenness_centrality":0.0000202041
+  },
+  {
+    "institution":"UC San Diego Health System",
+    "betweenness_centrality":0.0000184272
+  },
+  {
+    "institution":"KPR Institute of Engineering and Technology",
+    "betweenness_centrality":0.0000180838
+  },
+  {
+    "institution":"Xiamen University Malaysia",
+    "betweenness_centrality":0.0000180838
+  },
+  {
+    "institution":"Dalhousie University",
+    "betweenness_centrality":0.0000180838
+  },
+  {
+    "institution":"SRM Institute of Science and Technology",
+    "betweenness_centrality":0.0000180838
+  },
+  {
+    "institution":"Wenzhou University",
+    "betweenness_centrality":0.0000180838
+  },
+  {
+    "institution":"University of Nottingham Malaysia Campus",
+    "betweenness_centrality":0.0000180838
+  },
+  {
+    "institution":"Hydro-Qu\u00e9bec",
+    "betweenness_centrality":0.0000180838
+  },
+  {
+    "institution":"National Institute of Mental Health and Neurosciences",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Wellcome Trust",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Freie Universit\u00e4t Berlin",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Penn Center for AIDS Research",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Cuban Neuroscience Center",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"VA San Diego Healthcare System",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Universidade Federal de S\u00e3o Paulo",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Douglas Mental Health University Institute",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"MRC Cognition and Brain Sciences Unit",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Great Ormond Street Hospital",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Physiopathologie et imagerie des troubles neurologiques",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Lifespan",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Max Planck Institute for Human Cognitive and Brain Sciences",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Center for Translational Research in Neuroimaging and Data Science",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Cambridgeshire and Peterborough NHS Foundation Trust",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Shanghai Center for Brain Science and Brain-Inspired Technology",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Cyceron",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Universit\u00e9 de Caen Normandie",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"MRC Centre for Reproductive Health",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Seoul National University",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Montreal Neurological Institute and Hospital",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Wellcome\/MRC Institute of Metabolic Science",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Prostate Cancer Research",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"MIND Research Institute",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Institut des Maladies Neurod\u00e9g\u00e9n\u00e9ratives",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Shanghai Institute for Science of Science",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"Singapore Institute for Clinical Sciences",
+    "betweenness_centrality":0.0000134567
+  },
+  {
+    "institution":"GLA University",
+    "betweenness_centrality":0.0000130439
+  },
+  {
+    "institution":"University of Talca",
+    "betweenness_centrality":0.0000130439
+  },
+  {
+    "institution":"UK Astronomy Technology Centre",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Universidade Estadual Paulista (Unesp)",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Institute for Physics",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Perimeter Institute",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Universidade Estadual de Campinas (UNICAMP)",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"SLAC National Accelerator Laboratory",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Universidad de La Laguna",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Lowell Observatory",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"University of Oslo",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Institute of Space Sciences",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Jet Propulsion Laboratory",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"University of Hawaii System",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Australian National University",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Universit\u00e9 Paris Sciences et Lettres",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"National Observatory",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Australian Astronomical Observatory",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"\u00c9cole Normale Sup\u00e9rieure - PSL",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Valongo Observatory",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Institute of Astrophysics and Space Sciences",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Institut d'Estudis Espacials de Catalunya",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Kavli Institute for Particle Astrophysics and Cosmology",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Center for Astrophysics Harvard & Smithsonian",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Cerro Tololo Inter-American Observatory",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Instituto de Astrof\u00edsica de Canarias",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"National Center for Supercomputing Applications",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Macquarie University",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Institute for Fundamental Physics of the Universe",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Laborat\u00f3rio Interinstitucional de e-Astronomia",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Centro de Investigaciones Energ\u00e9ticas, Medioambientales y Tecnol\u00f3gicas",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Trieste Astronomical Observatory",
+    "betweenness_centrality":0.000012614
+  },
+  {
+    "institution":"Technical University of Munich",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Geisinger Health System",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"VA Maryland Health Care System",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Iwate Medical University",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"University of Maryland, Baltimore",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Oslo University Hospital",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Los Angeles County Department of Public Health",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Tokyo Medical University",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"German Center for Neurodegenerative Diseases",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"East Carolina University",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Korea University Medical Center",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Helsinki University Hospital",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"German Centre for Cardiovascular Research",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Icelandic Heart Association",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Institut d'Investigaci\u00f3 en Ci\u00e8ncies de la Salut Germans Trias i Pujol",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"University Medical Center Utrecht",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Data Tecnica International (United States)",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"University of Cincinnati Medical Center",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Rajendra Institute of Medical Sciences",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Thrombolysis in Myocardial Infarction Study Group",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Thrombosis and Atherosclerosis Research Institute",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Universidade da Regi\u00e3o de Joinville",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Bordeaux Population Health",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"British Heart Foundation",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Centre Hospitalier Universitaire de Lille",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Tohoku Medical Megabank Organization",
+    "betweenness_centrality":0.0000121081
+  },
+  {
+    "institution":"Universidad de Zaragoza",
+    "betweenness_centrality":0.0000118069
+  },
+  {
+    "institution":"York University",
+    "betweenness_centrality":0.0000118069
+  },
+  {
+    "institution":"National Institute of Technology Tiruchirappalli",
+    "betweenness_centrality":0.0000118069
+  },
+  {
+    "institution":"University of Sheffield",
+    "betweenness_centrality":0.0000118069
+  },
+  {
+    "institution":"Bournemouth University",
+    "betweenness_centrality":0.0000118069
+  },
+  {
+    "institution":"University of Nevada, Las Vegas",
+    "betweenness_centrality":0.0000118069
+  },
+  {
+    "institution":"Adam Smith Institute",
+    "betweenness_centrality":0.0000118069
+  },
+  {
+    "institution":"Grand Valley State University",
+    "betweenness_centrality":0.0000118069
+  },
+  {
+    "institution":"Grady Memorial Hospital",
+    "betweenness_centrality":0.0000118069
+  },
+  {
+    "institution":"Mayo Clinic in Florida",
+    "betweenness_centrality":0.0000117577
+  },
+  {
+    "institution":"Sri Venkateshwaraa Medical College Hospital and Research Centre",
+    "betweenness_centrality":0.0000117577
+  },
+  {
+    "institution":"Humanity & Health",
+    "betweenness_centrality":0.0000117577
+  },
+  {
+    "institution":"Kyorin University",
+    "betweenness_centrality":0.0000117577
+  },
+  {
+    "institution":"Ulsan College",
+    "betweenness_centrality":0.0000117577
+  },
+  {
+    "institution":"Russian Cancer Research Center NN Blokhin",
+    "betweenness_centrality":0.0000117577
+  },
+  {
+    "institution":"Russian Railways",
+    "betweenness_centrality":0.0000117577
+  },
+  {
+    "institution":"University of Ulsan",
+    "betweenness_centrality":0.0000117577
+  },
+  {
+    "institution":"Asan Medical Center",
+    "betweenness_centrality":0.0000117577
+  },
+  {
+    "institution":"Clinica Universidad de Navarra",
+    "betweenness_centrality":0.0000117577
+  },
+  {
+    "institution":"Humanitas University",
+    "betweenness_centrality":0.0000117577
+  },
+  {
+    "institution":"Montpellier Business School",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"Funda\u00e7\u00e3o Getulio Vargas",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"University of Limerick",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"Indian Institute of Management Shillong",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"Laboratoire en Innovation, Technologies, Economie et Management",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"Al-Ahliyya Amman University",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"International University of Rabat",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"IPAG Business School",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"University of North Carolina at Greensboro",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"Korea University",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"\u00c9cole Sup\u00e9rieure de Commerce de Toulouse",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"Nanchang Institute of Technology",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"Liverpool College",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"Escola de Administra\u00e7\u00e3o de Empresas de S\u00e3o Paulo",
+    "betweenness_centrality":0.0000112454
+  },
+  {
+    "institution":"Central University of Kashmir",
+    "betweenness_centrality":0.0000109928
+  },
+  {
+    "institution":"SVS Medical College",
+    "betweenness_centrality":0.0000109928
+  },
+  {
+    "institution":"Qatar Airways (Qatar)",
+    "betweenness_centrality":0.0000109928
+  },
+  {
+    "institution":"DR. B.R.A. Institute Rotary Cancer Hospital",
+    "betweenness_centrality":0.0000109928
+  },
+  {
+    "institution":"Islamic University of Science and Technology",
+    "betweenness_centrality":0.0000109928
+  },
+  {
+    "institution":"University of Nebraska Medical Center",
+    "betweenness_centrality":0.0000109928
+  },
+  {
+    "institution":"National University of General San Mart\u00edn",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Universitat de Val\u00e8ncia",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Forschungszentrum J\u00fclich",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"High Energy Accelerator Research Organization",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"University of Louisville",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Stony Brook University",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"European Organization for Nuclear Research",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Siberian Branch of the Russian Academy of Sciences",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Institut National de Physique Nucl\u00e9aire et de Physique des Particules",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Laboratoire de Physique des 2 Infinis Ir\u00e8ne Joliot-Curie",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Istituto Nazionale di Fisica Nucleare, Sezione di Milano Bicocca",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Istituto Nazionale di Fisica Nucleare, Sezione di Padova",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Instituto de F\u00edsica Corpuscular",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Sapienza University of Rome",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"University of Zurich",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Novosibirsk State University",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Syracuse University",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Tokyo Metropolitan University",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Heidelberg Institute for Theoretical Studies",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Institut des Hautes \u00c9tudes Scientifiques",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Michigan State University",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"University of Oklahoma",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"CEA LIST",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Jo\u017eef Stefan Institute",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Thomas Jefferson National Accelerator Facility",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Brookhaven National Laboratory",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"University of Colorado Boulder",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"University of Basel",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Royal Holloway University of London",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"National Institute for Subatomic Physics",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Istituto Nazionale di Fisica Nucleare, Sezione di Roma I",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Budker Institute of Nuclear Physics",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Kurchatov Institute",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Istituto Nazionale di Fisica Nucleare, Laboratori Nazionali del Gran Sasso",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Deutsches Elektronen-Synchrotron DESY",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"International Center for Advanced Studies",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Istituto Nazionale di Fisica Nucleare, Laboratori Nazionali di Frascati",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Stefan Meyer Institute for Subatomic Physics",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Istituto Nazionale di Fisica Nucleare, Sezione di Napoli",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"University of Bonn",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"State University of New York",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Tufts University",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Obayashi (Japan)",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"University of Rome Tor Vergata",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Florida State University",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Rutgers, The State University of New Jersey",
+    "betweenness_centrality":0.0000099065
+  },
+  {
+    "institution":"Kettering University",
+    "betweenness_centrality":0.0000098751
+  },
+  {
+    "institution":"Smilow Cancer Hospital",
+    "betweenness_centrality":0.0000084199
+  },
+  {
+    "institution":"Cancer Research Center",
+    "betweenness_centrality":0.0000081278
+  },
+  {
+    "institution":"National Marrow Donor Program",
+    "betweenness_centrality":0.0000066874
+  },
+  {
+    "institution":"Duke Medical Center",
+    "betweenness_centrality":0.0000066874
+  },
+  {
+    "institution":"The Barbara Ann Karmanos Cancer Institute",
+    "betweenness_centrality":0.0000066874
+  },
+  {
+    "institution":"Medical University of South Carolina",
+    "betweenness_centrality":0.0000066874
+  },
+  {
+    "institution":"SUNY Upstate Medical University",
+    "betweenness_centrality":0.0000066874
+  },
+  {
+    "institution":"Cape Cod Hospital",
+    "betweenness_centrality":0.0000066874
+  },
+  {
+    "institution":"Eastern Maine Medical Center",
+    "betweenness_centrality":0.0000066874
+  },
+  {
+    "institution":"Atrium Health Wake Forest Baptist",
+    "betweenness_centrality":0.0000066874
+  },
+  {
+    "institution":"UPMC Hillman Cancer Center",
+    "betweenness_centrality":0.0000066874
+  },
+  {
+    "institution":"University of Pittsburgh Medical Center",
+    "betweenness_centrality":0.0000066874
+  },
+  {
+    "institution":"Cape Town HVTN Immunology Laboratory \/ Hutchinson Centre Research Institute of South Africa",
+    "betweenness_centrality":0.0000050574
+  },
+  {
+    "institution":"Mackay Base Hospital",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Manchester Academic Health Science Centre",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Tel Aviv Sourasky Medical Center",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"La Trobe University",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"British Geriatrics Society",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"McGill University Health Centre",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Vancouver Coastal Health Research Institute",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Jacobs (United States)",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Albert Einstein College of Medicine",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"St. Michael's Hospital",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"St. James's Hospital",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"VA Greater Los Angeles Healthcare System",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Universidade Cidade de S\u00e3o Paulo",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"VA Western New York Healthcare System",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Manchester University NHS Foundation Trust",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Hospital Italiano de Buenos Aires",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Institute for Musculoskeletal Health",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"National Center for Chronic and Noncommunicable Disease Control and Prevention",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Tecnol\u00f3gico de Monterrey",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Hasselt University",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Neuroscience Research Australia",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"University at Buffalo, State University of New York",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"VA Ann Arbor Healthcare System",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Parkwood Institute",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Vancouver Coastal Health",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Lawson Health Research Institute",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Australian Institute for Musculoskeletal Science",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Western Health",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Sydney Local Health District",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Women and Children\u2019s Health Research Institute",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Melbourne Health",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"GGD Amsterdam",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Flinders University",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Glasgow Caledonian University",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Northern Sydney Local Health District",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"Hebrew SeniorLife",
+    "betweenness_centrality":0.000003295
+  },
+  {
+    "institution":"University of Kentucky",
+    "betweenness_centrality":0.0000031716
+  },
+  {
+    "institution":"Curtin University Sarawak",
+    "betweenness_centrality":0.0000031716
+  },
+  {
+    "institution":"North Eastern Regional Institute of Science and Technology",
+    "betweenness_centrality":0.0000031716
+  },
+  {
+    "institution":"University B.D.T College of Engineering",
+    "betweenness_centrality":0.0000031716
+  },
+  {
+    "institution":"Palo Alto Institute",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Laboratoire d'\u00c9cologie Alpine",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Ashoka Trust for Research in Ecology and the Environment",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Water and Land Resource Centre",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Institute of Geographic Sciences and Natural Resources Research",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Arizona State University",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Universit\u00e9 Savoie Mont Blanc",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"National University of San Luis",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Swiss Academy of Sciences",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Instituto Multidisciplinario de Biolog\u00eda Vegetal",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"University of Twente",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"UCLouvain",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"BOKU University",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Colorado State University",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Universit\u00e9 Grenoble Alpes",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"National Institute for Space Research",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"University of Waterloo",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Azim Premji University",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"US Forest Service",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Clark University",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Indian Space Research Organisation",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Ministry for the Environment",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Ikerbasque",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"National University of Tucum\u00e1n",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Environmental Defense Fund",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"University of Hohenheim",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Basque Centre for Climate Change",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Hokkaido University",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Indian Institute of Science Education and Research Pune",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Fund for Scientific Research",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"Universidad Nacional de C\u00f3rdoba",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"James Hutton Institute",
+    "betweenness_centrality":0.0000029439
+  },
+  {
+    "institution":"UCLA Jonsson Comprehensive Cancer Center",
+    "betweenness_centrality":0.0000027479
+  },
+  {
+    "institution":"UC Davis Comprehensive Cancer Center",
+    "betweenness_centrality":0.0000027479
+  },
+  {
+    "institution":"Technological Institute for Superhard and Novel Carbon Materials",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Groupe de Physique des Mat\u00e9riaux",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"University of Miskolc",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Kyushu Institute of Technology",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"University of M\u00fcnster",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Materials Science & Engineering",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Czech Academy of Sciences, Institute of Physics of Materials",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Laboratoire d'\u00c9tude des Microstructures et de M\u00e9canique des Mat\u00e9riaux",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Erich Schmid Institute of Materials Science",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Donetsk Institute for Physics and Engineering named after O.O. Galkin",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Ibaraki University",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Toyota Central Research and Development Laboratories (Japan)",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Universit\u00e9 de Rouen Normandie",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"M.N. Mikheev Institute of Metal Physics",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Institute of Solid State Physics",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Ames National Laboratory",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Cracow University of Technology",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Universidade Federal de S\u00e3o Carlos",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Montanuniversit\u00e4t Leoben",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Nagoya Institute of Technology",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Kyushu Sangyo University",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Saga University",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Iowa State University",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Karadeniz Technical University",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"National Academy of Sciences of Ukraine",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Doshisha University",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Universit\u00e9 de Lorraine",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Institut National des Sciences Appliqu\u00e9es Rouen Normandie",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Ufa State Aviation Technical University",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Universidade Federal de Minas Gerais",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Kunming University of Science and Technology",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"E\u00f6tv\u00f6s Lor\u00e1nd University",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"Karlsruhe Institute of Technology",
+    "betweenness_centrality":0.0000027457
+  },
+  {
+    "institution":"University of Connecticut",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Rutgers Cancer Institute of New Jersey",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Pacific Biosciences (United States)",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"National Center for Biotechnology Information",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Institute for Systems Biology",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Max Planck Institute of Molecular Cell Biology and Genetics",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Sirius University of Science and Technology",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Cancer Institute of Florida",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Vavilov Institute of General Genetics",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Cancer Genetics (United States)",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Rockefeller University",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Lomonosov Moscow State University",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Stowers Institute for Medical Research",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Russian Academy of Sciences",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Seattle Children's Hospital",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"James S. McDonnell Foundation",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"National Institute of Standards and Technology",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"DNAnexus (United States)",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Chan Zuckerberg Initiative (United States)",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"University of Massachusetts Chan Medical School",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"University of Kansas",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Howard Hughes Medical Institute",
+    "betweenness_centrality":0.0000027174
+  },
+  {
+    "institution":"Seattle Cancer Care Alliance",
+    "betweenness_centrality":0.0000023047
+  },
+  {
+    "institution":"Kinderkrankenhaus auf der Bult",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Velocity Clinical Research (United States)",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"MultiMedica",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Hospital Nossa Senhora das Gra\u00e7as",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Stanford Medicine",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"National Institute of Diabetes and Digestive and Kidney Diseases",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Grady Health System",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Diabetes Care & Hormone Clinic",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Park Nicollet Clinic",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Jikei University School of Medicine",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"University of Pisa",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Close Concerns (United States)",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Joslin Diabetes Center",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"American Diabetes Association",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Jaeb Center for Health Research",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Jewish General Hospital",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Instituto de Salud Carlos III",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Ljubljana University Medical Centre",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Schneider Children's Medical Center",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Breakthrough T1D",
+    "betweenness_centrality":0.0000020599
+  },
+  {
+    "institution":"Friedrich-Loeffler-Institut",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Maladies Infectieuses et Vecteurs: \u00c9cologie, G\u00e9n\u00e9tique, \u00c9volution et Contr\u00f4le",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Chinese Center For Disease Control and Prevention",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"ARK Foundation",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Ministry of Public Health",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Universit\u00e9 Kofi Annan de Guin\u00e9e",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"International Development Research Centre",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Chatham House",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Ministerio de Salud",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"University of La Salle",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Kasetsart University",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Indian Institute of Technology Kanpur",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Mississippi State University",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Massey University",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Erasmus University Rotterdam",
+    "betweenness_centrality":0.000002054
+  },
+  {
+    "institution":"Janssen (Belgium)",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"National Institute for Health Research",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"Karolinska University Hospital",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"University College London Hospitals NHS Foundation Trust",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"Spanish National Cancer Research Centre",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"Institute of Cancer Research",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"Janssen (United States)",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"Navarre Institute of Health Research",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"Centro de Investigaci\u00f3n del C\u00e1ncer",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"Janssen (Switzerland)",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"Instituto de Investigaci\u00f3n Biom\u00e9dica de Salamanca",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"Centre Hospitalier Universitaire de Tours",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"Institut Catal\u00e0 d'Oncologia",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"Centro de Investigaci\u00f3n Biom\u00e9dica en Red de C\u00e1ncer",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"Biomedical Research Institute",
+    "betweenness_centrality":0.0000015534
+  },
+  {
+    "institution":"City Of Hope National Medical Center",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"University of Wisconsin Carbone Cancer Center",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"University Hospitals Seidman Cancer Center",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"Jewish Hospital",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"Duke Cancer Institute",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"National Comprehensive Cancer Network",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"Barnes-Jewish Hospital",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"O'Neal Comprehensive Cancer Center",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"Fred and Pamela Buffett Cancer Center",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"The Ohio State University Comprehensive Cancer Center \u2013 Arthur G. James Cancer Hospital and Richard J. Solove Research Institute",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"University of Colorado Cancer Center",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"Stanford Cancer Institute",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"Robert H. Lurie Comprehensive Cancer Center of Northwestern University",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"Sidney Kimmel Comprehensive Cancer Center",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"Moores Cancer Center",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"Huntsman Cancer Institute",
+    "betweenness_centrality":0.0000014987
+  },
+  {
+    "institution":"Hospital Universitario La Paz",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"New York Hospital Queens",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Cedars-Sinai Smidt Heart Institute",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Azienda USL di Bologna",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Sooriya Hospital",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Long Island University",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Hospital das Cl\u00ednicas da Faculdade de Medicina da Universidade de S\u00e3o Paulo",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Incheon Medical Center",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Keimyung University",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"University of Insubria",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"West Virginia University Hospitals",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Harefield Hospital",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Ruhr University Bochum",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Stollery Children's Hospital",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Children's Hospital Colorado",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"St Vincent's Hospital",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Corewell Health Blodgett Hospital",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"University Hospitals Birmingham NHS Foundation Trust",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"NewYork\u2013Presbyterian Hospital",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Heart and Diabetes Center North Rhine-Westphalia",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"Sheba Medical Center",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"California Pacific Medical Center",
+    "betweenness_centrality":0.0000014775
+  },
+  {
+    "institution":"University Hospital of Bern",
+    "betweenness_centrality":0.0000014177
+  },
+  {
+    "institution":"Royal Marsden NHS Foundation Trust",
+    "betweenness_centrality":0.0000014177
+  },
+  {
+    "institution":"Vienna General Hospital",
+    "betweenness_centrality":0.0000014177
+  },
+  {
+    "institution":"Azienda Ospedaliero-Universitaria Careggi",
+    "betweenness_centrality":0.0000014177
+  },
+  {
+    "institution":"Royal North Shore Hospital",
+    "betweenness_centrality":0.0000014177
+  },
+  {
+    "institution":"Infectious Diseases Institute",
+    "betweenness_centrality":0.0000014154
+  },
+  {
+    "institution":"Oxford University Hospitals NHS Trust",
+    "betweenness_centrality":0.0000014154
+  },
+  {
+    "institution":"Magna Graecia University",
+    "betweenness_centrality":0.0000014154
+  },
+  {
+    "institution":"Maharaja Sayajirao University of Baroda",
+    "betweenness_centrality":0.0000014154
+  },
+  {
+    "institution":"BRAC University",
+    "betweenness_centrality":0.0000014154
+  },
+  {
+    "institution":"Alexandria University",
+    "betweenness_centrality":0.0000014154
+  },
+  {
+    "institution":"Istituto Superiore di Sanit\u00e0",
+    "betweenness_centrality":0.0000014154
+  },
+  {
+    "institution":"Sri Venkateswara Veterinary University",
+    "betweenness_centrality":0.0000014154
+  },
+  {
+    "institution":"Universit\u00e9 Toulouse III - Paul Sabatier",
+    "betweenness_centrality":0.0000014154
+  },
+  {
+    "institution":"Sumy State University",
+    "betweenness_centrality":0.0000014154
+  },
+  {
+    "institution":"Lebanese University",
+    "betweenness_centrality":0.0000014154
+  },
+  {
+    "institution":"World Health Organization - Zimbabwe",
+    "betweenness_centrality":0.0000013441
+  },
+  {
+    "institution":"National Cancer Institute of Sri Lanka",
+    "betweenness_centrality":0.0000013441
+  },
+  {
+    "institution":"Uganda Cancer Institute",
+    "betweenness_centrality":0.0000013441
+  },
+  {
+    "institution":"B.P. Koirala Memorial Cancer Hospital",
+    "betweenness_centrality":0.0000013441
+  },
+  {
+    "institution":"Hacettepe University",
+    "betweenness_centrality":0.0000013441
+  },
+  {
+    "institution":"AC Camargo Hospital",
+    "betweenness_centrality":0.0000013441
+  },
+  {
+    "institution":"Princess Margaret Cancer Centre",
+    "betweenness_centrality":0.0000013441
+  },
+  {
+    "institution":"Korle Bu Teaching Hospital",
+    "betweenness_centrality":0.0000013441
+  },
+  {
+    "institution":"University of Oradea",
+    "betweenness_centrality":0.0000011923
+  },
+  {
+    "institution":"Bangabandhu Sheikh Mujibur Rahman Science and Technology University",
+    "betweenness_centrality":0.0000011923
+  },
+  {
+    "institution":"Misr University for Science and Technology",
+    "betweenness_centrality":0.0000011923
+  },
+  {
+    "institution":"The Christie NHS Foundation Trust",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Akita University Hospital",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Centre Oscar Lambret",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Keio University",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Sun Yat-sen University",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"CRUK Lung Cancer Centre of Excellence",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Institut de Recherche en Canc\u00e9rologie de Montpellier",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Centrum Onkologii",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"I-Shou University",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Kanagawa Cancer Center",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Toranomon Hospital",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"E-Da Hospital",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"National Cancer Center",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Instituto do C\u00e2ncer do Estado de S\u00e3o Paulo",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"The First Affiliated Hospital, Sun Yat-sen University",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Zhongshan Hospital",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Hospital Provincial de Rosario",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Sutton Hospital",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Bristol-Myers Squibb (United States)",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Chinese PLA General Hospital",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"Kanagawa Prefectural Hospital Organization",
+    "betweenness_centrality":0.0000011293
+  },
+  {
+    "institution":"National Institute of Infectious Diseases",
+    "betweenness_centrality":0.0000010824
+  },
+  {
+    "institution":"Cambridge University Hospitals NHS Foundation Trust",
+    "betweenness_centrality":0.0000010824
+  },
+  {
+    "institution":"MRC Laboratory of Molecular Biology",
+    "betweenness_centrality":0.0000010824
+  },
+  {
+    "institution":"University of Miyazaki",
+    "betweenness_centrality":0.0000010824
+  },
+  {
+    "institution":"National Institute of Genetics",
+    "betweenness_centrality":0.0000010824
+  },
+  {
+    "institution":"Addenbrooke's Hospital",
+    "betweenness_centrality":0.0000010824
+  },
+  {
+    "institution":"Saiseikai Utsunomiya hospital",
+    "betweenness_centrality":0.0000010824
+  },
+  {
+    "institution":"International Islamic University Chittagong",
+    "betweenness_centrality":0.0000010635
+  },
+  {
+    "institution":"University of Mumbai",
+    "betweenness_centrality":0.0000010635
+  },
+  {
+    "institution":"University of Chemistry and Technology, Prague",
+    "betweenness_centrality":0.000001051
+  },
+  {
+    "institution":"Moorfields Eye Hospital",
+    "betweenness_centrality":0.0000010489
+  },
+  {
+    "institution":"Sankara Nethralaya",
+    "betweenness_centrality":0.0000010489
+  },
+  {
+    "institution":"Sinai Hospital",
+    "betweenness_centrality":0.0000010489
+  },
+  {
+    "institution":"Tata Medical Center",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"North Florida\/South Georgia Veterans Health System",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Centro Universit\u00e1rio de Jo\u00e3o Pessoa",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Zentrum f\u00fcr Pathologie und Zytodiagnostik",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Hexcel (United States)",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Preferred Networks (Japan)",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Beihang University",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"University of Otago",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Centre Hospitalier de Mulhouse",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Southeast University",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Hospital San Juan de Dios",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"The Netherlands Cancer Institute",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Computational Diagnostics (United States)",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Groupe Hospitalier de la R\u00e9gion de Mulhouse et Sud Alsace",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Instituto do Sono",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"NEC (Japan)",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Tufts Medical Center",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Toshiba (Japan)",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"University Health Network",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Thales (Netherlands)",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Comcast (United States)",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Universidade Presbiteriana Mackenzie",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Janelia Research Campus",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Aichi Medical University",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Elekta (Switzerland)",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"United Institute of Informatics Problems",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Japan Broadcasting Corporation (Japan)",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Research Organization for Information Science and Technology",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Instituto de Ensino e Pesquisa Santa Casa",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Numerica Corporation (United States)",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Link\u00f6ping University",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Tampere University",
+    "betweenness_centrality":0.0000010121
+  },
+  {
+    "institution":"Breast Cancer Research Foundation",
+    "betweenness_centrality":0.0000010099
+  },
+  {
+    "institution":"Vanderbilt-Ingram Cancer Center",
+    "betweenness_centrality":0.0000010099
+  },
+  {
+    "institution":"Susan Thompson Buffett Foundation",
+    "betweenness_centrality":0.0000010099
+  },
+  {
+    "institution":"K S Hegde Medical Academy",
+    "betweenness_centrality":0.0000009954
+  },
+  {
+    "institution":"American University of Antigua",
+    "betweenness_centrality":0.0000009954
+  },
+  {
+    "institution":"University of B\u00edo-B\u00edo",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"California Academy of Sciences",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Zoological Institute",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"University of Concepci\u00f3n",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"NatureServe",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"University of Zulia",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"International Union for Conservation of Nature",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Universit\u00e9 Sorbonne Paris Nord",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Department of Conservation",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Centro Cient\u00edfico Tecnol\u00f3gico Patag\u00f3nico",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Leibniz Institute for the Analysis of Biodiversity Change",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"South African National Biodiversity Institute",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Charles Darwin University",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Okayama University of Science",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Australian Museum",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Zoological Society of San Diego",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Conservation International",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"North Carolina Museum of Natural Sciences",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Museum f\u00fcr Naturkunde",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Temple University",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Bandung Institute of Technology",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Zoological Research Museum Alexander Koenig",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Bernice P. Bishop Museum",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Universidade de Bras\u00edlia",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Zoo Outreach Organisation",
+    "betweenness_centrality":0.0000009451
+  },
+  {
+    "institution":"Harold C. Simmons Comprehensive Cancer Center",
+    "betweenness_centrality":0.0000008334
+  },
+  {
+    "institution":"Dana-Farber Brigham Cancer Center",
+    "betweenness_centrality":0.0000008334
+  },
+  {
+    "institution":"Norwich Research Park",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Universidad de Costa Rica",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"University of Florida",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Sookmyung Women's University",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"LOEWE Centre for Translational Biodiversity Genomics",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Oil Crops Research Institute",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Ministry of Agriculture and Rural Affairs",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Swiss Federal Institute of Aquatic Science and Technology",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Netherlands Institute of Ecology",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"John Innes Centre",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"University of Szeged",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Rothamsted Research",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"J. Craig Venter Institute",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Scripps Research Institute",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Universidade Federal do Rio de Janeiro",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Leiden University",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Scripps Institution of Oceanography",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"University of Strathclyde",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"University of Technology - Iraq",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Sunchon National University",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Carnegie Institution for Science",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Joint Genome Institute",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Consejo Superior de Investigaciones Cient\u00edficas",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Yenepoya University",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Wageningen University & Research",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Southern University of Science and Technology",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"University of Hong Kong",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Tennessee State University",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Universidad de M\u00e1laga",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Shenzhen Bay Laboratory",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Department of Embryology",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Chinese Academy of Agricultural Sciences",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Instituto de Hortofruticultura Subtropical y Mediterr\u00e1nea \"La Mayora\"",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Westerdijk Fungal Biodiversity Institute",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Indonesian Pediatric Society",
+    "betweenness_centrality":0.0000008061
+  },
+  {
+    "institution":"Infant Foundation",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"South African Medical Research Council",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Institute of Environmental Science and Research",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"University of Split",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Jawaharlal Institute of Post Graduate Medical Education and Research",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Nagasaki University",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"National Health Laboratory Service",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"National Center for Disease Control and Public Health",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Manhi\u00e7a Health Research Centre",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"The Kids Research Institute Australia",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Hospital General de Ni\u00f1os Ricardo Gutierrez",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Research Institute of Influenza",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Fundaci\u00f3n para el Fomento de la Investigaci\u00f3n Sanitaria y Biom\u00e9dica de la Comunitat Valenciana",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Noguchi Memorial Institute for Medical Research",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"National Center for Communicable Diseases",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"H\u00f4pital de la Croix-Rousse",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Kenya Medical Research Institute",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Royal Children's Hospital",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"University of Peradeniya",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Colorado School of Public Health",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Meditation De-Addiction Health AIDS Nutrition Trust",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Centro de Educaci\u00f3n M\u00e9dica e Investigaciones Cl\u00ednicas Norberto Quirno",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"KK Women's and Children's Hospital",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Dongguk University Ilsan Hospital",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Alaska Native Tribal Health Consortium",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"GlaxoSmithKline (United States)",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Centro Hospitalar Lisboa Norte",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"Center for Global Health",
+    "betweenness_centrality":0.0000007974
+  },
+  {
+    "institution":"International Management Institute",
+    "betweenness_centrality":0.0000007836
+  },
+  {
+    "institution":"Athens University of Economics and Business",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"United Nations",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"Organisation de Coop\u00e9ration et de D\u00e9veloppement Economiques",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"Tsinghua University",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"Robert Bosch (Germany)",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"Bibliotheca Alexandrina",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"Kenya AIDS Vaccine Initiative",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"Institut du D\u00e9veloppement Durable et des Relations Internationales",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"China-Japan Friendship Hospital",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"UNESCO",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"Royal Society of Tropical Medicine and Hygiene",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"Burnet Institute",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"Harvard Global Health Institute",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"International Monetary Fund",
+    "betweenness_centrality":0.0000007781
+  },
+  {
+    "institution":"Roche (United Kingdom)",
+    "betweenness_centrality":0.0000007585
+  },
+  {
+    "institution":"Ghent University Hospital",
+    "betweenness_centrality":0.0000007585
+  },
+  {
+    "institution":"Hebron University",
+    "betweenness_centrality":0.0000007585
+  },
+  {
+    "institution":"Allegheny Health Network",
+    "betweenness_centrality":0.0000007585
+  },
+  {
+    "institution":"Roche (Switzerland)",
+    "betweenness_centrality":0.0000007585
+  },
+  {
+    "institution":"Universitair Ziekenhuis Brussel",
+    "betweenness_centrality":0.0000007585
+  },
+  {
+    "institution":"Groupe de Recherche sur les formes Injectables et les Technologies Associ\u00e9es",
+    "betweenness_centrality":0.0000007585
+  },
+  {
+    "institution":"Groupe de Recherches et d'Echanges Technologiques",
+    "betweenness_centrality":0.0000007585
+  },
+  {
+    "institution":"Centre National pour la Recherche Scientifique et Technique (CNRST)",
+    "betweenness_centrality":0.0000007585
+  },
+  {
+    "institution":"Wroclaw Medical University",
+    "betweenness_centrality":0.0000007585
+  },
+  {
+    "institution":"DELL (United States)",
+    "betweenness_centrality":0.0000007389
+  },
+  {
+    "institution":"Shenzhen Institutes of Advanced Technology",
+    "betweenness_centrality":0.0000007389
+  },
+  {
+    "institution":"University of Birmingham",
+    "betweenness_centrality":0.0000007389
+  },
+  {
+    "institution":"Walker (United States)",
+    "betweenness_centrality":0.0000007389
+  },
+  {
+    "institution":"University of Waikato",
+    "betweenness_centrality":0.0000007389
+  },
+  {
+    "institution":"Indian Institute of Tropical Meteorology",
+    "betweenness_centrality":0.0000007389
+  },
+  {
+    "institution":"Innopolis University",
+    "betweenness_centrality":0.0000007389
+  },
+  {
+    "institution":"Tianjin University",
+    "betweenness_centrality":0.0000007389
+  },
+  {
+    "institution":"Machine Intelligence Research Labs",
+    "betweenness_centrality":0.0000007389
+  },
+  {
+    "institution":"TU Wien",
+    "betweenness_centrality":0.0000007389
+  },
+  {
+    "institution":"University of South Florida",
+    "betweenness_centrality":0.000000732
+  },
+  {
+    "institution":"Universit\u00e9 Clermont Auvergne",
+    "betweenness_centrality":0.0000007222
+  },
+  {
+    "institution":"European Molecular Biology Laboratory",
+    "betweenness_centrality":0.0000007222
+  },
+  {
+    "institution":"CEA Cadarache",
+    "betweenness_centrality":0.0000007222
+  },
+  {
+    "institution":"CEA Grenoble",
+    "betweenness_centrality":0.0000007222
+  },
+  {
+    "institution":"Simula Research Laboratory",
+    "betweenness_centrality":0.0000007222
+  },
+  {
+    "institution":"Institut de G\u00e9n\u00e9tique, Environnement et Protection des Plantes",
+    "betweenness_centrality":0.0000007222
+  },
+  {
+    "institution":"University of Cincinnati",
+    "betweenness_centrality":0.0000006431
+  },
+  {
+    "institution":"University of Jyv\u00e4skyl\u00e4",
+    "betweenness_centrality":0.0000006431
+  },
+  {
+    "institution":"Tunis El Manar University",
+    "betweenness_centrality":0.000000563
+  },
+  {
+    "institution":"Bahir Dar University",
+    "betweenness_centrality":0.000000563
+  },
+  {
+    "institution":"Hemel Hempstead Hospital",
+    "betweenness_centrality":0.000000563
+  },
+  {
+    "institution":"The Geneva Association",
+    "betweenness_centrality":0.000000563
+  },
+  {
+    "institution":"South London and Maudsley NHS Foundation Trust",
+    "betweenness_centrality":0.000000563
+  },
+  {
+    "institution":"Centre for Mental Health",
+    "betweenness_centrality":0.000000563
+  },
+  {
+    "institution":"Peking University Sixth Hospital",
+    "betweenness_centrality":0.000000563
+  },
+  {
+    "institution":"Guangzhou Medical University",
+    "betweenness_centrality":0.000000563
+  },
+  {
+    "institution":"NLR Nepal",
+    "betweenness_centrality":0.000000563
+  },
+  {
+    "institution":"Sierra Leone Urban Research Centre",
+    "betweenness_centrality":0.000000563
+  },
+  {
+    "institution":"Haramaya University",
+    "betweenness_centrality":0.000000563
+  },
+  {
+    "institution":"Schizophrenia Research Foundation",
+    "betweenness_centrality":0.000000563
+  },
+  {
+    "institution":"Jiwaji University",
+    "betweenness_centrality":0.0000005581
+  },
+  {
+    "institution":"Autonomous University of Sinaloa",
+    "betweenness_centrality":0.0000005581
+  },
+  {
+    "institution":"Federal Institute of Hydrology",
+    "betweenness_centrality":0.0000005581
+  },
+  {
+    "institution":"Research Center for Eco-Environmental Sciences",
+    "betweenness_centrality":0.0000005581
+  },
+  {
+    "institution":"Laboratoire Chrono-Environnement",
+    "betweenness_centrality":0.0000005581
+  },
+  {
+    "institution":"Centre de Recherche et d\u2019Enseignement de G\u00e9osciences de l\u2019Environnement",
+    "betweenness_centrality":0.0000005581
+  },
+  {
+    "institution":"Istituto di Ricerche Chimiche e Biochimiche G. Ronzoni",
+    "betweenness_centrality":0.0000005581
+  },
+  {
+    "institution":"University of Algarve",
+    "betweenness_centrality":0.0000005581
+  },
+  {
+    "institution":"Aix-Marseille Universit\u00e9",
+    "betweenness_centrality":0.0000005581
+  },
+  {
+    "institution":"National Geophysical Research Institute",
+    "betweenness_centrality":0.0000005581
+  },
+  {
+    "institution":"Centre Hospitalier Universitaire de Besan\u00e7on",
+    "betweenness_centrality":0.0000005581
+  },
+  {
+    "institution":"Universidad Nacional de Colombia",
+    "betweenness_centrality":0.0000005581
+  },
+  {
+    "institution":"Houston Institute for Clinical Research",
+    "betweenness_centrality":0.000000484
+  },
+  {
+    "institution":"National University Heart Centre Singapore",
+    "betweenness_centrality":0.000000484
+  },
+  {
+    "institution":"National University Hospital",
+    "betweenness_centrality":0.000000484
+  },
+  {
+    "institution":"Asian Institute of Gastroenterology",
+    "betweenness_centrality":0.000000484
+  },
+  {
+    "institution":"Nottingham City Hospital",
+    "betweenness_centrality":0.000000484
+  },
+  {
+    "institution":"Virginia Commonwealth University",
+    "betweenness_centrality":0.000000484
+  },
+  {
+    "institution":"Father Muller Medical College Hospital",
+    "betweenness_centrality":0.000000458
+  },
+  {
+    "institution":"National Health Service",
+    "betweenness_centrality":0.000000458
+  },
+  {
+    "institution":"University Hospital Southampton NHS Foundation Trust",
+    "betweenness_centrality":0.000000458
+  },
+  {
+    "institution":"Max Healthcare",
+    "betweenness_centrality":0.000000458
+  },
+  {
+    "institution":"University of California, Irvine",
+    "betweenness_centrality":0.0000004552
+  },
+  {
+    "institution":"Sarah Cannon",
+    "betweenness_centrality":0.0000004552
+  },
+  {
+    "institution":"Mirati Therapeutics (United States)",
+    "betweenness_centrality":0.0000004552
+  },
+  {
+    "institution":"Mary Crowley Cancer Research Center",
+    "betweenness_centrality":0.0000004552
+  },
+  {
+    "institution":"Virginia Cancer Specialists",
+    "betweenness_centrality":0.0000004552
+  },
+  {
+    "institution":"Woodlands Hospital",
+    "betweenness_centrality":0.0000004552
+  },
+  {
+    "institution":"Tennessee Oncology",
+    "betweenness_centrality":0.0000004552
+  },
+  {
+    "institution":"Mayo Clinic Hospital",
+    "betweenness_centrality":0.0000004552
+  },
+  {
+    "institution":"Hasanuddin University",
+    "betweenness_centrality":0.0000004162
+  },
+  {
+    "institution":"Mawlana Bhashani Science and Technology University",
+    "betweenness_centrality":0.0000004162
+  },
+  {
+    "institution":"University of Development Alternative",
+    "betweenness_centrality":0.0000004162
+  },
+  {
+    "institution":"Indian Veterinary Research Institute",
+    "betweenness_centrality":0.0000004162
+  },
+  {
+    "institution":"Chattogram Veterinary and Animal Sciences University",
+    "betweenness_centrality":0.0000004162
+  },
+  {
+    "institution":"Jahangirnagar University",
+    "betweenness_centrality":0.0000004162
+  },
+  {
+    "institution":"University of Chittagong",
+    "betweenness_centrality":0.0000004162
+  },
+  {
+    "institution":"National Institute of Technology Warangal",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"West Bengal State University",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"National Research Council",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"Presidency University",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"\u00c9cole Nationale Sup\u00e9rieure de Chimie de Montpellier",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"Institute for Experimental Endocrinology and Oncology",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"Jadavpur University",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"Indian Institute of Chemical Technology",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"Institut Europ\u00e9en des Membranes",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"University of Allahabad",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"Indraprastha Institute of Information Technology Delhi",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"Kakatiya University",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"Instituto de Productos Naturales y Agrobiolog\u00eda",
+    "betweenness_centrality":0.0000003839
+  },
+  {
+    "institution":"Christian Medical College",
+    "betweenness_centrality":0.0000002839
+  },
+  {
+    "institution":"Heart and Stroke Foundation",
+    "betweenness_centrality":0.0000002839
+  },
+  {
+    "institution":"Universit\u00e4t f\u00fcr Weiterbildung Krems",
+    "betweenness_centrality":0.0000002839
+  },
+  {
+    "institution":"Auckland University of Technology",
+    "betweenness_centrality":0.0000002839
+  },
+  {
+    "institution":"Universidade Federal do Rio Grande do Sul",
+    "betweenness_centrality":0.0000002839
+  },
+  {
+    "institution":"Christian Medical College & Hospital",
+    "betweenness_centrality":0.0000002839
+  },
+  {
+    "institution":"Sk\u00e5ne University Hospital",
+    "betweenness_centrality":0.0000002839
+  },
+  {
+    "institution":"Universit\u00e9 de Sherbrooke",
+    "betweenness_centrality":0.0000002562
+  },
+  {
+    "institution":"Universidade Federal de Pelotas",
+    "betweenness_centrality":0.0000002562
+  },
+  {
+    "institution":"Ifakara Health Institute",
+    "betweenness_centrality":0.0000002562
+  },
+  {
+    "institution":"Universidad Peruana Cayetano Heredia",
+    "betweenness_centrality":0.0000002562
+  },
+  {
+    "institution":"Regional Medical Research Centre",
+    "betweenness_centrality":0.0000002562
+  },
+  {
+    "institution":"The George Institute for Global Health",
+    "betweenness_centrality":0.0000002562
+  },
+  {
+    "institution":"Region Zealand",
+    "betweenness_centrality":0.0000002562
+  },
+  {
+    "institution":"Dr. D. Y. Patil Medical College, Hospital and Research Centre",
+    "betweenness_centrality":0.0000002509
+  },
+  {
+    "institution":"St\u00e4dtisches Klinikum Dresden",
+    "betweenness_centrality":0.0000002509
+  },
+  {
+    "institution":"Magadh University",
+    "betweenness_centrality":0.0000002153
+  },
+  {
+    "institution":"Vietnam National University, Hanoi",
+    "betweenness_centrality":0.0000002153
+  },
+  {
+    "institution":"HHL Leipzig Graduate School of Management",
+    "betweenness_centrality":0.0000002053
+  },
+  {
+    "institution":"Universidade de Santiago de Compostela",
+    "betweenness_centrality":0.0000002053
+  },
+  {
+    "institution":"Rowan University",
+    "betweenness_centrality":0.0000002053
+  },
+  {
+    "institution":"University of Beira Interior",
+    "betweenness_centrality":0.0000002053
+  },
+  {
+    "institution":"University of Zagreb",
+    "betweenness_centrality":0.0000002053
+  },
+  {
+    "institution":"University of Messina",
+    "betweenness_centrality":0.0000002053
+  },
+  {
+    "institution":"Parthenope University of Naples",
+    "betweenness_centrality":0.0000002053
+  },
+  {
+    "institution":"Lappeenranta-Lahti University of Technology",
+    "betweenness_centrality":0.0000002053
+  },
+  {
+    "institution":"Ministry of Health",
+    "betweenness_centrality":0.0000001667
+  },
+  {
+    "institution":"Aga Khan University",
+    "betweenness_centrality":0.0000001667
+  },
+  {
+    "institution":"Liverpool School of Tropical Medicine",
+    "betweenness_centrality":0.0000001667
+  },
+  {
+    "institution":"Voluntary Health Services Hospital",
+    "betweenness_centrality":0.0000001667
+  },
+  {
+    "institution":"Fondation Congolaise Pour La Recherche M\u00e9dicale",
+    "betweenness_centrality":0.0000001667
+  },
+  {
+    "institution":"Energy Consulting Network (Denmark)",
+    "betweenness_centrality":0.0000001667
+  },
+  {
+    "institution":"Istituti Clinici Scientifici Maugeri",
+    "betweenness_centrality":0.0000001667
+  },
+  {
+    "institution":"UCL Biomedical Research Centre",
+    "betweenness_centrality":0.0000001667
+  },
+  {
+    "institution":"M\u00e9diterran\u00e9e Infection Foundation",
+    "betweenness_centrality":0.0000001667
+  },
+  {
+    "institution":"Indus Hospital",
+    "betweenness_centrality":0.0000001667
+  },
+  {
+    "institution":"Champalimaud Foundation",
+    "betweenness_centrality":0.0000001667
+  },
+  {
+    "institution":"Kenyatta University",
+    "betweenness_centrality":0.0000001667
+  },
+  {
+    "institution":"Amsterdam Institute for Global Health and Development",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Institut de Recherches G\u00e9ologiques et Mini\u00e8res",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Universit\u00e9 P\u00e9dagogique Nationale",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Central Midwest Water Science Center",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"National Technical University of Athens",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Njala University",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"South China Normal University",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Center for Marine and Oceanographic Research",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Agricultural Biotechnology Research Institute of Iran",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Ministry of Health and Social Welfare",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Agricultural University of Tirana",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Southern Leyte State University",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Patuakhali Science and Technology University",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"United States Geological Survey",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Smithsonian Tropical Research Institute",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Universiti Putra Malaysia",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Georgian Technical University",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Universidad Andr\u00e9s Bello",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Universit\u00e9 Joseph Ki-Zerbo",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"National University of Lesotho",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"University of Iceland",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"City University of Hong Kong",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"International University of Monaco",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"ECT Oekotoxikologie (Germany)",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Universit\u00e9 d'Abomey-Calavi",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Universidad Nacional del Centro del Per\u00fa",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"University of Gujrat",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Universidad Nacional",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Yerevan State University",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Universidad del Valle",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Nazarbayev University",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Higher University of San Andr\u00e9s",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Universidad Mayor",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Universidad de Santiago de Chile",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"L. N. Gumilyov Eurasian National University",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Kingston University",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Al-Quds University",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Lagos State Polytechnic",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"Instituto Federal do Rio Grande do Norte",
+    "betweenness_centrality":0.0000001606
+  },
+  {
+    "institution":"University of Minnesota System",
+    "betweenness_centrality":0.0000001576
+  },
+  {
+    "institution":"META Health",
+    "betweenness_centrality":0.0000001576
+  },
+  {
+    "institution":"International Institute of Information Technology, Hyderabad",
+    "betweenness_centrality":0.0000001576
+  },
+  {
+    "institution":"King Abdullah University of Science and Technology",
+    "betweenness_centrality":0.0000001576
+  },
+  {
+    "institution":"University of Catania",
+    "betweenness_centrality":0.0000001576
+  },
+  {
+    "institution":"Dartmouth Hospital",
+    "betweenness_centrality":0.0000001576
+  },
+  {
+    "institution":"Carnegie Mellon University Africa",
+    "betweenness_centrality":0.0000001576
+  },
+  {
+    "institution":"Moscow Institute of Thermal Technology",
+    "betweenness_centrality":0.0000001576
+  },
+  {
+    "institution":"Berkeley College",
+    "betweenness_centrality":0.0000001576
+  },
+  {
+    "institution":"California University of Pennsylvania",
+    "betweenness_centrality":0.0000001576
+  },
+  {
+    "institution":"Banasthali University",
+    "betweenness_centrality":0.0000001518
+  },
+  {
+    "institution":"Central Institute of Post-Harvest Engineering and Technology",
+    "betweenness_centrality":0.0000001518
+  },
+  {
+    "institution":"Indian Agricultural Research Institute",
+    "betweenness_centrality":0.0000001518
+  },
+  {
+    "institution":"Tea Research Association",
+    "betweenness_centrality":0.0000001518
+  },
+  {
+    "institution":"National Research Centre for Integrated Pest Management",
+    "betweenness_centrality":0.0000001518
+  },
+  {
+    "institution":"Universidad Polit\u00e9cnica de Puebla",
+    "betweenness_centrality":0.0000001518
+  },
+  {
+    "institution":"Gurukul Kangri Vishwavidyalaya",
+    "betweenness_centrality":0.0000001518
+  },
+  {
+    "institution":"Translational Health Science and Technology Institute",
+    "betweenness_centrality":0.0000001518
+  },
+  {
+    "institution":"Ministry of Food Processing Industries",
+    "betweenness_centrality":0.0000001518
+  },
+  {
+    "institution":"Baba Farid University of Health Sciences",
+    "betweenness_centrality":0.0000001518
+  },
+  {
+    "institution":"University of Reading",
+    "betweenness_centrality":0.0000001061
+  },
+  {
+    "institution":"University of Bologna",
+    "betweenness_centrality":0.0000001061
+  },
+  {
+    "institution":"Indiana University Bloomington",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"Nigerian Institute of Medical Research",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"New York University",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"M\u00fcnchen Klinik",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"Instituto Nacional de Salud P\u00fablica",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"World Resources Institute",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"Health Effects Institute",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"Boston College",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"Alliance for Health Policy and Systems Research",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"National Institute of Environmental Health Sciences",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"Pure Earth",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"Consortium of Universities for Global Health",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"XinHua Hospital",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"World Bank",
+    "betweenness_centrality":0.0000000909
+  },
+  {
+    "institution":"O. P. Jindal Global University",
+    "betweenness_centrality":0.0000000876
+  },
+  {
+    "institution":"Birzeit University",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"University of New England",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"University of Milano-Bicocca",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"De Montfort University",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"University of Santo Tomas",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Sokoine University of Agriculture",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Menoufia University",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"University of Greenwich",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"University of Salford",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Sultan Qaboos University",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Constantine the Philosopher University in Nitra",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Kyambogo University",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"University of Bergen",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Obafemi Awolowo University",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Alexandru Ioan Cuza University",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Nagoya University of Commerce and Business",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Universidad Tecnol\u00f3gica de Bol\u00edvar",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Universidad de Ja\u00e9n",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Universidad Cat\u00f3lica del Norte",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Pontifical Catholic University of Rio de Janeiro",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Van Y\u00fcz\u00fcnc\u00fc Y\u0131l \u00dcniversitesi",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Kuban State University",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"University of Nigeria",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Bielefeld University",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"\u00d6rebro University",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Darmstadt University of Applied Sciences",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Airlangga University",
+    "betweenness_centrality":0.0000000854
+  },
+  {
+    "institution":"Almaarefa University",
+    "betweenness_centrality":0.000000035
+  },
+  {
+    "institution":"Alfaisal University",
+    "betweenness_centrality":0.000000035
+  },
+  {
+    "institution":"Baba Ghulam Shah Badshah University",
+    "betweenness_centrality":0.000000035
+  },
+  {
+    "institution":"Career Point University",
+    "betweenness_centrality":0.000000035
+  },
+  {
+    "institution":"National Institute of Genetic Engineering and Biotechnology",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"Sabzevar University of Medical Sciences",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"University of Babylon",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"Shahid Beheshti University of Medical Sciences",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"Cihan University Sulaimaniya",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"Chulabhorn Hospital",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"Suez Canal University",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"Cihan University-Erbil",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"Al-Farahidi University",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"Tyumen State Medical University",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"University of Karbala",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"Ministry of Higher Education and Scientific Research",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"Al-Nisour University College",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"University of Madras",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"University of Mosul",
+    "betweenness_centrality":0.0000000334
+  },
+  {
+    "institution":"Alliance University",
+    "betweenness_centrality":0.000000013
+  },
+  {
+    "institution":"Mahidol University",
+    "betweenness_centrality":0.000000013
+  },
+  {
+    "institution":"University of Phayao",
+    "betweenness_centrality":0.000000013
+  },
+  {
+    "institution":"Qazvin University of Medical Sciences",
+    "betweenness_centrality":0.000000013
+  },
+  {
+    "institution":"St. Jude Children's Research Hospital",
+    "betweenness_centrality":0.0000000034
+  },
+  {
+    "institution":"Nalanda University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Central University of Jammu",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"West Bengal University of Animal and Fishery Sciences",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"KTH Royal Institute of Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"AIMST University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Mahsa University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Muscat College",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Kuala Lumpur",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Veterinary and Animal Sciences",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Catholic University of Daegu",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Siksha O Anusandhan University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Rama Devi Women's University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Calicut",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Zimmerman Associates (United States)",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Bangladesh University of Textiles",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Taiyuan University of Science and Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Bodoland University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"North East Institute of Science and Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Central Institute of Technology Kokrajhar",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Assam University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Florida Gulf Coast University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Gujarat Cancer Society",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Central Leather Research Institute",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Bar-Ilan University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Alma Mater Europaea",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Maribor",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Complexity Science Hub Vienna",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"China Medical University Hospital",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Institute of Microbial Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Sher-e-Bangla Agricultural University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Persian Gulf University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Islamic Azad University of Shiraz",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Minho",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Indian Institute of Technology Bhubaneswar",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Mansoura University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Lule\u00e5 University of Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University for Business and Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Essex",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Kent",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Asia Pacific",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Nova Southeastern University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Centre for Chronic Disease Control",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Agenzia Regionale Parchi",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Regione Lazio",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"London Metropolitan University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Qujing Normal University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Institute of Microbiology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Agroscope",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"French Community of Belgium",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Vale Technological Institute",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Warsaw",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Silesia in Katowice",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"National Center for Genetic Engineering and Biotechnology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Zhongkai University of Agriculture and Engineering",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Danderyds sjukhus",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Agharkar Research Institute",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"West Pomeranian University of Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Ahi Evran University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Universidade Federal de Pernambuco",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Royal Botanic Gardens, Kew",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Field Museum of Natural History",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Swedish University of Agricultural Sciences",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of South Bohemia in \u010cesk\u00e9 Bud\u011bjovice",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"National Institute of Fundamental Studies",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Mae Fah Luang University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Universidade Federal do Rio Grande do Norte",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Gda\u0144sk",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Estaci\u00f3n Experimental del Zaid\u00edn",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"H.S. Skovoroda Kharkiv National Pedagogical University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Institute for Research and Development",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"All-Russian Institute of Plant Protection",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Texas A&M University at Galveston",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Aligarh Muslim University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Carol Davila University of Medicine and Pharmacy",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Guru Nanak Dev University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Medicine and Pharmacy of Craiova",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Universidad del Azuay",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"G.B. Pant Institute of Himalayan Environment and Development",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Tezpur University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Universidade Federal de Mato Grosso do Sul",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Ruhuna",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Meise Botanic Garden",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Museu Paraense Em\u00edlio Goeldi",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Debrecen",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"National Science and Technology Development Agency",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Kunming Institute of Botany",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Universidad Aut\u00f3noma de Chiriqu\u00ed",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"National Bureau of Plant Genetic Resources",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Government of Mizoram",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Prince Sattam Bin Abdulaziz University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Arturo Prat University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"National Institute of Pharmaceutical Education and Research",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Zhejiang A & F University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Foshan University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Wuppertal",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"National Environmental Engineering Research Institute",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Kansas State University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"National University of Civil Engineering",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Newcastle Australia",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Yangzhou University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Kidney Health Australia",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Pusan National University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Central Salt and Marine Chemicals Research Institute",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Indian Institute of Information Technology Allahabad",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Chang Gung University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Central Electrochemical Research Institute",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"NIHR MindTech MedTech Co-operative",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Indian Institute of Management Calcutta",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Techno India University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Singapore-HUJ Alliance for Research and Enterprise",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Indira Gandhi Centre for Atomic Research",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Mizan Tepi University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Panjab University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Texas Tech University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Guru Gobind Singh Medical College and Hospital",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Texas Tech University Health Sciences Center",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Universiti Teknologi Brunei",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"VIT-AP University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of West Bohemia",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Indira Gandhi Agricultural University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Jawaharlal Nehru Krishi Vishwa Vidyalaya",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Indian Institute of Vegetable Research",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Central Rice Research Institute",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Kinnaird College for Women University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Western Norway University of Applied Sciences",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Brandon University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Management and Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Air University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Chhatrapati Shahu Ji Maharaj University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"North-West University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Washington State University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Indian Institute of Technology Dhanbad",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Dr. Hari Singh Gour University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Indian Institute of Information Technology, Nagpur",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Shiraz University of Medical Sciences",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"PES University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Princess Alexandra Hospital",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Kurdistan University of Medical Sciences",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Hellenic Mediterranean University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Software Competence Center Hagenberg (Austria)",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Beijing Institute of Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Qilu University of Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Zhengzhou University of Light Industry",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Shandong Academy of Sciences",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Nanjing University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Aalto University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Universitas Budi Luhur",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Reggio Calabria",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Madurai Kamaraj University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Haute \u00c9cole Provinciale de Hainaut Condorcet",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Laboratoire Science & technologie du Lait & de l'\u0153uf",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Punjab Agricultural University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Anadolu University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Korea Advanced Institute of Science and Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"An-Najah National University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Ambedkar University Delhi",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Beijing Normal University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Institut National des Sciences Appliqu\u00e9es de Rennes",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Laboratoire d'Automatique, de M\u00e9canique et d'Informatique Industrielles et Humaines",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Eski\u015fehir City Hospital",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Universidad Internacional De La Rioja",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"INSA Hauts-de-France",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Universit\u00e9 Polytechnique Hauts-de-France",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Shri Mata Vaishno Devi University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Indus University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of South Carolina",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"National Centre for Disease Informatics and Research",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Fu Jen Catholic University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Dr. Ram Manohar Lohia Avadh University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"National Institute for Interdisciplinary Science and Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Instituto de Tecnolog\u00eda Qu\u00edmica",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Target (United States)",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Institute for Stem Cell Biology and Regenerative Medicine",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"State Key Laboratory of Reproductive Medicine",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Jain University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Dongguk University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Singapore University of Technology and Design",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Edinburgh Napier University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Gujarat Technological University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Pondicherry University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Durban University of Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Deen Dayal Upadhyaya Gorakhpur University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Indian Council of Medical Research",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Galgotias University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Central University of Haryana",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"National University of Science and Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Riga Technical University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Instituto de Qu\u00edmica y Fisicoqu\u00edmica Biol\u00f3gicas",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Babasaheb Bhimrao Ambedkar University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Babu Banarasi Das University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Mangalmay Institute of Management and Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"National Institute of Technology Kurukshetra",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Mahavir Cancer Institute and Research Centre",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Defence Institute of Advanced Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"King Abdulaziz City for Science and Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Odisha University of Agriculture and Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Qassim University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Majmaah University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"CT Group Of Institutions",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Institute of Business Management",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Punjab Technical University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Cagliari",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Centre for Advanced Bioenergy Research",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"International Centre for Genetic Engineering and Biotechnology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Indira Gandhi National Tribal University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Yamagata University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Netaji Subhas University of Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Universiti Sains Malaysia",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Alabama",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"SASTRA University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"King Faisal University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Society for Cardiovascular Angiography and Interventions",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"BML Munjal University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Manav Rachna International Institute of Research and Studies",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Joint Commission",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Grace (United States)",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"House of Representatives",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Association of Chartered Certified Accountants",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Karen Hospital",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Dawn Research (United States)",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Institute of Molecular Medicine",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Jubilant Life Sciences (India)",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Khyber Medical University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Hospital Dr. Gustavo Fricke",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Nirma University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"American University of Sharjah",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Universiti Teknologi Petronas",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Technological University Dublin",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Brno University of Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Rajiv Gandhi Institute of Petroleum Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Swami Ramanand Teerth Marathwada University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Dong-A University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Abasyn University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Materials Processing (United States)",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Tyrone County Hospital",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Institute of Chemical Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of the West of England",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Xavier School of Management",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Dubai Pharmacy College",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"CMH Lahore Medical College and Institute of Dentistry",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Combined Military Hospital",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Science and Technology of Fujairah",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Institute of Medical Sciences",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"John D Bray MD",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Indian Institute of Management Lucknow",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Institute of Advanced Study in Science and Technology",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Imam Abdulrahman Bin Faisal University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Hawai\u02bbi at M\u0101noa",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Pasteur Institute of Iran",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Northwest A&F University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"University of Bor\u00e5s",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Al-Azhar University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Zhengzhou University",
+    "betweenness_centrality":0.0
+  },
+  {
+    "institution":"Universiti Brunei Darussalam",
+    "betweenness_centrality":0.0
+  }
+]

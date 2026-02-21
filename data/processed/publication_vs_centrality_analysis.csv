@@ -1,0 +1,1698 @@
+institution_id,publication_count,institution,weighted_degree_centrality,surprise_index
+https://openalex.org/I4210123359,1,national cancer institute,153,153.0
+https://openalex.org/I187453708,1,institute for high energy physics,151,151.0
+https://openalex.org/I3129407955,1,institute for high energy physics,151,151.0
+https://openalex.org/I32021983,1,kiel university,102,102.0
+https://openalex.org/I131434179,1,nanjing university of chinese medicine,102,102.0
+https://openalex.org/I4210149920,1,william harvey research institute,102,102.0
+https://openalex.org/I2800875313,1,mental health services,102,102.0
+https://openalex.org/I217937681,1,qimr berghofer medical research institute,102,102.0
+https://openalex.org/I51713134,1,university of colorado anschutz medical campus,102,102.0
+https://openalex.org/I4210110970,1,national institute of genomic medicine,102,102.0
+https://openalex.org/I1339947260,1,steno diabetes center,102,102.0
+https://openalex.org/I2802581871,1,edinburgh cancer research,102,102.0
+https://openalex.org/I2799929701,1,irccs materno infantile burlo garofolo,102,102.0
+https://openalex.org/I159650629,1,university of sassari,102,102.0
+https://openalex.org/I165441096,1,national health research institutes,102,102.0
+https://openalex.org/I4210148403,1,va eastern colorado health care system,102,102.0
+https://openalex.org/I4210156450,1,university medical centre mannheim,102,102.0
+https://openalex.org/I143397708,1,innsbruck medical university,102,102.0
+https://openalex.org/I1319360392,1,eurac research,102,102.0
+https://openalex.org/I12708293,1,sib swiss institute of bioinformatics,102,102.0
+https://openalex.org/I180297670,1,rti international,102,102.0
+https://openalex.org/I4210097491,1,23andme (united states),102,102.0
+https://openalex.org/I3129555431,1,university hospital regensburg,102,102.0
+https://openalex.org/I4210166781,1,nihr leicester biomedical research centre,102,102.0
+https://openalex.org/I4210123840,1,copenhagen prospective studies on asthma in childhood,102,102.0
+https://openalex.org/I23923803,1,university of exeter,102,102.0
+https://openalex.org/I4210127817,1,lundbeck foundation,102,102.0
+https://openalex.org/I43406934,1,université laval,102,102.0
+https://openalex.org/I4210118299,1,institute for biomedicine,102,102.0
+https://openalex.org/I28290843,1,university of surrey,102,102.0
+https://openalex.org/I101527212,1,statens serum institut,102,102.0
+https://openalex.org/I190249584,1,universität innsbruck,102,102.0
+https://openalex.org/I2802742124,1,john radcliffe hospital,102,102.0
+https://openalex.org/I2802040150,1,glenfield hospital,102,102.0
+https://openalex.org/I2802164966,1,university hospital heidelberg,102,102.0
+https://openalex.org/I114982161,1,isfahan university of medical sciences,102,102.0
+https://openalex.org/I2801403999,1,ucla medical center,102,102.0
+https://openalex.org/I126231945,1,queen's university belfast,102,102.0
+https://openalex.org/I1334415907,1,university medical center groningen,102,102.0
+https://openalex.org/I32762134,1,harokopio university of athens,102,102.0
+https://openalex.org/I368840534,1,university of mississippi,102,102.0
+https://openalex.org/I60668342,1,university of regensburg,102,102.0
+https://openalex.org/I4210160795,1,praevium research (united states),102,102.0
+https://openalex.org/I4391012607,1,division of cancer epidemiology and genetics,102,102.0
+https://openalex.org/I4210167247,1,national institute of mental health,101,101.0
+https://openalex.org/I4210158500,1,national institute of mental health,101,101.0
+https://openalex.org/I4210101901,1,instituto de física corpuscular,99,99.0
+https://openalex.org/I2800235667,1,kurchatov institute,99,99.0
+https://openalex.org/I3006985408,1,jožef stefan institute,99,99.0
+https://openalex.org/I2801876189,1,deutsches elektronen-synchrotron desy,99,99.0
+https://openalex.org/I4210142660,1,"istituto nazionale di fisica nucleare, laboratori nazionali di frascati",99,99.0
+https://openalex.org/I228664971,1,national university of general san martín,99,99.0
+https://openalex.org/I1850255,1,university of basel,99,99.0
+https://openalex.org/I29801172,1,thomas jefferson national accelerator facility,99,99.0
+https://openalex.org/I200870766,1,brookhaven national laboratory,99,99.0
+https://openalex.org/I116067653,1,university of rome tor vergata,99,99.0
+https://openalex.org/I135140700,1,university of bonn,99,99.0
+https://openalex.org/I171892758,1,forschungszentrum jülich,99,99.0
+https://openalex.org/I87216513,1,michigan state university,99,99.0
+https://openalex.org/I188973947,1,novosibirsk state university,99,99.0
+https://openalex.org/I71030271,1,heidelberg institute for theoretical studies,99,99.0
+https://openalex.org/I120611246,1,obayashi (japan),99,99.0
+https://openalex.org/I69740276,1,tokyo metropolitan university,99,99.0
+https://openalex.org/I861853513,1,sapienza university of rome,99,99.0
+https://openalex.org/I202697423,1,university of zurich,99,99.0
+https://openalex.org/I4210105455,1,"istituto nazionale di fisica nucleare, sezione di padova",99,99.0
+https://openalex.org/I4210134832,1,laboratoire de physique des 2 infinis irène joliot-curie,99,99.0
+https://openalex.org/I4210127387,1,siberian branch of the russian academy of sciences,99,99.0
+https://openalex.org/I102322142,1,"rutgers, the state university of new jersey",99,99.0
+https://openalex.org/I4210157027,1,international center for advanced studies,99,99.0
+https://openalex.org/I67311998,1,european organization for nuclear research,99,99.0
+https://openalex.org/I16097986,1,universitat de valència,99,99.0
+https://openalex.org/I188538660,1,university of colorado boulder,99,99.0
+https://openalex.org/I4210108560,1,"istituto nazionale di fisica nucleare, sezione di napoli",99,99.0
+https://openalex.org/I184558857,1,royal holloway university of london,99,99.0
+https://openalex.org/I142740786,1,university of louisville,99,99.0
+https://openalex.org/I8692664,1,university of oklahoma,99,99.0
+https://openalex.org/I84909340,1,institut des hautes études scientifiques,99,99.0
+https://openalex.org/I2800738734,1,"istituto nazionale di fisica nucleare, laboratori nazionali del gran sasso",99,99.0
+https://openalex.org/I4210140564,1,"istituto nazionale di fisica nucleare, sezione di milano bicocca",99,99.0
+https://openalex.org/I70983195,1,syracuse university,99,99.0
+https://openalex.org/I4210093566,1,national institute for subatomic physics,99,99.0
+https://openalex.org/I4210157426,1,"istituto nazionale di fisica nucleare, sezione di roma i",99,99.0
+https://openalex.org/I121934306,1,tufts university,99,99.0
+https://openalex.org/I138728355,1,high energy accelerator research organization,99,99.0
+https://openalex.org/I1327163397,1,state university of new york,99,99.0
+https://openalex.org/I4210085861,1,cea list,99,99.0
+https://openalex.org/I4210152800,1,stefan meyer institute for subatomic physics,99,99.0
+https://openalex.org/I103163165,1,florida state university,99,99.0
+https://openalex.org/I4210133362,1,institut national de physique nucléaire et de physique des particules,99,99.0
+https://openalex.org/I59553526,1,stony brook university,99,99.0
+https://openalex.org/I4843557,1,budker institute of nuclear physics,99,99.0
+https://openalex.org/I185638415,2,centre for cellular and molecular biology,189,94.5
+https://openalex.org/I47251452,2,wake forest university,189,94.5
+https://openalex.org/I24603500,2,university of massachusetts amherst,189,94.5
+https://openalex.org/I4210150921,2,riken center for integrative medical sciences,189,94.5
+https://openalex.org/I4210133586,2,institute for molecular medicine finland,189,94.5
+https://openalex.org/I1336263701,2,centre for human genetics,189,94.5
+https://openalex.org/I4210096666,2,"institute of biomedical sciences, academia sinica",189,94.5
+https://openalex.org/I16733864,2,national taiwan university,189,94.5
+https://openalex.org/I4210165985,2,harbor–ucla medical center,189,94.5
+https://openalex.org/I130238516,3,university of minnesota,280,93.33333333333333
+https://openalex.org/I2802582725,2,gentofte hospital,186,93.0
+https://openalex.org/I146655781,2,university of liverpool,186,93.0
+https://openalex.org/I2802864460,2,jackson memorial hospital,186,93.0
+https://openalex.org/I107606265,3,broad institute,273,91.0
+https://openalex.org/I3018134672,3,helmholtz zentrum münchen,273,91.0
+https://openalex.org/I115228651,2,"agency for science, technology and research",181,90.5
+https://openalex.org/I1335321130,2,children's hospital of philadelphia,181,90.5
+https://openalex.org/I161318765,2,"university of california, los angeles",178,89.0
+https://openalex.org/I4210108561,1,institut de recherche pour le développement,88,88.0
+https://openalex.org/I111979921,2,northwestern university,175,87.5
+https://openalex.org/I60134161,3,nagoya university,262,87.33333333333333
+https://openalex.org/I4210091196,1,vejle sygehus,87,87.0
+https://openalex.org/I76442945,1,hamilton health sciences,87,87.0
+https://openalex.org/I4210158597,1,mrc epidemiology unit,87,87.0
+https://openalex.org/I177607063,1,the lundquist institute,87,87.0
+https://openalex.org/I4210137962,1,centre for genomic regulation,87,87.0
+https://openalex.org/I2800484787,1,london north west healthcare nhs trust,87,87.0
+https://openalex.org/I27804330,1,brown university,87,87.0
+https://openalex.org/I4210160326,1,german center for diabetes research,87,87.0
+https://openalex.org/I90344618,1,medical research council,87,87.0
+https://openalex.org/I4210129944,1,"oxford centre for diabetes, endocrinology and metabolism",87,87.0
+https://openalex.org/I2799657458,1,ealing hospital,87,87.0
+https://openalex.org/I4210157790,1,statistical research (united states),87,87.0
+https://openalex.org/I4210163111,1,"consejo nacional de humanidades, ciencias y tecnologías",87,87.0
+https://openalex.org/I4210097010,1,korea national institute of health,87,87.0
+https://openalex.org/I4210152419,1,deutsches diabetes-zentrum e.v.,87,87.0
+https://openalex.org/I4210167107,1,european genomic institute for diabetes,87,87.0
+https://openalex.org/I111236770,1,university of vermont,87,87.0
+https://openalex.org/I4210138174,1,circadian (united states),87,87.0
+https://openalex.org/I2802834092,1,population health research institute,87,87.0
+https://openalex.org/I1327191685,1,decode genetics (iceland),87,87.0
+https://openalex.org/I146824383,1,hallym university,87,87.0
+https://openalex.org/I1283280774,4,brigham and women's hospital,346,86.5
+https://openalex.org/I4210136897,2,national institute on aging,171,85.5
+https://openalex.org/I98251732,2,mcmaster university,171,85.5
+https://openalex.org/I2279609970,2,université de lille,171,85.5
+https://openalex.org/I2800921988,2,institut pasteur de lille,171,85.5
+https://openalex.org/I3018718406,1,centre hospitalier universitaire de lille,84,84.0
+https://openalex.org/I126744593,1,"university of maryland, baltimore",84,84.0
+https://openalex.org/I158929114,1,tokyo medical university,84,84.0
+https://openalex.org/I1306134198,1,los angeles county department of public health,84,84.0
+https://openalex.org/I2799980853,1,korea university medical center,84,84.0
+https://openalex.org/I2801533059,1,german center for neurodegenerative diseases,84,84.0
+https://openalex.org/I4210086327,1,data tecnica international (united states),84,84.0
+https://openalex.org/I3018483916,1,university medical center utrecht,84,84.0
+https://openalex.org/I4210127591,1,german centre for cardiovascular research,84,84.0
+https://openalex.org/I4210137002,1,institut d'investigació en ciències de la salut germans trias i pujol,84,84.0
+https://openalex.org/I62916508,1,technical university of munich,84,84.0
+https://openalex.org/I4210159766,1,thrombolysis in myocardial infarction study group,84,84.0
+https://openalex.org/I4210106115,1,bordeaux population health,84,84.0
+https://openalex.org/I4210153238,1,icelandic heart association,84,84.0
+https://openalex.org/I92156820,1,university of cincinnati medical center,84,84.0
+https://openalex.org/I304662888,1,rajendra institute of medical sciences,84,84.0
+https://openalex.org/I1281400175,1,oslo university hospital,84,84.0
+https://openalex.org/I4210136366,1,tohoku medical megabank organization,84,84.0
+https://openalex.org/I186335123,1,east carolina university,84,84.0
+https://openalex.org/I54713919,1,geisinger health system,84,84.0
+https://openalex.org/I4210163125,1,va maryland health care system,84,84.0
+https://openalex.org/I32003884,1,british heart foundation,84,84.0
+https://openalex.org/I4210100389,1,universidade da região de joinville,84,84.0
+https://openalex.org/I180680657,1,iwate medical university,84,84.0
+https://openalex.org/I2800394112,1,helsinki university hospital,84,84.0
+https://openalex.org/I4210155985,1,thrombosis and atherosclerosis research institute,84,84.0
+https://openalex.org/I142444530,2,university of trieste,167,83.5
+https://openalex.org/I2800006345,2,leiden university medical center,163,81.5
+https://openalex.org/I148283060,2,lawrence berkeley national laboratory,163,81.5
+https://openalex.org/I162608824,2,university of sussex,163,81.5
+https://openalex.org/I1282105669,2,argonne national laboratory,163,81.5
+https://openalex.org/I135310074,2,university of wisconsin–madison,163,81.5
+https://openalex.org/I7877124,2,charité - universitätsmedizin berlin,163,81.5
+https://openalex.org/I100930933,2,university college dublin,163,81.5
+https://openalex.org/I2803058125,2,seoul national university bundang hospital,163,81.5
+https://openalex.org/I188760350,2,ollscoil na gaillimhe – university of galway,163,81.5
+https://openalex.org/I157725225,2,university of illinois urbana-champaign,163,81.5
+https://openalex.org/I63634437,2,universidad autónoma de madrid,163,81.5
+https://openalex.org/I40347166,4,university of chicago,326,81.5
+https://openalex.org/I111088046,3,boston university,243,81.0
+https://openalex.org/I277688954,2,université paris-saclay,161,80.5
+https://openalex.org/I135598925,4,kyushu university,321,80.25
+https://openalex.org/I2799503643,2,columbia university irving medical center,160,80.0
+https://openalex.org/I4210097900,2,instituto nacional de ciencias médicas y nutrición salvador zubirán,160,80.0
+https://openalex.org/I25974101,2,university of würzburg,160,80.0
+https://openalex.org/I15057530,3,université de bordeaux,239,79.66666666666667
+https://openalex.org/I169381384,2,university of groningen,159,79.5
+https://openalex.org/I56085075,4,university of tartu,317,79.25
+https://openalex.org/I47508984,6,imperial college london,475,79.16666666666667
+https://openalex.org/I2802407485,1,cuban neuroscience center,79,79.0
+https://openalex.org/I139264467,1,seoul national university,79,79.0
+https://openalex.org/I4210085920,1,shanghai institute for science of science,79,79.0
+https://openalex.org/I75951250,1,freie universität berlin,79,79.0
+https://openalex.org/I4210127693,1,penn center for aids research,79,79.0
+https://openalex.org/I4210116174,1,mrc centre for reproductive health,79,79.0
+https://openalex.org/I2799434747,1,douglas mental health university institute,79,79.0
+https://openalex.org/I87048295,1,wellcome trust,79,79.0
+https://openalex.org/I4210116691,1,wellcome/mrc institute of metabolic science,79,79.0
+https://openalex.org/I4210099595,1,va san diego healthcare system,79,79.0
+https://openalex.org/I4210144468,1,cambridgeshire and peterborough nhs foundation trust,79,79.0
+https://openalex.org/I699696,1,national institute of mental health and neurosciences,79,79.0
+https://openalex.org/I1299303238,4,national institutes of health,316,79.0
+https://openalex.org/I192597271,1,mrc cognition and brain sciences unit,79,79.0
+https://openalex.org/I4210133909,1,center for translational research in neuroimaging and data science,79,79.0
+https://openalex.org/I4210087077,1,institut des maladies neurodégénératives,79,79.0
+https://openalex.org/I4210097825,1,mind research institute,79,79.0
+https://openalex.org/I4210151747,1,lifespan,79,79.0
+https://openalex.org/I88273585,1,universidade federal de são paulo,79,79.0
+https://openalex.org/I4210101200,1,singapore institute for clinical sciences,79,79.0
+https://openalex.org/I2800129641,1,great ormond street hospital,79,79.0
+https://openalex.org/I4210164150,1,shanghai center for brain science and brain-inspired technology,79,79.0
+https://openalex.org/I98702875,1,université de caen normandie,79,79.0
+https://openalex.org/I4210130445,1,max planck institute for human cognitive and brain sciences,79,79.0
+https://openalex.org/I4210154143,1,cyceron,79,79.0
+https://openalex.org/I4210110827,1,prostate cancer research,79,79.0
+https://openalex.org/I4387153933,1,physiopathologie et imagerie des troubles neurologiques,79,79.0
+https://openalex.org/I1292859797,1,montreal neurological institute and hospital,79,79.0
+https://openalex.org/I887064364,3,university of amsterdam,236,78.66666666666667
+https://openalex.org/I1285301757,2,rush university medical center,157,78.5
+https://openalex.org/I86501945,2,university of delaware,156,78.0
+https://openalex.org/I901861585,4,vanderbilt university medical center,312,78.0
+https://openalex.org/I4210125099,2,mayo clinic in arizona,155,77.5
+https://openalex.org/I4387153466,2,weill cornell medicine,155,77.5
+https://openalex.org/I4210090236,3,national human genome research institute,232,77.33333333333333
+https://openalex.org/I201537933,3,tohoku university,231,77.0
+https://openalex.org/I39343248,3,humboldt-universität zu berlin,231,77.0
+https://openalex.org/I4210140884,2,national cancer institute,153,76.5
+https://openalex.org/I126158947,1,universidade federal da bahia,76,76.0
+https://openalex.org/I2799390153,1,leeds teaching hospitals nhs trust,76,76.0
+https://openalex.org/I9341345,1,university of lübeck,76,76.0
+https://openalex.org/I4210112713,1,university hospital schleswig-holstein,76,76.0
+https://openalex.org/I1330342723,1,mayo clinic,76,76.0
+https://openalex.org/I4210093194,1,fudan university shanghai cancer center,76,76.0
+https://openalex.org/I5023651,2,mcgill university,152,76.0
+https://openalex.org/I2799649065,1,aga khan university hospital nairobi,76,76.0
+https://openalex.org/I4210099858,1,marqués de valdecilla university hospital,76,76.0
+https://openalex.org/I24185976,1,sichuan university,76,76.0
+https://openalex.org/I4210150365,1,institut paoli-calmettes,76,76.0
+https://openalex.org/I4210161906,1,centre international de recherche en infectiologie,76,76.0
+https://openalex.org/I4210136334,1,chi mei medical center,76,76.0
+https://openalex.org/I4210120975,1,hôpital cardiologique du haut-lévêque,76,76.0
+https://openalex.org/I4210089761,1,west china hospital of sichuan university,76,76.0
+https://openalex.org/I100532134,1,université claude bernard lyon 1,76,76.0
+https://openalex.org/I4210113075,1,instituto de investigación marqués de valdecilla,76,76.0
+https://openalex.org/I4210121186,1,royal marsden hospital,76,76.0
+https://openalex.org/I102064193,1,university of siena,76,76.0
+https://openalex.org/I4210116730,1,universitätsmedizin göttingen,76,76.0
+https://openalex.org/I126218986,1,children's hospital of wisconsin,76,76.0
+https://openalex.org/I4210155990,1,s.l. raheja hospital,76,76.0
+https://openalex.org/I204465549,4,washington university in st. louis,302,75.5
+https://openalex.org/I881427289,3,university of gothenburg,225,75.0
+https://openalex.org/I2801671727,3,va boston healthcare system,225,75.0
+https://openalex.org/I197251160,2,hebrew university of jerusalem,148,74.0
+https://openalex.org/I181369854,4,friedrich-alexander-universität erlangen-nürnberg,296,74.0
+https://openalex.org/I2802934949,4,radboud university medical center,295,73.75
+https://openalex.org/I145872427,4,radboud university nijmegen,295,73.75
+https://openalex.org/I138211613,2,austrian academy of sciences,147,73.5
+https://openalex.org/I2800528635,1,mackay base hospital,73,73.0
+https://openalex.org/I4210095389,1,va western new york healthcare system,73,73.0
+https://openalex.org/I2802359038,1,hospital italiano de buenos aires,73,73.0
+https://openalex.org/I4210099176,1,universidade cidade de são paulo,73,73.0
+https://openalex.org/I4210116254,1,institute for musculoskeletal health,73,73.0
+https://openalex.org/I4210102099,1,va ann arbor healthcare system,73,73.0
+https://openalex.org/I141074466,1,vancouver coastal health,73,73.0
+https://openalex.org/I196829312,1,la trobe university,73,73.0
+https://openalex.org/I83657090,1,neuroscience research australia,73,73.0
+https://openalex.org/I4210154619,1,st. james's hospital,73,73.0
+https://openalex.org/I4210148356,1,ggd amsterdam,73,73.0
+https://openalex.org/I98461037,1,tecnológico de monterrey,73,73.0
+https://openalex.org/I4210140513,1,sydney local health district,73,73.0
+https://openalex.org/I195939026,1,glasgow caledonian university,73,73.0
+https://openalex.org/I4210116486,1,western health,73,73.0
+https://openalex.org/I878454856,1,hasselt university,73,73.0
+https://openalex.org/I4210156876,1,va greater los angeles healthcare system,73,73.0
+https://openalex.org/I2801766832,1,mcgill university health centre,73,73.0
+https://openalex.org/I4210150894,1,jacobs (united states),73,73.0
+https://openalex.org/I1297363086,1,st. michael's hospital,73,73.0
+https://openalex.org/I98285908,3,osaka university,219,73.0
+https://openalex.org/I131944076,1,lawson health research institute,73,73.0
+https://openalex.org/I2799725268,1,manchester academic health science centre,73,73.0
+https://openalex.org/I4210102853,1,parkwood institute,73,73.0
+https://openalex.org/I4210131405,1,women and children’s health research institute,73,73.0
+https://openalex.org/I129975664,1,albert einstein college of medicine,73,73.0
+https://openalex.org/I4210119033,1,northern sydney local health district,73,73.0
+https://openalex.org/I4210123879,1,hebrew seniorlife,73,73.0
+https://openalex.org/I169541294,1,flinders university,73,73.0
+https://openalex.org/I2799615058,1,british geriatrics society,73,73.0
+https://openalex.org/I2799807261,1,tel aviv sourasky medical center,73,73.0
+https://openalex.org/I4210117572,1,australian institute for musculoskeletal science,73,73.0
+https://openalex.org/I4210158168,1,melbourne health,73,73.0
+https://openalex.org/I4210150180,1,vancouver coastal health research institute,73,73.0
+https://openalex.org/I4210092852,1,manchester university nhs foundation trust,73,73.0
+https://openalex.org/I4210115484,1,national center for chronic and noncommunicable disease control and prevention,73,73.0
+https://openalex.org/I63190737,1,"university at buffalo, state university of new york",73,73.0
+https://openalex.org/I1336910626,3,children's hospital of los angeles,217,72.33333333333333
+https://openalex.org/I51556381,5,university of virginia,356,71.2
+https://openalex.org/I185103710,2,"university of california, santa cruz",142,71.0
+https://openalex.org/I2801317318,2,hospital for sick children,141,70.5
+https://openalex.org/I63966007,2,massachusetts institute of technology,141,70.5
+https://openalex.org/I153648349,2,university of leicester,141,70.5
+https://openalex.org/I4210097159,2,assistance publique – hôpitaux de paris,141,70.5
+https://openalex.org/I2802768257,3,robert bosch hospital,211,70.33333333333333
+https://openalex.org/I39555362,3,university of warwick,210,70.0
+https://openalex.org/I4210153126,2,istituti di ricovero e cura a carattere scientifico,138,69.0
+https://openalex.org/I2803066834,2,fondazione irccs ca' granda ospedale maggiore policlinico,138,69.0
+https://openalex.org/I4210147586,2,texas children's hospital,138,69.0
+https://openalex.org/I4210134900,2,jena university hospital,138,69.0
+https://openalex.org/I136750679,2,garvan institute of medical research,138,69.0
+https://openalex.org/I2801843802,2,institut gustave roussy,138,69.0
+https://openalex.org/I4210123352,2,bambino gesù children's hospital,138,69.0
+https://openalex.org/I4210120009,2,dr. margarete fischer-bosch-institute of clinical pharmacology,138,69.0
+https://openalex.org/I4210103786,2,"national university cancer institute, singapore",138,69.0
+https://openalex.org/I55769427,2,indiana university – purdue university indianapolis,138,69.0
+https://openalex.org/I70931966,2,université de montréal,135,67.5
+https://openalex.org/I1288882113,5,boston children's hospital,335,67.0
+https://openalex.org/I2799299286,3,singapore national eye center,201,67.0
+https://openalex.org/I4210116917,3,singapore eye research institute,201,67.0
+https://openalex.org/I157614274,2,university of cape town,133,66.5
+https://openalex.org/I4210150290,2,murdoch children's research institute,133,66.5
+https://openalex.org/I4210157117,2,red cross war memorial children's hospital,133,66.5
+https://openalex.org/I124055696,5,university of copenhagen,332,66.4
+https://openalex.org/I193775966,2,yonsei university,132,66.0
+https://openalex.org/I4210150261,3,national university health system,198,66.0
+https://openalex.org/I155660961,4,university of turku,264,66.0
+https://openalex.org/I2801952686,6,erasmus mc,396,66.0
+https://openalex.org/I2801935854,1,slac national accelerator laboratory,65,65.0
+https://openalex.org/I2801536946,1,trieste astronomical observatory,65,65.0
+https://openalex.org/I4210135837,1,national center for supercomputing applications,65,65.0
+https://openalex.org/I4210130807,1,instituto de astrofísica de canarias,65,65.0
+https://openalex.org/I183974707,1,perimeter institute,65,65.0
+https://openalex.org/I4210094059,1,kavli institute for particle astrophysics and cosmology,65,65.0
+https://openalex.org/I4210137573,1,institute for physics,65,65.0
+https://openalex.org/I158438070,1,universidad de la laguna,65,65.0
+https://openalex.org/I181391015,1,universidade estadual de campinas (unicamp),65,65.0
+https://openalex.org/I879563668,1,universidade estadual paulista (unesp),65,65.0
+https://openalex.org/I132487946,1,institute of space sciences,65,65.0
+https://openalex.org/I29607241,1,école normale supérieure - psl,65,65.0
+https://openalex.org/I4210089473,1,institute of astrophysics and space sciences,65,65.0
+https://openalex.org/I4210150701,1,laboratório interinstitucional de e-astronomia,65,65.0
+https://openalex.org/I1331384533,1,university of hawaii system,65,65.0
+https://openalex.org/I118347636,1,australian national university,65,65.0
+https://openalex.org/I99043593,1,macquarie university,65,65.0
+https://openalex.org/I1334627681,1,jet propulsion laboratory,65,65.0
+https://openalex.org/I4210152020,1,institute for fundamental physics of the universe,65,65.0
+https://openalex.org/I4210140583,1,cerro tololo inter-american observatory,65,65.0
+https://openalex.org/I4210165411,1,"centro de investigaciones energéticas, medioambientales y tecnológicas",65,65.0
+https://openalex.org/I49611733,1,uk astronomy technology centre,65,65.0
+https://openalex.org/I4210124175,1,center for astrophysics harvard & smithsonian,65,65.0
+https://openalex.org/I4210089367,1,valongo observatory,65,65.0
+https://openalex.org/I2746051580,1,université paris sciences et lettres,65,65.0
+https://openalex.org/I4210100596,2,hospices civils de lyon,130,65.0
+https://openalex.org/I4210125312,1,national observatory,65,65.0
+https://openalex.org/I4210092024,1,institut d'estudis espacials de catalunya,65,65.0
+https://openalex.org/I2802476451,2,wellcome sanger institute,130,65.0
+https://openalex.org/I2799389969,1,lowell observatory,65,65.0
+https://openalex.org/I2802629923,1,australian astronomical observatory,65,65.0
+https://openalex.org/I184942183,1,university of oslo,65,65.0
+https://openalex.org/I65181880,2,indian institute of technology hyderabad,129,64.5
+https://openalex.org/I2738703131,3,commissariat à l'énergie atomique et aux énergies alternatives,193,64.33333333333333
+https://openalex.org/I116419501,1,universidad mayor,64,64.0
+https://openalex.org/I4210160674,1,ministry of health and social welfare,64,64.0
+https://openalex.org/I99165933,1,university of gujrat,64,64.0
+https://openalex.org/I131762061,1,georgian technical university,64,64.0
+https://openalex.org/I10457146,1,universidad de santiago de chile,64,64.0
+https://openalex.org/I174458059,1,national technical university of athens,64,64.0
+https://openalex.org/I129628643,1,université joseph ki-zerbo,64,64.0
+https://openalex.org/I4210145257,1,agricultural biotechnology research institute of iran,64,64.0
+https://openalex.org/I162254961,1,national university of lesotho,64,64.0
+https://openalex.org/I198243066,1,universidad nacional,64,64.0
+https://openalex.org/I4210095581,1,universidad nacional del centro del perú,64,64.0
+https://openalex.org/I205051169,1,kingston university,64,64.0
+https://openalex.org/I165368041,1,university of iceland,64,64.0
+https://openalex.org/I4210123911,1,institut de recherches géologiques et minières,64,64.0
+https://openalex.org/I3132505570,1,southern leyte state university,64,64.0
+https://openalex.org/I4391767860,1,central midwest water science center,64,64.0
+https://openalex.org/I13897259,1,universidad andrés bello,64,64.0
+https://openalex.org/I130343225,1,universiti putra malaysia,64,64.0
+https://openalex.org/I4210135882,1,ect oekotoxikologie (germany),64,64.0
+https://openalex.org/I187400657,1,south china normal university,64,64.0
+https://openalex.org/I60559429,1,nazarbayev university,64,64.0
+https://openalex.org/I1286329397,1,united states geological survey,64,64.0
+https://openalex.org/I305407034,1,patuakhali science and technology university,64,64.0
+https://openalex.org/I4210119417,1,université d'abomey-calavi,64,64.0
+https://openalex.org/I122147150,1,higher university of san andrés,64,64.0
+https://openalex.org/I4210124406,1,amsterdam institute for global health and development,64,64.0
+https://openalex.org/I195729267,1,njala university,64,64.0
+https://openalex.org/I44260953,3,heinrich heine university düsseldorf,192,64.0
+https://openalex.org/I3020002803,1,instituto federal do rio grande do norte,64,64.0
+https://openalex.org/I4210141258,1,center for marine and oceanographic research,64,64.0
+https://openalex.org/I10232997,1,l. n. gumilyov eurasian national university,64,64.0
+https://openalex.org/I168719708,1,city university of hong kong,64,64.0
+https://openalex.org/I128212801,1,smithsonian tropical research institute,64,64.0
+https://openalex.org/I2802567020,3,copenhagen university hospital,192,64.0
+https://openalex.org/I91732220,1,universidad del valle,64,64.0
+https://openalex.org/I14500998,1,international university of monaco,64,64.0
+https://openalex.org/I2799500531,1,lagos state polytechnic,64,64.0
+https://openalex.org/I10017102,1,agricultural university of tirana,64,64.0
+https://openalex.org/I196551433,1,yerevan state university,64,64.0
+https://openalex.org/I21215505,1,al-quds university,64,64.0
+https://openalex.org/I4210133764,1,université pédagogique nationale,64,64.0
+https://openalex.org/I204730241,2,université paris cité,127,63.5
+https://openalex.org/I4210105918,2,normandie université,127,63.5
+https://openalex.org/I2801498763,3,odense university hospital,190,63.333333333333336
+https://openalex.org/I223822909,4,heidelberg university,253,63.25
+https://openalex.org/I4210094012,2,national center for global health and medicine,126,63.0
+https://openalex.org/I2801134892,4,novo nordisk foundation,252,63.0
+https://openalex.org/I4210092133,2,centro de investigación biomédica en red diabetes y enfermedades metabólicas asociadas,126,63.0
+https://openalex.org/I97565354,2,university of lausanne,126,63.0
+https://openalex.org/I200166805,1,guy's and st thomas' nhs foundation trust,62,62.0
+https://openalex.org/I4210093919,1,munich leukemia laboratory (germany),62,62.0
+https://openalex.org/I4210133069,1,hôpital ambroise-paré,62,62.0
+https://openalex.org/I4210088053,2,universitätsklinikum erlangen,124,62.0
+https://openalex.org/I34809795,1,medizinische hochschule hannover,62,62.0
+https://openalex.org/I1314135232,1,nationwide children's hospital,62,62.0
+https://openalex.org/I4210141964,1,institut cochin,62,62.0
+https://openalex.org/I4394709130,1,indiana university school of medicine,62,62.0
+https://openalex.org/I4210111810,1,hospital infantil universitario niño jesús,62,62.0
+https://openalex.org/I193662353,2,utrecht university,124,62.0
+https://openalex.org/I29045822,1,hôpital maisonneuve-rosemont,62,62.0
+https://openalex.org/I4210092774,1,hôpital cochin,62,62.0
+https://openalex.org/I1285204247,1,cincinnati children's hospital medical center,62,62.0
+https://openalex.org/I2801112325,1,sahlgrenska university hospital,62,62.0
+https://openalex.org/I4210125843,1,university hospital leipzig,62,62.0
+https://openalex.org/I193531525,2,george washington university,123,61.5
+https://openalex.org/I2801795740,2,hospital de sant pau,123,61.5
+https://openalex.org/I150229711,2,university of electronic science and technology of china,123,61.5
+https://openalex.org/I29606459,2,university of mississippi medical center,123,61.5
+https://openalex.org/I133731052,7,university of helsinki,429,61.285714285714285
+https://openalex.org/I8204097,5,ludwig-maximilians-universität münchen,305,61.0
+https://openalex.org/I4210151833,4,amsterdam university medical centers,243,60.75
+https://openalex.org/I204778367,2,norwegian university of science and technology,121,60.5
+https://openalex.org/I40120149,9,university of oxford,542,60.22222222222222
+https://openalex.org/I114027177,5,university of north carolina at chapel hill,301,60.2
+https://openalex.org/I2801970007,3,turku university hospital,180,60.0
+https://openalex.org/I138689650,3,university of padua,178,59.333333333333336
+https://openalex.org/I98704320,4,icahn school of medicine at mount sinai,237,59.25
+https://openalex.org/I170201317,4,university of pittsburgh,237,59.25
+https://openalex.org/I114090438,3,goethe university frankfurt,177,59.0
+https://openalex.org/I142263535,4,university of nottingham,235,58.75
+https://openalex.org/I204337017,3,aarhus university,176,58.666666666666664
+https://openalex.org/I32597200,2,ghent university,117,58.5
+https://openalex.org/I16391192,5,tel aviv university,291,58.2
+https://openalex.org/I24943067,3,fudan university,174,58.0
+https://openalex.org/I66946132,3,"university of maryland, college park",174,58.0
+https://openalex.org/I154526488,9,inserm,522,58.0
+https://openalex.org/I1314696892,3,fermi national accelerator laboratory,173,57.666666666666664
+https://openalex.org/I204308271,2,medical college of wisconsin,115,57.5
+https://openalex.org/I200296433,2,chinese academy of medical sciences & peking union medical college,115,57.5
+https://openalex.org/I177969490,5,university of southern denmark,287,57.4
+https://openalex.org/I114457229,3,university of geneva,172,57.333333333333336
+https://openalex.org/I241749,10,university of cambridge,572,57.2
+https://openalex.org/I52357470,6,the ohio state university,343,57.166666666666664
+https://openalex.org/I32971472,7,yale university,399,57.0
+https://openalex.org/I171256487,1,university of technology - iraq,57,57.0
+https://openalex.org/I199143407,1,sunchon national university,57,57.0
+https://openalex.org/I181647926,1,university of strathclyde,57,57.0
+https://openalex.org/I75256744,1,tennessee state university,57,57.0
+https://openalex.org/I4210087407,1,indonesian pediatric society,57,57.0
+https://openalex.org/I2799553609,1,rothamsted research,57,57.0
+https://openalex.org/I31766871,1,sookmyung women's university,57,57.0
+https://openalex.org/I4210122504,1,loewe centre for translational biodiversity genomics,57,57.0
+https://openalex.org/I1301553790,1,j. craig venter institute,57,57.0
+https://openalex.org/I122140584,1,universidade federal do rio de janeiro,57,57.0
+https://openalex.org/I134820265,1,consejo superior de investigaciones científicas,57,57.0
+https://openalex.org/I2799300731,1,norwich research park,57,57.0
+https://openalex.org/I4210142396,1,oil crops research institute,57,57.0
+https://openalex.org/I31944674,1,universidad de costa rica,57,57.0
+https://openalex.org/I150209017,1,scripps institution of oceanography,57,57.0
+https://openalex.org/I889458895,1,university of hong kong,57,57.0
+https://openalex.org/I196679689,1,joint genome institute,57,57.0
+https://openalex.org/I123431417,1,scripps research institute,57,57.0
+https://openalex.org/I4210107786,1,netherlands institute of ecology,57,57.0
+https://openalex.org/I3045169105,1,southern university of science and technology,57,57.0
+https://openalex.org/I4210137448,1,"instituto de hortofruticultura subtropical y mediterránea ""la mayora""",57,57.0
+https://openalex.org/I121797337,1,leiden university,57,57.0
+https://openalex.org/I4210138501,1,chinese academy of agricultural sciences,57,57.0
+https://openalex.org/I4210113371,1,westerdijk fungal biodiversity institute,57,57.0
+https://openalex.org/I227486990,1,university of szeged,57,57.0
+https://openalex.org/I100288624,1,john innes centre,57,57.0
+https://openalex.org/I151201029,3,consejo nacional de investigaciones científicas y técnicas,171,57.0
+https://openalex.org/I63664421,1,swiss federal institute of aquatic science and technology,57,57.0
+https://openalex.org/I82767444,1,universidad de málaga,57,57.0
+https://openalex.org/I913481162,1,wageningen university & research,57,57.0
+https://openalex.org/I196817621,1,carnegie institution for science,57,57.0
+https://openalex.org/I4210102541,1,shenzhen bay laboratory,57,57.0
+https://openalex.org/I4210117844,1,department of embryology,57,57.0
+https://openalex.org/I33213144,1,university of florida,57,57.0
+https://openalex.org/I4210151987,1,ministry of agriculture and rural affairs,57,57.0
+https://openalex.org/I158688498,1,yenepoya university,57,57.0
+https://openalex.org/I36258959,16,"university of california, san diego",911,56.9375
+https://openalex.org/I32389192,5,university of alabama at birmingham,283,56.6
+https://openalex.org/I185261750,5,university of toronto,281,56.2
+https://openalex.org/I4210093292,2,centre hospitalier universitaire de montpellier,112,56.0
+https://openalex.org/I129774422,2,university of vienna,112,56.0
+https://openalex.org/I4210126319,3,duke-nus medical school,168,56.0
+https://openalex.org/I865915315,4,vrije universiteit amsterdam,223,55.75
+https://openalex.org/I183935753,6,king's college london,333,55.5
+https://openalex.org/I79576946,19,university of pennsylvania,1053,55.421052631578945
+https://openalex.org/I205274468,3,trinity college dublin,166,55.333333333333336
+https://openalex.org/I98358874,2,delft university of technology,110,55.0
+https://openalex.org/I43439940,2,university of southampton,110,55.0
+https://openalex.org/I4210131804,5,national taiwan university hospital,274,54.8
+https://openalex.org/I11947397,2,tata institute of fundamental research,109,54.5
+https://openalex.org/I2800229700,2,helsinki institute of physics,109,54.5
+https://openalex.org/I2800154431,2,keck hospital of usc,109,54.5
+https://openalex.org/I183067930,2,shanghai jiao tong university,109,54.5
+https://openalex.org/I2801081054,2,the francis crick institute,109,54.5
+https://openalex.org/I151808059,1,colorado school of public health,54,54.0
+https://openalex.org/I10947320,1,south african medical research council,54,54.0
+https://openalex.org/I4210118037,1,manhiça health research centre,54,54.0
+https://openalex.org/I4210114390,1,centro hospitalar lisboa norte,54,54.0
+https://openalex.org/I4210139031,1,centro de educación médica e investigaciones clínicas norberto quirno,54,54.0
+https://openalex.org/I111199411,1,university of peradeniya,54,54.0
+https://openalex.org/I4210089315,1,hôpital de la croix-rousse,54,54.0
+https://openalex.org/I1339531966,1,alaska native tribal health consortium,54,54.0
+https://openalex.org/I43777268,1,nagasaki university,54,54.0
+https://openalex.org/I4210132331,1,institute of environmental science and research,54,54.0
+https://openalex.org/I4210106928,1,dongguk university ilsan hospital,54,54.0
+https://openalex.org/I4210112252,1,kk women's and children's hospital,54,54.0
+https://openalex.org/I4210123775,1,infant foundation,54,54.0
+https://openalex.org/I106329310,1,national center for disease control and public health,54,54.0
+https://openalex.org/I92251255,1,university of split,54,54.0
+https://openalex.org/I4210129097,1,center for global health,54,54.0
+https://openalex.org/I175234967,1,the kids research institute australia,54,54.0
+https://openalex.org/I1321649718,1,royal children's hospital,54,54.0
+https://openalex.org/I4210139883,1,research institute of influenza,54,54.0
+https://openalex.org/I61923386,1,jawaharlal institute of post graduate medical education and research,54,54.0
+https://openalex.org/I4210097149,1,fundación para el fomento de la investigación sanitaria y biomédica de la comunitat valenciana,54,54.0
+https://openalex.org/I4210086221,1,national center for communicable diseases,54,54.0
+https://openalex.org/I4210114143,1,glaxosmithkline (united states),54,54.0
+https://openalex.org/I4210123216,2,rudjer boskovic institute,108,54.0
+https://openalex.org/I20231570,2,peking university,108,54.0
+https://openalex.org/I196349391,3,universität ulm,162,54.0
+https://openalex.org/I35440088,3,eth zurich,162,54.0
+https://openalex.org/I107920810,1,national health laboratory service,54,54.0
+https://openalex.org/I2841861,1,kenya medical research institute,54,54.0
+https://openalex.org/I4210139172,1,meditation de-addiction health aids nutrition trust,54,54.0
+https://openalex.org/I4210166344,1,hospital general de niños ricardo gutierrez,54,54.0
+https://openalex.org/I4210091910,1,noguchi memorial institute for medical research,54,54.0
+https://openalex.org/I8087733,5,university of tübingen,269,53.8
+https://openalex.org/I123044942,4,universitat autònoma de barcelona,215,53.75
+https://openalex.org/I170897317,5,duke university,268,53.6
+https://openalex.org/I201448701,9,university of washington,482,53.55555555555556
+https://openalex.org/I11932220,2,institució catalana de recerca i estudis avançats,107,53.5
+https://openalex.org/I162148367,2,pontificia universidad católica de chile,107,53.5
+https://openalex.org/I95457486,3,"university of california, berkeley",160,53.333333333333336
+https://openalex.org/I153976015,3,university of ljubljana,160,53.333333333333336
+https://openalex.org/I28407311,3,university of manchester,160,53.333333333333336
+https://openalex.org/I153718931,3,university of ottawa,160,53.333333333333336
+https://openalex.org/I205783295,4,cornell university,213,53.25
+https://openalex.org/I27837315,19,university of michigan–ann arbor,1009,53.10526315789474
+https://openalex.org/I92446798,1,colorado state university,53,53.0
+https://openalex.org/I1298723799,1,environmental defense fund,53,53.0
+https://openalex.org/I98677209,5,university of edinburgh,265,53.0
+https://openalex.org/I4210124598,1,palo alto institute,53,53.0
+https://openalex.org/I94624287,1,university of twente,53,53.0
+https://openalex.org/I1313416372,1,us forest service,53,53.0
+https://openalex.org/I4210160530,1,swiss academy of sciences,53,53.0
+https://openalex.org/I95674353,1,uclouvain,53,53.0
+https://openalex.org/I2802709434,4,rigshospitalet,212,53.0
+https://openalex.org/I205349734,1,hokkaido university,53,53.0
+https://openalex.org/I130785548,1,clark university,53,53.0
+https://openalex.org/I110079840,1,university of hohenheim,53,53.0
+https://openalex.org/I127019355,1,national university of tucumán,53,53.0
+https://openalex.org/I1289461252,1,indian space research organisation,53,53.0
+https://openalex.org/I4210114288,1,water and land resource centre,53,53.0
+https://openalex.org/I14716724,1,azim premji university,53,53.0
+https://openalex.org/I4210137965,1,laboratoire d'écologie alpine,53,53.0
+https://openalex.org/I17653759,1,fund for scientific research,53,53.0
+https://openalex.org/I151746483,1,university of waterloo,53,53.0
+https://openalex.org/I4210151079,1,instituto multidisciplinario de biología vegetal,53,53.0
+https://openalex.org/I70900168,1,université savoie mont blanc,53,53.0
+https://openalex.org/I55732556,1,arizona state university,53,53.0
+https://openalex.org/I15477984,1,james hutton institute,53,53.0
+https://openalex.org/I1286502909,1,ministry for the environment,53,53.0
+https://openalex.org/I1294671590,12,centre national de la recherche scientifique,636,53.0
+https://openalex.org/I39804081,2,sorbonne université,106,53.0
+https://openalex.org/I92869138,1,boku university,53,53.0
+https://openalex.org/I110594554,1,ikerbasque,53,53.0
+https://openalex.org/I4210092744,1,basque centre for climate change,53,53.0
+https://openalex.org/I166401450,1,universidad nacional de córdoba,53,53.0
+https://openalex.org/I181996519,1,indian institute of science education and research pune,53,53.0
+https://openalex.org/I899635006,1,université grenoble alpes,53,53.0
+https://openalex.org/I80849659,1,national institute for space research,53,53.0
+https://openalex.org/I4210160793,1,institute of geographic sciences and natural resources research,53,53.0
+https://openalex.org/I73822459,1,national university of san luis,53,53.0
+https://openalex.org/I189158943,3,university of milan,158,52.666666666666664
+https://openalex.org/I181631907,2,university of ibadan,105,52.5
+https://openalex.org/I131249849,2,oregon state university,105,52.5
+https://openalex.org/I138006243,2,university of arizona,104,52.0
+https://openalex.org/I45129253,14,university college london,726,51.857142857142854
+https://openalex.org/I56590836,6,monash university,310,51.666666666666664
+https://openalex.org/I145311948,5,johns hopkins university,258,51.6
+https://openalex.org/I190082696,2,durham university,102,51.0
+https://openalex.org/I1343052199,2,kaiser permanente,102,51.0
+https://openalex.org/I136199984,14,harvard university,714,51.0
+https://openalex.org/I63072094,2,university of portsmouth,102,51.0
+https://openalex.org/I17974374,4,universidade de são paulo,203,50.75
+https://openalex.org/I2799853436,2,johns hopkins medicine,101,50.5
+https://openalex.org/I34771391,2,university of cyprus,101,50.5
+https://openalex.org/I129604602,4,university of sydney,200,50.0
+https://openalex.org/I181547552,5,baylor college of medicine,248,49.6
+https://openalex.org/I22299242,4,kyoto university,196,49.0
+https://openalex.org/I1316535847,3,beth israel deaconess medical center,147,49.0
+https://openalex.org/I4210166598,3,queen elizabeth hospital,147,49.0
+https://openalex.org/I225661044,2,barts health nhs trust,98,49.0
+https://openalex.org/I8961855,2,universidad nacional autónoma de méxico,98,49.0
+https://openalex.org/I166337079,3,queen mary university of london,146,48.666666666666664
+https://openalex.org/I130701444,2,georgia institute of technology,97,48.5
+https://openalex.org/I130828816,2,university of leeds,97,48.5
+https://openalex.org/I199028557,1,kyushu sangyo university,48,48.0
+https://openalex.org/I110200422,1,universidade federal de minas gerais,48,48.0
+https://openalex.org/I22465464,1,university of münster,48,48.0
+https://openalex.org/I133984924,1,doshisha university,48,48.0
+https://openalex.org/I106118109,1,eötvös loránd university,48,48.0
+https://openalex.org/I96673099,5,technical university of denmark,240,48.0
+https://openalex.org/I4210121373,1,erich schmid institute of materials science,48,48.0
+https://openalex.org/I4210130800,1,groupe de physique des matériaux,48,48.0
+https://openalex.org/I2802789608,1,ames national laboratory,48,48.0
+https://openalex.org/I177909021,1,universidade federal de são carlos,48,48.0
+https://openalex.org/I4210091470,1,institute of solid state physics,48,48.0
+https://openalex.org/I4210102261,1,m.n. mikheev institute of metal physics,48,48.0
+https://openalex.org/I149851306,1,national academy of sciences of ukraine,48,48.0
+https://openalex.org/I6178835,1,ibaraki university,48,48.0
+https://openalex.org/I197274945,1,nagoya institute of technology,48,48.0
+https://openalex.org/I63341726,1,université du québec à trois-rivières,48,48.0
+https://openalex.org/I173911158,1,iowa state university,48,48.0
+https://openalex.org/I4210114611,1,"czech academy of sciences, institute of physics of materials",48,48.0
+https://openalex.org/I4210165351,1,toyota central research and development laboratories (japan),48,48.0
+https://openalex.org/I4210115482,1,laboratoire d'étude des microstructures et de mécanique des matériaux,48,48.0
+https://openalex.org/I102335020,1,karlsruhe institute of technology,48,48.0
+https://openalex.org/I182712176,1,montanuniversität leoben,48,48.0
+https://openalex.org/I10660446,1,kunming university of science and technology,48,48.0
+https://openalex.org/I207014233,1,kyushu institute of technology,48,48.0
+https://openalex.org/I162720556,1,karadeniz technical university,48,48.0
+https://openalex.org/I21250087,3,charles university,144,48.0
+https://openalex.org/I88814501,1,institut national des sciences appliquées rouen normandie,48,48.0
+https://openalex.org/I24881138,1,cracow university of technology,48,48.0
+https://openalex.org/I4210108070,2,aga khan university nairobi,96,48.0
+https://openalex.org/I90183372,1,université de lorraine,48,48.0
+https://openalex.org/I20230540,1,university of miskolc,48,48.0
+https://openalex.org/I4210143668,1,technological institute for superhard and novel carbon materials,48,48.0
+https://openalex.org/I4210111625,1,donetsk institute for physics and engineering named after o.o. galkin,48,48.0
+https://openalex.org/I4210129794,1,materials science & engineering,48,48.0
+https://openalex.org/I7885462,1,ufa state aviation technical university,48,48.0
+https://openalex.org/I177136067,1,saga university,48,48.0
+https://openalex.org/I62396329,1,université de rouen normandie,48,48.0
+https://openalex.org/I161046081,3,university of freiburg,143,47.666666666666664
+https://openalex.org/I192619145,2,university of the witwatersrand,95,47.5
+https://openalex.org/I4210087915,16,massachusetts general hospital,755,47.1875
+https://openalex.org/I928991512,1,hexcel (united states),47,47.0
+https://openalex.org/I4210125667,1,hospital san juan de dios,47,47.0
+https://openalex.org/I4210107548,1,japan broadcasting corporation (japan),47,47.0
+https://openalex.org/I4210153843,1,instituto do sono,47,47.0
+https://openalex.org/I16528096,1,aichi medical university,47,47.0
+https://openalex.org/I4210158946,1,centro universitário de joão pessoa,47,47.0
+https://openalex.org/I82880672,1,beihang university,47,47.0
+https://openalex.org/I4210121124,1,computational diagnostics (united states),47,47.0
+https://openalex.org/I4210105192,1,united institute of informatics problems,47,47.0
+https://openalex.org/I166825849,1,tampere university,47,47.0
+https://openalex.org/I118347220,1,nec (japan),47,47.0
+https://openalex.org/I1325899441,1,university health network,47,47.0
+https://openalex.org/I2800808753,1,thales (netherlands),47,47.0
+https://openalex.org/I4210089010,1,tata medical center,47,47.0
+https://openalex.org/I4537092,3,addis ababa university,141,47.0
+https://openalex.org/I4210151801,1,groupe hospitalier de la région de mulhouse et sud alsace,47,47.0
+https://openalex.org/I1292669757,1,toshiba (japan),47,47.0
+https://openalex.org/I4210162403,1,zentrum für pathologie und zytodiagnostik,47,47.0
+https://openalex.org/I4210089980,1,research organization for information science and technology,47,47.0
+https://openalex.org/I4210090178,1,instituto de ensino e pesquisa santa casa,47,47.0
+https://openalex.org/I4210117936,1,centre hospitalier de mulhouse,47,47.0
+https://openalex.org/I195573530,1,janelia research campus,47,47.0
+https://openalex.org/I102134673,1,linköping university,47,47.0
+https://openalex.org/I1290900354,1,tufts medical center,47,47.0
+https://openalex.org/I4210118777,1,north florida/south georgia veterans health system,47,47.0
+https://openalex.org/I4210166566,1,preferred networks (japan),47,47.0
+https://openalex.org/I76569877,1,southeast university,47,47.0
+https://openalex.org/I4210116770,1,numerica corporation (united states),47,47.0
+https://openalex.org/I2800752714,1,comcast (united states),47,47.0
+https://openalex.org/I4210124352,1,the netherlands cancer institute,47,47.0
+https://openalex.org/I18167132,1,universidade presbiteriana mackenzie,47,47.0
+https://openalex.org/I80281795,1,university of otago,47,47.0
+https://openalex.org/I28174512,1,elekta (switzerland),47,47.0
+https://openalex.org/I4210089486,12,fred hutch cancer center,561,46.75
+https://openalex.org/I12859529,3,university of nairobi,140,46.666666666666664
+https://openalex.org/I1174212,3,university of southern california,140,46.666666666666664
+https://openalex.org/I97018004,8,stanford university,372,46.5
+https://openalex.org/I33849332,2,university of malaya,93,46.5
+https://openalex.org/I34942010,2,university of kinshasa,93,46.5
+https://openalex.org/I1343551460,13,the university of texas md anderson cancer center,595,45.76923076923077
+https://openalex.org/I99464096,4,ku leuven,183,45.75
+https://openalex.org/I4210126712,3,hôpital robert-debré,137,45.666666666666664
+https://openalex.org/I172901346,2,st petersburg university,91,45.5
+https://openalex.org/I39624965,2,finnish institute for health and welfare,91,45.5
+https://openalex.org/I2800098698,4,tata memorial hospital,180,45.0
+https://openalex.org/I2802423016,1,winnmed,45,45.0
+https://openalex.org/I125749732,3,western university,135,45.0
+https://openalex.org/I1289437631,11,fox chase cancer center,489,44.45454545454545
+https://openalex.org/I223532165,10,university of utah,441,44.1
+https://openalex.org/I132735039,1,university of debrecen,44,44.0
+https://openalex.org/I155313962,1,west pomeranian university of technology,44,44.0
+https://openalex.org/I35046152,1,universidade federal do rio grande do norte,44,44.0
+https://openalex.org/I4210166444,2,institut de recherche pour le développement,88,44.0
+https://openalex.org/I13850615,1,kunming institute of botany,44,44.0
+https://openalex.org/I145845281,1,universidad autónoma de chiriquí,44,44.0
+https://openalex.org/I4210105365,1,qujing normal university,44,44.0
+https://openalex.org/I25112270,1,universidade federal de pernambuco,44,44.0
+https://openalex.org/I4210151123,1,french community of belgium,44,44.0
+https://openalex.org/I864159182,1,university of silesia in katowice,44,44.0
+https://openalex.org/I4210139035,1,agroscope,44,44.0
+https://openalex.org/I3124161356,1,university of south bohemia in české budějovice,44,44.0
+https://openalex.org/I4210093434,1,institute for research and development,44,44.0
+https://openalex.org/I4210134982,1,institute of microbiology,44,44.0
+https://openalex.org/I34002243,1,mae fah luang university,44,44.0
+https://openalex.org/I1332092204,1,national science and technology development agency,44,44.0
+https://openalex.org/I4210092123,1,estación experimental del zaidín,44,44.0
+https://openalex.org/I1293066303,1,meise botanic garden,44,44.0
+https://openalex.org/I902798049,1,national center for genetic engineering and biotechnology,44,44.0
+https://openalex.org/I94357780,1,zhongkai university of agriculture and engineering,44,44.0
+https://openalex.org/I151205615,1,agharkar research institute,44,44.0
+https://openalex.org/I2802093357,1,field museum of natural history,44,44.0
+https://openalex.org/I3129956861,1,national institute of fundamental studies,44,44.0
+https://openalex.org/I4654613,1,university of warsaw,44,44.0
+https://openalex.org/I298625061,1,swedish university of agricultural sciences,44,44.0
+https://openalex.org/I4210092214,1,h.s. skovoroda kharkiv national pedagogical university,44,44.0
+https://openalex.org/I128559575,1,university of ruhuna,44,44.0
+https://openalex.org/I2799614521,1,"royal botanic gardens, kew",44,44.0
+https://openalex.org/I4210104885,1,all-russian institute of plant protection,44,44.0
+https://openalex.org/I4210161302,1,vale technological institute,44,44.0
+https://openalex.org/I1321642675,1,museu paraense emílio goeldi,44,44.0
+https://openalex.org/I204483917,1,ahi evran university,44,44.0
+https://openalex.org/I122558511,1,universidade federal de mato grosso do sul,44,44.0
+https://openalex.org/I40413290,1,university of gdańsk,44,44.0
+https://openalex.org/I3018771216,3,lmu klinikum,131,43.666666666666664
+https://openalex.org/I2800935791,3,uc san diego health system,131,43.666666666666664
+https://openalex.org/I867280407,13,the university of texas southwestern medical center,567,43.61538461538461
+https://openalex.org/I4210127473,7,cancer research center,305,43.57142857142857
+https://openalex.org/I1332479046,8,seattle cancer care alliance,348,43.5
+https://openalex.org/I19894307,4,université de montpellier,174,43.5
+https://openalex.org/I180670191,4,"university of california, san francisco",174,43.5
+https://openalex.org/I2802730090,2,yale cancer center,87,43.5
+https://openalex.org/I2801647802,8,susan thompson buffett foundation,347,43.375
+https://openalex.org/I1326427960,8,cape town hvtn immunology laboratory / hutchinson centre research institute of south africa,347,43.375
+https://openalex.org/I4390039299,9,vanderbilt-ingram cancer center,390,43.333333333333336
+https://openalex.org/I196764719,9,breast cancer research foundation,390,43.333333333333336
+https://openalex.org/I39965400,7,kettering university,302,43.142857142857146
+https://openalex.org/I4210130836,1,dnanexus (united states),43,43.0
+https://openalex.org/I4210154732,1,cancer institute of florida,43,43.0
+https://openalex.org/I921990950,13,university of colorado denver,559,43.0
+https://openalex.org/I68554272,1,pacific biosciences (united states),43,43.0
+https://openalex.org/I166722992,1,university of massachusetts chan medical school,43,43.0
+https://openalex.org/I4210145812,1,cancer genetics (united states),43,43.0
+https://openalex.org/I4210148309,1,vavilov institute of general genetics,43,43.0
+https://openalex.org/I3148997608,1,institute for systems biology,43,43.0
+https://openalex.org/I146416000,1,university of kansas,43,43.0
+https://openalex.org/I1313298211,6,st. jude children's research hospital,258,43.0
+https://openalex.org/I114131015,1,stowers institute for medical research,43,43.0
+https://openalex.org/I114277686,1,james s. mcdonnell foundation,43,43.0
+https://openalex.org/I4210161504,1,international union for conservation of nature,43,43.0
+https://openalex.org/I52099693,2,university of york,86,43.0
+https://openalex.org/I19880235,1,lomonosov moscow state university,43,43.0
+https://openalex.org/I1344073410,1,howard hughes medical institute,43,43.0
+https://openalex.org/I140172145,1,university of connecticut,43,43.0
+https://openalex.org/I4210159854,1,max planck institute of molecular cell biology and genetics,43,43.0
+https://openalex.org/I4210121800,1,chan zuckerberg initiative (united states),43,43.0
+https://openalex.org/I1295499534,1,seattle children's hospital,43,43.0
+https://openalex.org/I4390039325,1,rutgers cancer institute of new jersey,43,43.0
+https://openalex.org/I83399316,1,rockefeller university,43,43.0
+https://openalex.org/I4210093196,1,sirius university of science and technology,43,43.0
+https://openalex.org/I4210098357,1,international union for conservation of nature,43,43.0
+https://openalex.org/I1313323035,1,russian academy of sciences,43,43.0
+https://openalex.org/I4210109390,1,national center for biotechnology information,43,43.0
+https://openalex.org/I1321296531,1,national institute of standards and technology,43,43.0
+https://openalex.org/I84218800,10,"university of california, davis",428,42.8
+https://openalex.org/I1299725459,9,barnes-jewish hospital,385,42.77777777777778
+https://openalex.org/I4390039293,9,ucla jonsson comprehensive cancer center,385,42.77777777777778
+https://openalex.org/I4210102777,9,jewish hospital,385,42.77777777777778
+https://openalex.org/I4390039352,9,uc davis comprehensive cancer center,385,42.77777777777778
+https://openalex.org/I4210161994,9,dana-farber brigham cancer center,385,42.77777777777778
+https://openalex.org/I4390039370,9,harold c. simmons comprehensive cancer center,385,42.77777777777778
+https://openalex.org/I4210103341,10,university of wisconsin carbone cancer center,427,42.7
+https://openalex.org/I4210164401,10,sidney kimmel comprehensive cancer center,427,42.7
+https://openalex.org/I4390039227,10,robert h. lurie comprehensive cancer center of northwestern university,427,42.7
+https://openalex.org/I4390039344,10,fred and pamela buffett cancer center,427,42.7
+https://openalex.org/I4390039326,10,duke cancer institute,427,42.7
+https://openalex.org/I4390039376,10,o'neal comprehensive cancer center,427,42.7
+https://openalex.org/I4390039236,10,moores cancer center,427,42.7
+https://openalex.org/I1301076528,10,city of hope national medical center,427,42.7
+https://openalex.org/I4210119077,10,university hospitals seidman cancer center,427,42.7
+https://openalex.org/I4390039303,10,stanford cancer institute,427,42.7
+https://openalex.org/I4210134151,10,university of colorado cancer center,427,42.7
+https://openalex.org/I2799885155,10,the ohio state university comprehensive cancer center – arthur g. james cancer hospital and richard j. solove research institute,427,42.7
+https://openalex.org/I4391768124,10,national comprehensive cancer network,427,42.7
+https://openalex.org/I2801159745,9,huntsman cancer institute,384,42.666666666666664
+https://openalex.org/I4210165192,6,smilow cancer hospital,254,42.333333333333336
+https://openalex.org/I71999127,6,universitat de barcelona,254,42.333333333333336
+https://openalex.org/I194807695,1,robert morris university illinois,42,42.0
+https://openalex.org/I173304897,2,universidad de granada,84,42.0
+https://openalex.org/I1292894508,2,roswell park comprehensive cancer center,84,42.0
+https://openalex.org/I4390039234,1,indiana university melvin and bren simon comprehensive cancer center,42,42.0
+https://openalex.org/I4210099598,2,aichi medical university hospital,84,42.0
+https://openalex.org/I4210167126,11,ucsf helen diller family comprehensive cancer center,460,41.81818181818182
+https://openalex.org/I3019308854,13,moffitt cancer center,543,41.76923076923077
+https://openalex.org/I160606119,11,university of tennessee health science center,457,41.54545454545455
+https://openalex.org/I1289490764,2,centers for disease control and prevention,83,41.5
+https://openalex.org/I74973139,2,carnegie mellon university,83,41.5
+https://openalex.org/I1316368362,1,bernice p. bishop museum,41,41.0
+https://openalex.org/I1334287468,2,nottingham university hospitals nhs trust,82,41.0
+https://openalex.org/I69552723,2,university of pretoria,82,41.0
+https://openalex.org/I4210091279,1,université sorbonne paris nord,41,41.0
+https://openalex.org/I1293456974,1,natureserve,41,41.0
+https://openalex.org/I1326324860,1,north carolina museum of natural sciences,41,41.0
+https://openalex.org/I2803094215,1,california academy of sciences,41,41.0
+https://openalex.org/I84392919,1,temple university,41,41.0
+https://openalex.org/I221450849,1,university of bío-bío,41,41.0
+https://openalex.org/I4210142216,1,department of conservation,41,41.0
+https://openalex.org/I1313606977,1,museum für naturkunde,41,41.0
+https://openalex.org/I136446963,1,okayama university of science,41,41.0
+https://openalex.org/I29894533,1,charles darwin university,41,41.0
+https://openalex.org/I4210141428,1,zoo outreach organisation,41,41.0
+https://openalex.org/I4210142366,1,centro científico tecnológico patagónico,41,41.0
+https://openalex.org/I1648549,1,university of zulia,41,41.0
+https://openalex.org/I1316901054,1,conservation international,41,41.0
+https://openalex.org/I172787465,1,university of concepción,41,41.0
+https://openalex.org/I4210087898,1,south african national biodiversity institute,41,41.0
+https://openalex.org/I4210099549,1,zoological research museum alexander koenig,41,41.0
+https://openalex.org/I1328215151,1,australian museum,41,41.0
+https://openalex.org/I2801680271,1,zoological institute,41,41.0
+https://openalex.org/I1327551190,1,zoological society of san diego,41,41.0
+https://openalex.org/I150729083,1,universidade de brasília,41,41.0
+https://openalex.org/I134635517,1,bandung institute of technology,41,41.0
+https://openalex.org/I4387155279,1,leibniz institute for the analysis of biodiversity change,41,41.0
+https://openalex.org/I165779595,6,university of melbourne,245,40.833333333333336
+https://openalex.org/I118564535,3,university of bern,122,40.666666666666664
+https://openalex.org/I204722609,3,queen's university,122,40.666666666666664
+https://openalex.org/I138690464,3,university of ghana,122,40.666666666666664
+https://openalex.org/I7435137,2,marien ngouabi university,81,40.5
+https://openalex.org/I1316902750,11,cleveland clinic,442,40.18181818181818
+https://openalex.org/I150468666,6,emory university,241,40.166666666666664
+https://openalex.org/I66943878,1,de montfort university,40,40.0
+https://openalex.org/I45711476,1,obafemi awolowo university,40,40.0
+https://openalex.org/I2802166871,1,universidad católica del norte,40,40.0
+https://openalex.org/I118567650,1,van yüzüncü yıl üniversitesi,40,40.0
+https://openalex.org/I4432739,1,university of bergen,40,40.0
+https://openalex.org/I66752286,1,university of milano-bicocca,40,40.0
+https://openalex.org/I2699952,1,pontifical catholic university of rio de janeiro,40,40.0
+https://openalex.org/I141943178,1,universidad tecnológica de bolívar,40,40.0
+https://openalex.org/I306340464,1,constantine the philosopher university in nitra,40,40.0
+https://openalex.org/I47818738,1,sultan qaboos university,40,40.0
+https://openalex.org/I26437253,1,örebro university,40,40.0
+https://openalex.org/I107257983,1,darmstadt university of applied sciences,40,40.0
+https://openalex.org/I191420491,1,universidad de jaén,40,40.0
+https://openalex.org/I1314707548,1,nagoya university of commerce and business,40,40.0
+https://openalex.org/I43480833,1,kyambogo university,40,40.0
+https://openalex.org/I63601056,1,menoufia university,40,40.0
+https://openalex.org/I205133468,1,airlangga university,40,40.0
+https://openalex.org/I138164181,1,alexandru ioan cuza university,40,40.0
+https://openalex.org/I20121455,1,bielefeld university,40,40.0
+https://openalex.org/I82904351,1,university of santo tomas,40,40.0
+https://openalex.org/I55060895,1,university of greenwich,40,40.0
+https://openalex.org/I11892038,1,university of nigeria,40,40.0
+https://openalex.org/I117963711,1,kuban state university,40,40.0
+https://openalex.org/I78577930,3,columbia university,120,40.0
+https://openalex.org/I54459138,1,university of salford,40,40.0
+https://openalex.org/I94800806,1,birzeit university,40,40.0
+https://openalex.org/I90745801,1,university of new england,40,40.0
+https://openalex.org/I84641585,1,sokoine university of agriculture,40,40.0
+https://openalex.org/I2802326326,4,the university of texas rio grande valley,159,39.75
+https://openalex.org/I1334819555,19,memorial sloan kettering cancer center,748,39.36842105263158
+https://openalex.org/I2801323708,1,ljubljana university medical centre,39,39.0
+https://openalex.org/I4210118821,1,park nicollet clinic,39,39.0
+https://openalex.org/I4210094922,1,multimedica,39,39.0
+https://openalex.org/I4210110607,1,hospital nossa senhora das graças,39,39.0
+https://openalex.org/I4210109312,1,schneider children's medical center,39,39.0
+https://openalex.org/I4210138040,1,velocity clinical research (united states),39,39.0
+https://openalex.org/I2801357902,1,instituto de salud carlos iii,39,39.0
+https://openalex.org/I4210092882,1,grady health system,39,39.0
+https://openalex.org/I4210086003,1,kinderkrankenhaus auf der bult,39,39.0
+https://openalex.org/I4210096149,1,breakthrough t1d,39,39.0
+https://openalex.org/I108290504,1,university of pisa,39,39.0
+https://openalex.org/I1314996769,1,american diabetes association,39,39.0
+https://openalex.org/I2801824472,1,jewish general hospital,39,39.0
+https://openalex.org/I4210136484,1,close concerns (united states),39,39.0
+https://openalex.org/I4210090567,1,national institute of diabetes and digestive and kidney diseases,39,39.0
+https://openalex.org/I1293231726,1,joslin diabetes center,39,39.0
+https://openalex.org/I4210137306,1,stanford medicine,39,39.0
+https://openalex.org/I4210131238,1,diabetes care & hormone clinic,39,39.0
+https://openalex.org/I4210137870,1,jaeb center for health research,39,39.0
+https://openalex.org/I1282516798,1,atrium health wake forest baptist,39,39.0
+https://openalex.org/I4210128526,1,upmc hillman cancer center,39,39.0
+https://openalex.org/I2803034837,1,eastern maine medical center,39,39.0
+https://openalex.org/I115498069,1,jikei university school of medicine,39,39.0
+https://openalex.org/I4210134769,1,university of pittsburgh medical center,39,39.0
+https://openalex.org/I2800114814,1,cape cod hospital,39,39.0
+https://openalex.org/I153297377,1,medical university of south carolina,39,39.0
+https://openalex.org/I1318116459,1,national marrow donor program,39,39.0
+https://openalex.org/I84884186,3,newcastle university,117,39.0
+https://openalex.org/I2802882910,1,west virginia university hospitals,39,39.0
+https://openalex.org/I2800536013,1,heart and diabetes center north rhine-westphalia,39,39.0
+https://openalex.org/I74801974,6,the university of tokyo,234,39.0
+https://openalex.org/I182534213,3,universidade do porto,117,39.0
+https://openalex.org/I4210145268,1,hospital das clínicas da faculdade de medicina da universidade de são paulo,39,39.0
+https://openalex.org/I4210119117,1,azienda usl di bologna,39,39.0
+https://openalex.org/I4210090317,1,the barbara ann karmanos cancer institute,39,39.0
+https://openalex.org/I4210126298,1,duke medical center,39,39.0
+https://openalex.org/I20388574,1,suny upstate medical university,39,39.0
+https://openalex.org/I4210096275,1,children's hospital colorado,39,39.0
+https://openalex.org/I2799810450,1,sheba medical center,39,39.0
+https://openalex.org/I4210096007,1,corewell health blodgett hospital,39,39.0
+https://openalex.org/I4210163483,1,incheon medical center,39,39.0
+https://openalex.org/I4210157154,1,stollery children's hospital,39,39.0
+https://openalex.org/I52010207,1,keimyung university,39,39.0
+https://openalex.org/I2800562746,1,hospital universitario la paz,39,39.0
+https://openalex.org/I1340179700,1,newyork–presbyterian hospital,39,39.0
+https://openalex.org/I1308923049,1,university hospitals birmingham nhs foundation trust,39,39.0
+https://openalex.org/I115752224,1,university of insubria,39,39.0
+https://openalex.org/I4210106285,1,sooriya hospital,39,39.0
+https://openalex.org/I2802782613,1,harefield hospital,39,39.0
+https://openalex.org/I4210141674,1,cedars-sinai smidt heart institute,39,39.0
+https://openalex.org/I2801780550,1,california pacific medical center,39,39.0
+https://openalex.org/I138873065,1,long island university,39,39.0
+https://openalex.org/I904495901,1,ruhr university bochum,39,39.0
+https://openalex.org/I2801107848,1,new york hospital queens,39,39.0
+https://openalex.org/I4210087110,1,st vincent's hospital,39,39.0
+https://openalex.org/I28166907,3,karolinska institutet,116,38.666666666666664
+https://openalex.org/I154425047,3,university of alberta,116,38.666666666666664
+https://openalex.org/I4210118524,2,université bourgogne franche-comté,77,38.5
+https://openalex.org/I165143802,7,university of queensland,267,38.142857142857146
+https://openalex.org/I4210143738,1,universidad de los andes,38,38.0
+https://openalex.org/I67415387,2,lancaster university,76,38.0
+https://openalex.org/I162096671,1,universidad de los andes,38,38.0
+https://openalex.org/I141596103,3,university of lisbon,114,38.0
+https://openalex.org/I91045830,2,texas a&m university,76,38.0
+https://openalex.org/I197323543,4,johannes gutenberg university mainz,152,38.0
+https://openalex.org/I165690674,3,oregon health & science university,113,37.666666666666664
+https://openalex.org/I2801345345,15,cancer institute (wia),564,37.6
+https://openalex.org/I5124864,2,école polytechnique fédérale de lausanne,75,37.5
+https://openalex.org/I141945490,4,university of british columbia,149,37.25
+https://openalex.org/I4210106663,1,international university of rabat,37,37.0
+https://openalex.org/I4210105654,2,world health organization,74,37.0
+https://openalex.org/I197347611,1,korea university,37,37.0
+https://openalex.org/I141103825,1,nanchang institute of technology,37,37.0
+https://openalex.org/I4210131537,1,montpellier business school,37,37.0
+https://openalex.org/I2800084297,1,indian institute of management shillong,37,37.0
+https://openalex.org/I4210099530,1,ipag business school,37,37.0
+https://openalex.org/I4387152369,1,"laboratoire en innovation, technologies, economie et management",37,37.0
+https://openalex.org/I3130378879,1,liverpool college,37,37.0
+https://openalex.org/I129162050,1,école supérieure de commerce de toulouse,37,37.0
+https://openalex.org/I230495080,1,university of limerick,37,37.0
+https://openalex.org/I169335092,1,university of north carolina at greensboro,37,37.0
+https://openalex.org/I4210158889,1,research advocacy network,37,37.0
+https://openalex.org/I104941359,1,al-ahliyya amman university,37,37.0
+https://openalex.org/I4400600936,1,escola de administração de empresas de são paulo,37,37.0
+https://openalex.org/I44202434,1,fundação getulio vargas,37,37.0
+https://openalex.org/I199691007,2,brazilian agricultural research corporation,73,36.5
+https://openalex.org/I177877127,6,university of western australia,218,36.333333333333336
+https://openalex.org/I177725633,6,chinese university of hong kong,217,36.166666666666664
+https://openalex.org/I19820366,5,chinese academy of sciences,179,35.8
+https://openalex.org/I18014758,3,simon fraser university,107,35.666666666666664
+https://openalex.org/I2801322873,2,hotel dieu hospital,71,35.5
+https://openalex.org/I4210110459,2,city of hope,71,35.5
+https://openalex.org/I4210100342,2,levine cancer institute,71,35.5
+https://openalex.org/I165932596,10,national university of singapore,352,35.2
+https://openalex.org/I31746571,7,unsw sydney,246,35.142857142857146
+https://openalex.org/I86519309,3,the university of texas at austin,105,35.0
+https://openalex.org/I1321067030,2,zoological society of london,69,34.5
+https://openalex.org/I4210148332,3,barcelona institute for global health,103,34.333333333333336
+https://openalex.org/I205984670,2,czech university of life sciences prague,68,34.0
+https://openalex.org/I187531555,3,lund university,101,33.666666666666664
+https://openalex.org/I12912129,2,northeastern university,67,33.5
+https://openalex.org/I149704539,2,deakin university,67,33.5
+https://openalex.org/I4210132431,1,centro de investigación biomédica en red de enfermedades hepáticas y digestivas,33,33.0
+https://openalex.org/I68891433,2,indian institute of technology delhi,66,33.0
+https://openalex.org/I4210091198,1,e-da hospital,33,33.0
+https://openalex.org/I98298690,1,i-shou university,33,33.0
+https://openalex.org/I4210133995,1,the christie nhs foundation trust,33,33.0
+https://openalex.org/I4210138746,1,national hospital of pediatrics,33,33.0
+https://openalex.org/I154757721,2,university of piraeus,66,33.0
+https://openalex.org/I157773358,1,sun yat-sen university,33,33.0
+https://openalex.org/I168635309,5,university of calgary,165,33.0
+https://openalex.org/I4210118317,1,81th hospital of pla,33,33.0
+https://openalex.org/I4210128921,1,"the first affiliated hospital, sun yat-sen university",33,33.0
+https://openalex.org/I4210127074,1,zhongshan hospital,33,33.0
+https://openalex.org/I4401200333,2,esic business & marketing school,66,33.0
+https://openalex.org/I203951103,1,keio university,33,33.0
+https://openalex.org/I4210147892,1,cruk lung cancer centre of excellence,33,33.0
+https://openalex.org/I4210091812,1,bristol-myers squibb (united states),33,33.0
+https://openalex.org/I2800810863,1,queen mary hospital,33,33.0
+https://openalex.org/I165339363,1,universidad de oviedo,33,33.0
+https://openalex.org/I40527276,2,universität der bundeswehr münchen,66,33.0
+https://openalex.org/I165733156,2,university of georgia,66,33.0
+https://openalex.org/I4210166274,1,instituto de investigación sanitaria del principado de asturias,33,33.0
+https://openalex.org/I4210113468,1,hospital provincial de rosario,33,33.0
+https://openalex.org/I14243506,2,hong kong polytechnic university,66,33.0
+https://openalex.org/I894721429,2,eae business school,66,33.0
+https://openalex.org/I4210097126,1,sutton hospital,33,33.0
+https://openalex.org/I161463649,2,audencia business school,66,33.0
+https://openalex.org/I181046868,2,bi norwegian business school,66,33.0
+https://openalex.org/I4210128490,1,astrazeneca (japan),33,33.0
+https://openalex.org/I4210132405,1,akita university hospital,33,33.0
+https://openalex.org/I4210089431,1,national cancer center,33,33.0
+https://openalex.org/I4210131356,1,centre oscar lambret,33,33.0
+https://openalex.org/I4210166463,1,toranomon hospital,33,33.0
+https://openalex.org/I2802939634,1,chinese pla general hospital,33,33.0
+https://openalex.org/I4210140335,1,institut de recherche en cancérologie de montpellier,33,33.0
+https://openalex.org/I4210137953,1,centrum onkologii,33,33.0
+https://openalex.org/I3018557291,1,kanagawa prefectural hospital organization,33,33.0
+https://openalex.org/I4387152949,1,kanagawa cancer center,33,33.0
+https://openalex.org/I4210088998,1,instituto do câncer do estado de são paulo,33,33.0
+https://openalex.org/I1335113835,1,karolinska university hospital,32,32.0
+https://openalex.org/I145608581,3,university of miami,96,32.0
+https://openalex.org/I219193219,2,purdue university west lafayette,64,32.0
+https://openalex.org/I137982388,1,janssen (belgium),32,32.0
+https://openalex.org/I4210113301,1,janssen (switzerland),32,32.0
+https://openalex.org/I4210137803,1,biomedical research institute,32,32.0
+https://openalex.org/I4210158561,1,centro de investigación biomédica en red de cáncer,32,32.0
+https://openalex.org/I4210151386,1,janssen (united states),32,32.0
+https://openalex.org/I1340918713,1,university college london hospitals nhs foundation trust,32,32.0
+https://openalex.org/I4210090991,1,institute of cancer research,32,32.0
+https://openalex.org/I4210095477,1,centre hospitalier universitaire de tours,32,32.0
+https://openalex.org/I34931013,1,national institute for health research,32,32.0
+https://openalex.org/I4210138819,1,centro de investigación del cáncer,32,32.0
+https://openalex.org/I4210112085,1,navarre institute of health research,32,32.0
+https://openalex.org/I4210134045,1,instituto de investigación biomédica de salamanca,32,32.0
+https://openalex.org/I4210089594,1,spanish national cancer research centre,32,32.0
+https://openalex.org/I4210107147,1,institut català d'oncologia,32,32.0
+https://openalex.org/I4210117453,3,dana-farber cancer institute,95,31.666666666666668
+https://openalex.org/I29891158,2,university of sharjah,63,31.5
+https://openalex.org/I96036126,2,kumamoto university,62,31.0
+https://openalex.org/I59270414,3,indian institute of science bangalore,93,31.0
+https://openalex.org/I916559398,3,kindai university,91,30.333333333333332
+https://openalex.org/I23946033,3,university of tehran,91,30.333333333333332
+https://openalex.org/I4210088668,3,"institut national de recherche pour l'agriculture, l'alimentation et l'environnement",90,30.0
+https://openalex.org/I592451,2,indiana university,60,30.0
+https://openalex.org/I46247651,2,university of manitoba,59,29.5
+https://openalex.org/I24354313,2,university of buenos aires,59,29.5
+https://openalex.org/I1291425158,2,google (united states),59,29.5
+https://openalex.org/I185443292,2,wayne state university,59,29.5
+https://openalex.org/I255234318,1,universidad de zaragoza,29,29.0
+https://openalex.org/I2801680663,2,asan medical center,58,29.0
+https://openalex.org/I181565077,3,georgia state university,87,29.0
+https://openalex.org/I4210090957,2,russian cancer research center nn blokhin,58,29.0
+https://openalex.org/I4210119048,2,sri venkateshwaraa medical college hospital and research centre,58,29.0
+https://openalex.org/I9300472,1,bournemouth university,29,29.0
+https://openalex.org/I1305001552,1,grady memorial hospital,29,29.0
+https://openalex.org/I65644108,1,adam smith institute,29,29.0
+https://openalex.org/I1310048521,1,friedrich-loeffler-institut,29,29.0
+https://openalex.org/I4210145347,1,federal service for surveillance on consumer rights protection and human wellbeing,29,29.0
+https://openalex.org/I4210087127,1,"maladies infectieuses et vecteurs: écologie, génétique, évolution et contrôle",29,29.0
+https://openalex.org/I198105771,1,kasetsart university,29,29.0
+https://openalex.org/I136774965,1,chatham house,29,29.0
+https://openalex.org/I133999245,1,"university of nevada, las vegas",29,29.0
+https://openalex.org/I91136226,1,university of sheffield,29,29.0
+https://openalex.org/I8606887,1,grand valley state university,29,29.0
+https://openalex.org/I1289142772,1,international development research centre,29,29.0
+https://openalex.org/I4210141251,1,université kofi annan de guinée,29,29.0
+https://openalex.org/I4210110275,1,ministerio de salud,29,29.0
+https://openalex.org/I184490438,1,chinese center for disease control and prevention,29,29.0
+https://openalex.org/I122964287,1,national institute of technology tiruchirappalli,29,29.0
+https://openalex.org/I190930483,2,kyorin university,58,29.0
+https://openalex.org/I4210146710,2,mayo clinic in florida,58,29.0
+https://openalex.org/I2799351582,2,russian railways,58,29.0
+https://openalex.org/I40542001,2,university of ulsan,58,29.0
+https://openalex.org/I4210095947,2,humanity & health,58,29.0
+https://openalex.org/I4210135003,2,clinica universidad de navarra,58,29.0
+https://openalex.org/I913958620,1,erasmus university rotterdam,29,29.0
+https://openalex.org/I94234084,1,indian institute of technology kanpur,29,29.0
+https://openalex.org/I51158804,1,massey university,29,29.0
+https://openalex.org/I4210093045,1,ministry of public health,29,29.0
+https://openalex.org/I4210095669,1,ark foundation,29,29.0
+https://openalex.org/I84724731,1,university of la salle,29,29.0
+https://openalex.org/I99041443,1,mississippi state university,29,29.0
+https://openalex.org/I192455969,1,york university,29,29.0
+https://openalex.org/I116631150,2,ulsan college,58,29.0
+https://openalex.org/I1339471597,2,humanitas university,58,29.0
+https://openalex.org/I83519826,2,nanjing medical university,57,28.5
+https://openalex.org/I1288051870,1,organisation de coopération et de développement economiques,28,28.0
+https://openalex.org/I4210156643,1,harvard global health institute,28,28.0
+https://openalex.org/I145902186,1,burnet institute,28,28.0
+https://openalex.org/I48076826,2,chiang mai university,56,28.0
+https://openalex.org/I4210116060,1,kenya aids vaccine initiative,28,28.0
+https://openalex.org/I889804353,1,robert bosch (germany),28,28.0
+https://openalex.org/I1310145890,1,international monetary fund,28,28.0
+https://openalex.org/I2800164725,1,royal society of tropical medicine and hygiene,28,28.0
+https://openalex.org/I1293226324,1,unesco,28,28.0
+https://openalex.org/I73142707,1,athens university of economics and business,28,28.0
+https://openalex.org/I2801051648,1,china-japan friendship hospital,28,28.0
+https://openalex.org/I4210121021,1,institut du développement durable et des relations internationales,28,28.0
+https://openalex.org/I1286959531,1,united nations,28,28.0
+https://openalex.org/I2802722262,1,bibliotheca alexandrina,28,28.0
+https://openalex.org/I99065089,1,tsinghua university,28,28.0
+https://openalex.org/I79272384,2,"university of maryland, baltimore county",55,27.5
+https://openalex.org/I69094615,2,universidad san francisco de quito,55,27.5
+https://openalex.org/I130769515,2,pennsylvania state university,54,27.0
+https://openalex.org/I55143463,2,university of turin,53,26.5
+https://openalex.org/I4210156707,2,fondazione irccs istituto nazionale dei tumori,53,26.5
+https://openalex.org/I4210116320,2,ashoka trust for research in ecology and the environment,53,26.5
+https://openalex.org/I36234482,3,university of bristol,78,26.0
+https://openalex.org/I4210163047,3,irccs humanitas research hospital,78,26.0
+https://openalex.org/I112289208,2,united nations children's fund,52,26.0
+https://openalex.org/I4210113288,2,hôpital lyon sud,52,26.0
+https://openalex.org/I205640436,4,curtin university,102,25.5
+https://openalex.org/I4210150756,1,astrazeneca (united states),25,25.0
+https://openalex.org/I4210154795,1,hanoi medical university hospital,25,25.0
+https://openalex.org/I2801572250,1,jacksonville college,25,25.0
+https://openalex.org/I4210115082,1,centro de investigación biomédica en red,25,25.0
+https://openalex.org/I28022161,2,king saud university,50,25.0
+https://openalex.org/I4210162420,1,peking university sixth hospital,24,24.0
+https://openalex.org/I70640408,3,tehran university of medical sciences,72,24.0
+https://openalex.org/I4210143965,1,nlr nepal,24,24.0
+https://openalex.org/I4210099820,1,hemel hempstead hospital,24,24.0
+https://openalex.org/I1328782679,1,schizophrenia research foundation,24,24.0
+https://openalex.org/I4210114961,1,the geneva association,24,24.0
+https://openalex.org/I2801924861,2,freeman hospital,48,24.0
+https://openalex.org/I5681781,2,university of adelaide,48,24.0
+https://openalex.org/I4210149513,1,sierra leone urban research centre,24,24.0
+https://openalex.org/I33618826,1,centre for mental health,24,24.0
+https://openalex.org/I153487414,1,haramaya university,24,24.0
+https://openalex.org/I63596082,1,tunis el manar university,24,24.0
+https://openalex.org/I931681460,2,universiti tunku abdul rahman,48,24.0
+https://openalex.org/I92039509,1,guangzhou medical university,24,24.0
+https://openalex.org/I57092466,1,bahir dar university,24,24.0
+https://openalex.org/I200323923,1,south london and maudsley nhs foundation trust,24,24.0
+https://openalex.org/I91044093,2,zayed university,47,23.5
+https://openalex.org/I55285296,2,ucsi university,47,23.5
+https://openalex.org/I864998749,3,national institute of industrial engineering,70,23.333333333333332
+https://openalex.org/I164861460,5,manipal academy of higher education,115,23.0
+https://openalex.org/I4210097146,2,hospital de clínicas de porto alegre,45,22.5
+https://openalex.org/I4210149435,1,dell (united states),22,22.0
+https://openalex.org/I4210116741,1,innopolis university,22,22.0
+https://openalex.org/I4210107658,1,machine intelligence research labs,22,22.0
+https://openalex.org/I2800079252,1,royal north shore hospital,22,22.0
+https://openalex.org/I79619799,1,university of birmingham,22,22.0
+https://openalex.org/I162868743,1,tianjin university,22,22.0
+https://openalex.org/I4210145761,1,shenzhen institutes of advanced technology,22,22.0
+https://openalex.org/I52179390,1,university of waikato,22,22.0
+https://openalex.org/I4210164117,1,walker (united states),22,22.0
+https://openalex.org/I145847075,1,tu wien,22,22.0
+https://openalex.org/I2802328216,1,vienna general hospital,22,22.0
+https://openalex.org/I4210115393,1,azienda ospedaliero-universitaria careggi,22,22.0
+https://openalex.org/I1325846038,1,royal marsden nhs foundation trust,22,22.0
+https://openalex.org/I1333651918,1,indian institute of tropical meteorology,22,22.0
+https://openalex.org/I4210112411,1,alliance for health policy and systems research,22,22.0
+https://openalex.org/I4210119109,1,indiana university bloomington,22,22.0
+https://openalex.org/I2801518579,1,xinhua hospital,22,22.0
+https://openalex.org/I4210128723,1,instituto nacional de salud pública,22,22.0
+https://openalex.org/I57206974,1,new york university,22,22.0
+https://openalex.org/I1331321872,1,world resources institute,22,22.0
+https://openalex.org/I2802706549,1,consortium of universities for global health,22,22.0
+https://openalex.org/I4210095140,1,national institute of environmental health sciences,22,22.0
+https://openalex.org/I1303043848,1,health effects institute,22,22.0
+https://openalex.org/I103531236,1,boston college,22,22.0
+https://openalex.org/I49433721,1,nigerian institute of medical research,22,22.0
+https://openalex.org/I2802730293,1,pure earth,22,22.0
+https://openalex.org/I4210121101,1,münchen klinik,22,22.0
+https://openalex.org/I1334329717,1,world bank,22,22.0
+https://openalex.org/I2801112126,1,university hospital of bern,22,22.0
+https://openalex.org/I179193067,3,khon kaen university,65,21.666666666666668
+https://openalex.org/I54383971,2,ecohealth alliance,43,21.5
+https://openalex.org/I7882870,2,university of glasgow,43,21.5
+https://openalex.org/I160368002,1,lebanese university,21,21.0
+https://openalex.org/I84524832,1,alexandria university,21,21.0
+https://openalex.org/I36443711,1,magna graecia university,21,21.0
+https://openalex.org/I3130939756,1,sri venkateswara veterinary university,21,21.0
+https://openalex.org/I4210089966,2,london school of hygiene & tropical medicine,42,21.0
+https://openalex.org/I4210116188,1,infectious diseases institute,21,21.0
+https://openalex.org/I27897274,1,istituto superiore di sanità,21,21.0
+https://openalex.org/I25822123,1,sumy state university,21,21.0
+https://openalex.org/I4210147381,1,oxford university hospitals nhs trust,21,21.0
+https://openalex.org/I5518804,1,brac university,21,21.0
+https://openalex.org/I134560555,1,université toulouse iii - paul sabatier,21,21.0
+https://openalex.org/I110116418,1,maharaja sayajirao university of baroda,21,21.0
+https://openalex.org/I42237331,2,centre international de recherche sur le cancer,42,21.0
+https://openalex.org/I200650556,2,university of agder,42,21.0
+https://openalex.org/I141568987,2,hong kong baptist university,42,21.0
+https://openalex.org/I145894827,3,indian institute of technology kharagpur,61,20.333333333333332
+https://openalex.org/I2802654988,1,princess margaret cancer centre,20,20.0
+https://openalex.org/I66514158,1,hacettepe university,20,20.0
+https://openalex.org/I2803053305,1,korle bu teaching hospital,20,20.0
+https://openalex.org/I22716965,1,national geophysical research institute,20,20.0
+https://openalex.org/I4210101991,1,b.p. koirala memorial cancer hospital,20,20.0
+https://openalex.org/I4210117779,1,uganda cancer institute,20,20.0
+https://openalex.org/I21491767,1,aix-marseille université,20,20.0
+https://openalex.org/I4210128546,1,federal institute of hydrology,20,20.0
+https://openalex.org/I4210113058,1,roche (united kingdom),20,20.0
+https://openalex.org/I4210149499,1,istituto di ricerche chimiche e biochimiche g. ronzoni,20,20.0
+https://openalex.org/I196375840,1,autonomous university of sinaloa,20,20.0
+https://openalex.org/I4210104630,1,laboratoire chrono-environnement,20,20.0
+https://openalex.org/I102471911,1,jiwaji university,20,20.0
+https://openalex.org/I4210144289,1,research center for eco-environmental sciences,20,20.0
+https://openalex.org/I4210104942,1,centre de recherche et d’enseignement de géosciences de l’environnement,20,20.0
+https://openalex.org/I36243813,1,universidad nacional de colombia,20,20.0
+https://openalex.org/I71503853,1,university of algarve,20,20.0
+https://openalex.org/I118019719,1,roche (switzerland),20,20.0
+https://openalex.org/I1310421338,1,allegheny health network,20,20.0
+https://openalex.org/I385303915,1,wroclaw medical university,20,20.0
+https://openalex.org/I2801227569,1,ghent university hospital,20,20.0
+https://openalex.org/I122544976,1,hebron university,20,20.0
+https://openalex.org/I154130895,2,university of auckland,40,20.0
+https://openalex.org/I4387154967,1,groupe de recherche sur les formes injectables et les technologies associées,20,20.0
+https://openalex.org/I4210089144,1,centre national pour la recherche scientifique et technique (cnrst),20,20.0
+https://openalex.org/I4210109518,1,groupe de recherches et d'echanges technologiques,20,20.0
+https://openalex.org/I4210126764,1,universitair ziekenhuis brussel,20,20.0
+https://openalex.org/I3019035496,1,ac camargo hospital,20,20.0
+https://openalex.org/I4210138488,1,national cancer institute of sri lanka,20,20.0
+https://openalex.org/I4210109011,1,world health organization - zimbabwe,20,20.0
+https://openalex.org/I4210087978,1,centre hospitalier universitaire de besançon,20,20.0
+https://openalex.org/I29617571,2,university of indonesia,39,19.5
+https://openalex.org/I124227911,3,ben-gurion university of the negev,58,19.333333333333332
+https://openalex.org/I185652977,3,university of tarapacá,57,19.0
+https://openalex.org/I72227227,2,makerere university,38,19.0
+https://openalex.org/I39586589,4,swansea university,75,18.75
+https://openalex.org/I150870154,3,indian institute of management ahmedabad,56,18.666666666666668
+https://openalex.org/I64189192,1,"international institute of information technology, hyderabad",18,18.0
+https://openalex.org/I4210109586,1,moscow institute of thermal technology,18,18.0
+https://openalex.org/I4210128585,1,meta health,18,18.0
+https://openalex.org/I4210130200,1,carnegie mellon university africa,18,18.0
+https://openalex.org/I134446601,1,berkeley college,18,18.0
+https://openalex.org/I36788626,1,california university of pennsylvania,18,18.0
+https://openalex.org/I71920554,1,king abdullah university of science and technology,18,18.0
+https://openalex.org/I4210166639,1,dartmouth hospital,18,18.0
+https://openalex.org/I2800403580,1,university of minnesota system,18,18.0
+https://openalex.org/I4210094062,2,university medical center of the johannes gutenberg university mainz,36,18.0
+https://openalex.org/I39063666,1,university of catania,18,18.0
+https://openalex.org/I172675005,4,nanyang technological university,71,17.75
+https://openalex.org/I24027795,4,university of johannesburg,70,17.5
+https://openalex.org/I48018076,3,christ university,52,17.333333333333332
+https://openalex.org/I4210162166,1,energy consulting network (denmark),17,17.0
+https://openalex.org/I2800984189,1,indus hospital,17,17.0
+https://openalex.org/I4210091499,1,istituti clinici scientifici maugeri,17,17.0
+https://openalex.org/I4210087217,1,méditerranée infection foundation,17,17.0
+https://openalex.org/I4210103017,1,fondation congolaise pour la recherche médicale,17,17.0
+https://openalex.org/I2802140467,1,voluntary health services hospital,17,17.0
+https://openalex.org/I4210138523,1,ucl biomedical research centre,17,17.0
+https://openalex.org/I1336862989,1,ministry of health,17,17.0
+https://openalex.org/I194839184,1,liverpool school of tropical medicine,17,17.0
+https://openalex.org/I51195161,2,école de management de lyon,34,17.0
+https://openalex.org/I76134821,2,medical university of vienna,34,17.0
+https://openalex.org/I4210147161,2,mudra institute of communications ahmedabad,34,17.0
+https://openalex.org/I118185606,1,aga khan university,17,17.0
+https://openalex.org/I153975220,1,kenyatta university,17,17.0
+https://openalex.org/I113358080,1,champalimaud foundation,17,17.0
+https://openalex.org/I74653059,2,public health foundation of india,33,16.5
+https://openalex.org/I55664587,1,indian institute of chemical technology,15,15.0
+https://openalex.org/I157674215,1,presidency university,15,15.0
+https://openalex.org/I2799829267,1,simula research laboratory,15,15.0
+https://openalex.org/I198244214,1,université clermont auvergne,15,15.0
+https://openalex.org/I4210153543,1,european molecular biology laboratory,15,15.0
+https://openalex.org/I3020098449,1,cea grenoble,15,15.0
+https://openalex.org/I4210155236,1,national research council,15,15.0
+https://openalex.org/I4210112570,1,instituto de productos naturales y agrobiología,15,15.0
+https://openalex.org/I4210139435,1,institute for experimental endocrinology and oncology,15,15.0
+https://openalex.org/I121750182,1,national institute of technology warangal,15,15.0
+https://openalex.org/I170979836,1,jadavpur university,15,15.0
+https://openalex.org/I4210141755,1,"institut de génétique, environnement et protection des plantes",15,15.0
+https://openalex.org/I4210110641,1,cea cadarache,15,15.0
+https://openalex.org/I119939252,1,indraprastha institute of information technology delhi,15,15.0
+https://openalex.org/I28210344,1,kakatiya university,15,15.0
+https://openalex.org/I55862774,1,west bengal state university,15,15.0
+https://openalex.org/I200207707,3,homi bhabha national institute,43,14.333333333333334
+https://openalex.org/I894293524,1,university of chittagong,14,14.0
+https://openalex.org/I45487847,1,chattogram veterinary and animal sciences university,14,14.0
+https://openalex.org/I4210109249,1,regional medical research centre,14,14.0
+https://openalex.org/I4210086300,1,national institute of infectious diseases,14,14.0
+https://openalex.org/I4210123464,1,saiseikai utsunomiya hospital,14,14.0
+https://openalex.org/I114292369,1,ifakara health institute,14,14.0
+https://openalex.org/I4210156194,1,addenbrooke's hospital,14,14.0
+https://openalex.org/I185790649,1,indian veterinary research institute,14,14.0
+https://openalex.org/I135117807,1,université de sherbrooke,14,14.0
+https://openalex.org/I41173762,1,mawlana bhashani science and technology university,14,14.0
+https://openalex.org/I46080048,1,jahangirnagar university,14,14.0
+https://openalex.org/I98301867,1,hasanuddin university,14,14.0
+https://openalex.org/I37823250,1,university of development alternative,14,14.0
+https://openalex.org/I2802466933,1,cambridge university hospitals nhs foundation trust,14,14.0
+https://openalex.org/I4210110309,1,the george institute for global health,14,14.0
+https://openalex.org/I170203145,1,mrc laboratory of molecular biology,14,14.0
+https://openalex.org/I2799668677,1,region zealand,14,14.0
+https://openalex.org/I4210138609,2,george institute for global health,28,14.0
+https://openalex.org/I113198587,1,national institute of genetics,14,14.0
+https://openalex.org/I118574687,1,university of miyazaki,14,14.0
+https://openalex.org/I169248161,1,universidade federal de pelotas,14,14.0
+https://openalex.org/I197097402,1,universidad peruana cayetano heredia,14,14.0
+https://openalex.org/I185163786,4,king abdulaziz university,55,13.75
+https://openalex.org/I28777354,4,sejong university,55,13.75
+https://openalex.org/I137479271,2,helmholtz centre for environmental research,27,13.5
+https://openalex.org/I63739035,5,all india institute of medical sciences,67,13.4
+https://openalex.org/I17533244,1,an-najah national university,13,13.0
+https://openalex.org/I190765188,1,ambedkar university delhi,13,13.0
+https://openalex.org/I133743585,1,anadolu university,13,13.0
+https://openalex.org/I4210089617,1,"laboratoire d'automatique, de mécanique et d'informatique industrielles et humaines",13,13.0
+https://openalex.org/I28221208,1,institut national des sciences appliquées de rennes,13,13.0
+https://openalex.org/I4210116615,1,universidad internacional de la rioja,13,13.0
+https://openalex.org/I157485424,1,korea advanced institute of science and technology,13,13.0
+https://openalex.org/I70348806,1,université polytechnique hauts-de-france,13,13.0
+https://openalex.org/I4387154098,1,insa hauts-de-france,13,13.0
+https://openalex.org/I25254941,1,beijing normal university,13,13.0
+https://openalex.org/I4210091745,1,eskişehir city hospital,13,13.0
+https://openalex.org/I82951845,2,rmit university,26,13.0
+https://openalex.org/I1333540553,2,nitte university,26,13.0
+https://openalex.org/I2251586001,2,singapore general hospital,26,13.0
+https://openalex.org/I4210122908,1,virginia cancer specialists,13,13.0
+https://openalex.org/I4210159536,1,woodlands hospital,13,13.0
+https://openalex.org/I4210135086,1,tennessee oncology,13,13.0
+https://openalex.org/I204250578,1,"university of california, irvine",13,13.0
+https://openalex.org/I4210103611,1,mirati therapeutics (united states),13,13.0
+https://openalex.org/I4210127938,1,mayo clinic hospital,13,13.0
+https://openalex.org/I4210087725,1,mary crowley cancer research center,13,13.0
+https://openalex.org/I4210100810,1,sarah cannon,13,13.0
+https://openalex.org/I79510175,2,cardiff university,26,13.0
+https://openalex.org/I44265643,1,rowan university,13,13.0
+https://openalex.org/I27963644,1,hhl leipzig graduate school of management,13,13.0
+https://openalex.org/I161321875,1,university of beira interior,13,13.0
+https://openalex.org/I181343428,1,university of zagreb,13,13.0
+https://openalex.org/I63548447,1,lappeenranta-lahti university of technology,13,13.0
+https://openalex.org/I183638586,1,parthenope university of naples,13,13.0
+https://openalex.org/I112862951,1,university of messina,13,13.0
+https://openalex.org/I200284239,1,universidade de santiago de compostela,13,13.0
+https://openalex.org/I177828482,2,institute of genomics and integrative biology,26,13.0
+https://openalex.org/I20107917,3,sri ramachandra institute of higher education and research,37,12.333333333333334
+https://openalex.org/I244572783,3,symbiosis international university,37,12.333333333333334
+https://openalex.org/I172917736,1,christian medical college & hospital,12,12.0
+https://openalex.org/I4210108783,1,christian medical college,12,12.0
+https://openalex.org/I4210137844,1,skåne university hospital,12,12.0
+https://openalex.org/I132976966,1,universität für weiterbildung krems,12,12.0
+https://openalex.org/I4210150574,1,moorfields eye hospital,12,12.0
+https://openalex.org/I2800667924,1,sinai hospital,12,12.0
+https://openalex.org/I4210160388,1,ministry of food processing industries,12,12.0
+https://openalex.org/I2801880299,1,translational health science and technology institute,12,12.0
+https://openalex.org/I114796046,1,gurukul kangri vishwavidyalaya,12,12.0
+https://openalex.org/I102117144,1,banasthali university,12,12.0
+https://openalex.org/I273727760,1,heart and stroke foundation,12,12.0
+https://openalex.org/I39854758,1,auckland university of technology,12,12.0
+https://openalex.org/I130442723,1,universidade federal do rio grande do sul,12,12.0
+https://openalex.org/I340869894,1,baba farid university of health sciences,12,12.0
+https://openalex.org/I4210125856,1,universidad politécnica de puebla,12,12.0
+https://openalex.org/I58048189,1,shahid beheshti university of medical sciences,12,12.0
+https://openalex.org/I4210106686,1,chulabhorn hospital,12,12.0
+https://openalex.org/I1294182474,1,cihan university-erbil,12,12.0
+https://openalex.org/I4388482718,1,cihan university sulaimaniya,12,12.0
+https://openalex.org/I114794399,1,suez canal university,12,12.0
+https://openalex.org/I78978612,1,yangzhou university,12,12.0
+https://openalex.org/I14894300,1,foshan university,12,12.0
+https://openalex.org/I118298837,1,sankara nethralaya,12,12.0
+https://openalex.org/I166455938,1,university of babylon,12,12.0
+https://openalex.org/I4210166348,1,sabzevar university of medical sciences,12,12.0
+https://openalex.org/I4210137727,1,national institute of genetic engineering and biotechnology,12,12.0
+https://openalex.org/I170347488,1,national environmental engineering research institute,12,12.0
+https://openalex.org/I257903683,1,national university of civil engineering,12,12.0
+https://openalex.org/I1284762954,1,zhejiang a & f university,12,12.0
+https://openalex.org/I78757542,1,university of newcastle australia,12,12.0
+https://openalex.org/I189590672,1,kansas state university,12,12.0
+https://openalex.org/I167360494,1,university of wuppertal,12,12.0
+https://openalex.org/I4387153298,3,école de management de normandie,36,12.0
+https://openalex.org/I76414455,3,"kasturba medical college, manipal",35,11.666666666666666
+https://openalex.org/I60342839,3,qatar university,35,11.666666666666666
+https://openalex.org/I4210153594,1,society for cardiovascular angiography and interventions,11,11.0
+https://openalex.org/I163205636,2,tabriz university of medical sciences,22,11.0
+https://openalex.org/I4210106300,1,zimmerman associates (united states),11,11.0
+https://openalex.org/I169912796,1,grace (united states),11,11.0
+https://openalex.org/I2801296245,1,association of chartered certified accountants,11,11.0
+https://openalex.org/I2800945745,1,house of representatives,11,11.0
+https://openalex.org/I4210086291,1,dawn research (united states),11,11.0
+https://openalex.org/I4210125278,1,tyrone county hospital,11,11.0
+https://openalex.org/I4210124898,1,john d bray md,11,11.0
+https://openalex.org/I1320557632,1,joint commission,11,11.0
+https://openalex.org/I4210145000,1,hospital dr. gustavo fricke,11,11.0
+https://openalex.org/I2802674826,1,karen hospital,11,11.0
+https://openalex.org/I17877952,2,sechenov university,22,11.0
+https://openalex.org/I119311299,2,kumaun university,21,10.5
+https://openalex.org/I91450128,2,jazan university,21,10.5
+https://openalex.org/I71267560,2,university of naples federico ii,21,10.5
+https://openalex.org/I131835042,2,bursa uludağ üni̇versi̇tesi̇,21,10.5
+https://openalex.org/I4210134189,1,xiamen university malaysia,10,10.0
+https://openalex.org/I129902397,1,dalhousie university,10,10.0
+https://openalex.org/I145286018,1,srm institute of science and technology,10,10.0
+https://openalex.org/I155043079,1,university of nottingham malaysia campus,10,10.0
+https://openalex.org/I4210090457,1,al-nisour university college,10,10.0
+https://openalex.org/I4210128557,1,ministry of higher education and scientific research,10,10.0
+https://openalex.org/I205746353,2,university of dhaka,20,10.0
+https://openalex.org/I69050122,2,near east university,20,10.0
+https://openalex.org/I200606013,2,daffodil international university,20,10.0
+https://openalex.org/I215927,1,university of madras,10,10.0
+https://openalex.org/I4210165799,1,tyumen state medical university,10,10.0
+https://openalex.org/I4401200352,1,al-farahidi university,10,10.0
+https://openalex.org/I12150220,1,university of mosul,10,10.0
+https://openalex.org/I47099075,1,hydro-québec,10,10.0
+https://openalex.org/I146620803,1,wenzhou university,10,10.0
+https://openalex.org/I4210133257,1,kpr institute of engineering and technology,10,10.0
+https://openalex.org/I94722563,1,university of jyväskylä,10,10.0
+https://openalex.org/I4210142005,1,university of karbala,10,10.0
+https://openalex.org/I63135867,1,university of cincinnati,10,10.0
+https://openalex.org/I16076960,2,comsats university islamabad,19,9.5
+https://openalex.org/I152429107,2,jawaharlal nehru university,19,9.5
+https://openalex.org/I4210146690,1,national university hospital,9,9.0
+https://openalex.org/I184840846,1,virginia commonwealth university,9,9.0
+https://openalex.org/I4210137328,1,asian institute of gastroenterology,9,9.0
+https://openalex.org/I125671874,1,national health service,9,9.0
+https://openalex.org/I189462010,1,universiti brunei darussalam,9,9.0
+https://openalex.org/I2802965805,1,university hospital southampton nhs foundation trust,9,9.0
+https://openalex.org/I2799345741,1,cmh lahore medical college and institute of dentistry,9,9.0
+https://openalex.org/I24542750,1,khyber medical university,9,9.0
+https://openalex.org/I2802921333,1,nottingham city hospital,9,9.0
+https://openalex.org/I4210124644,1,houston institute for clinical research,9,9.0
+https://openalex.org/I4210107866,1,national university heart centre singapore,9,9.0
+https://openalex.org/I307255591,1,max healthcare,9,9.0
+https://openalex.org/I211055903,2,dr. yashwant singh parmar university of horticulture and forestry,18,9.0
+https://openalex.org/I165682329,1,guru nanak dev university,9,9.0
+https://openalex.org/I162051807,1,carol davila university of medicine and pharmacy,9,9.0
+https://openalex.org/I28109999,1,university of medicine and pharmacy of craiova,9,9.0
+https://openalex.org/I17647740,1,father muller medical college hospital,9,9.0
+https://openalex.org/I4210126183,1,universidad del azuay,9,9.0
+https://openalex.org/I4210163968,1,g.b. pant institute of himalayan environment and development,9,9.0
+https://openalex.org/I94256465,1,arturo prat university,9,9.0
+https://openalex.org/I126596746,2,jagiellonian university,18,9.0
+https://openalex.org/I53831458,1,abasyn university,9,9.0
+https://openalex.org/I79839403,1,university of veterinary and animal sciences,9,9.0
+https://openalex.org/I4388891817,1,university of science and technology of fujairah,9,9.0
+https://openalex.org/I885602679,1,dubai pharmacy college,9,9.0
+https://openalex.org/I2800672702,1,combined military hospital,9,9.0
+https://openalex.org/I51317819,1,institute of medical sciences,9,9.0
+https://openalex.org/I4210131147,3,srm university,26,8.666666666666666
+https://openalex.org/I84339108,3,sunway university,25,8.333333333333334
+https://openalex.org/I110360157,4,lovely professional university,33,8.25
+https://openalex.org/I1301390666,1,qatar airways (qatar),8,8.0
+https://openalex.org/I60054993,2,graphic era university,16,8.0
+https://openalex.org/I4528857,1,university of kuala lumpur,8,8.0
+https://openalex.org/I3132920206,3,bgc trust university bangladesh,24,8.0
+https://openalex.org/I3018001382,1,aimst university,8,8.0
+https://openalex.org/I4210114766,1,muscat college,8,8.0
+https://openalex.org/I4210102358,1,mahsa university,8,8.0
+https://openalex.org/I4210161040,1,dr. b.r.a. institute rotary cancer hospital,8,8.0
+https://openalex.org/I76202665,1,central university of kashmir,8,8.0
+https://openalex.org/I59130452,1,university of nebraska medical center,8,8.0
+https://openalex.org/I4264650,1,islamic university of science and technology,8,8.0
+https://openalex.org/I171543936,3,free university of bozen-bolzano,23,7.666666666666667
+https://openalex.org/I60053951,2,universitat politècnica de valència,15,7.5
+https://openalex.org/I110152177,3,university of akron,22,7.333333333333333
+https://openalex.org/I191972202,3,amity university,22,7.333333333333333
+https://openalex.org/I76777374,3,central university of rajasthan,22,7.333333333333333
+https://openalex.org/I82952536,3,king khalid university,21,7.0
+https://openalex.org/I342702707,2,national institute of food technology entrepreneurship and management,14,7.0
+https://openalex.org/I25399158,1,mahidol university,7,7.0
+https://openalex.org/I59725666,1,university of reggio calabria,7,7.0
+https://openalex.org/I4210145783,1,universitas budi luhur,7,7.0
+https://openalex.org/I144614875,1,alliance university,7,7.0
+https://openalex.org/I134359838,1,alfaisal university,7,7.0
+https://openalex.org/I4391767729,1,almaarefa university,7,7.0
+https://openalex.org/I4210091899,1,career point university,7,7.0
+https://openalex.org/I64532579,1,qazvin university of medical sciences,7,7.0
+https://openalex.org/I4210090662,1,university of phayao,7,7.0
+https://openalex.org/I299920578,1,baba ghulam shah badshah university,7,7.0
+https://openalex.org/I142253595,1,university b.d.t college of engineering,7,7.0
+https://openalex.org/I143302722,1,university of kentucky,7,7.0
+https://openalex.org/I158949172,1,curtin university sarawak,7,7.0
+https://openalex.org/I184834183,1,al-azhar university,7,7.0
+https://openalex.org/I4210145537,1,materials processing (united states),7,7.0
+https://openalex.org/I46305995,1,taiyuan university of science and technology,7,7.0
+https://openalex.org/I38877650,1,zhengzhou university,7,7.0
+https://openalex.org/I110166357,3,university of delhi,20,6.666666666666667
+https://openalex.org/I85461943,5,saveetha university,33,6.6
+https://openalex.org/I179331831,3,taif university,19,6.333333333333333
+https://openalex.org/I194604659,1,shiraz university of medical sciences,6,6.0
+https://openalex.org/I199440890,1,american university of sharjah,6,6.0
+https://openalex.org/I3122832768,1,kurdistan university of medical sciences,6,6.0
+https://openalex.org/I196608512,1,pes university,6,6.0
+https://openalex.org/I60587646,1,brno university of technology,6,6.0
+https://openalex.org/I4210159287,1,institut européen des membranes,6,6.0
+https://openalex.org/I3132702812,2,uttaranchal university,12,6.0
+https://openalex.org/I199693650,2,umm al-qura university,12,6.0
+https://openalex.org/I212220629,2,peter the great st. petersburg polytechnic university,12,6.0
+https://openalex.org/I37696226,1,university of maribor,6,6.0
+https://openalex.org/I2799787213,1,alma mater europaea,6,6.0
+https://openalex.org/I13955877,1,bar-ilan university,6,6.0
+https://openalex.org/I203899302,1,universiti teknologi petronas,6,6.0
+https://openalex.org/I168893459,1,university of allahabad,6,6.0
+https://openalex.org/I11935315,1,école nationale supérieure de chimie de montpellier,6,6.0
+https://openalex.org/I158867519,1,international management institute,6,6.0
+https://openalex.org/I4210144925,1,technological university dublin,6,6.0
+https://openalex.org/I4210104382,1,central institute of post-harvest engineering and technology,6,6.0
+https://openalex.org/I179863766,1,western norway university of applied sciences,6,6.0
+https://openalex.org/I4210105200,1,national research centre for integrated pest management,6,6.0
+https://openalex.org/I45509622,1,indian agricultural research institute,6,6.0
+https://openalex.org/I4210144812,1,tea research association,6,6.0
+https://openalex.org/I48890080,1,brandon university,6,6.0
+https://openalex.org/I899713450,1,air university,6,6.0
+https://openalex.org/I87482320,1,university of management and technology,6,6.0
+https://openalex.org/I4210115096,1,haute école provinciale de hainaut condorcet,6,6.0
+https://openalex.org/I1337315214,1,dr. ram manohar lohia avadh university,6,6.0
+https://openalex.org/I114150738,1,fu jen catholic university,6,6.0
+https://openalex.org/I146682468,1,national institute for interdisciplinary science and technology,6,6.0
+https://openalex.org/I152269853,1,qilu university of technology,6,6.0
+https://openalex.org/I23171815,1,zhengzhou university of light industry,6,6.0
+https://openalex.org/I4210142748,1,shandong academy of sciences,6,6.0
+https://openalex.org/I125839683,1,beijing institute of technology,6,6.0
+https://openalex.org/I9927081,1,aalto university,6,6.0
+https://openalex.org/I881766915,1,nanjing university,6,6.0
+https://openalex.org/I4210132287,1,laboratoire science & technologie du lait & de l'œuf,6,6.0
+https://openalex.org/I899646,1,punjab agricultural university,6,6.0
+https://openalex.org/I4210126829,1,china medical university hospital,6,6.0
+https://openalex.org/I4210097415,1,national bureau of plant genetic resources,6,6.0
+https://openalex.org/I235110982,1,sher-e-kashmir university of agricultural sciences and technology of jammu,6,6.0
+https://openalex.org/I142608572,1,prince sattam bin abdulaziz university,6,6.0
+https://openalex.org/I162871001,1,university of oradea,6,6.0
+https://openalex.org/I154632036,1,misr university for science and technology,6,6.0
+https://openalex.org/I4210112164,1,complexity science hub vienna,6,6.0
+https://openalex.org/I2801814493,1,princess alexandra hospital,6,6.0
+https://openalex.org/I132877587,1,bangabandhu sheikh mujibur rahman science and technology university,6,6.0
+https://openalex.org/I98210582,1,rajiv gandhi institute of petroleum technology,6,6.0
+https://openalex.org/I184693016,2,china medical university,12,6.0
+https://openalex.org/I4210157823,1,government of mizoram,6,6.0
+https://openalex.org/I148520331,1,kinnaird college for women university,6,6.0
+https://openalex.org/I916357946,3,sri sivasubramaniya nadar college of engineering,18,6.0
+https://openalex.org/I83205935,6,malaviya national institute of technology jaipur,34,5.666666666666667
+https://openalex.org/I129734738,2,all india institute of medical sciences raipur,11,5.5
+https://openalex.org/I179420787,2,indian council of agricultural research,11,5.5
+https://openalex.org/I1306687154,2,sher-e-kashmir university of agricultural sciences and technology of kashmir,11,5.5
+https://openalex.org/I24676775,2,indian institute of technology madras,11,5.5
+https://openalex.org/I32394136,2,northumbria university,11,5.5
+https://openalex.org/I75027704,2,university of tennessee at knoxville,11,5.5
+https://openalex.org/I4210106490,3,all india institute of medical sciences bhopal,16,5.333333333333333
+https://openalex.org/I162827531,3,indian institute of technology bombay,16,5.333333333333333
+https://openalex.org/I42934936,2,dublin city university,10,5.0
+https://openalex.org/I4210140720,1,nalanda university,5,5.0
+https://openalex.org/I4210086961,1,university for business and technology,5,5.0
+https://openalex.org/I159247623,1,mansoura university,5,5.0
+https://openalex.org/I4210126648,1,indian institute of vegetable research,5,5.0
+https://openalex.org/I190632392,1,luleå university of technology,5,5.0
+https://openalex.org/I77541275,1,central rice research institute,5,5.0
+https://openalex.org/I290859477,1,jawaharlal nehru krishi vishwa vidyalaya,5,5.0
+https://openalex.org/I20632288,1,indira gandhi agricultural university,5,5.0
+https://openalex.org/I267325792,1,mizan tepi university,5,5.0
+https://openalex.org/I14467051,2,central pollution control board,10,5.0
+https://openalex.org/I76571253,1,imam abdulrahman bin faisal university,5,5.0
+https://openalex.org/I101407740,4,chandigarh university,20,5.0
+https://openalex.org/I177233841,1,"vietnam national university, hanoi",5,5.0
+https://openalex.org/I127727965,1,magadh university,5,5.0
+https://openalex.org/I4210139814,1,agenzia regionale parchi,5,5.0
+https://openalex.org/I156216236,1,qassim university,5,5.0
+https://openalex.org/I13567498,1,odisha university of agriculture and technology,5,5.0
+https://openalex.org/I90340485,1,sher-e-bangla agricultural university,5,5.0
+https://openalex.org/I12003341,1,national university of science and technology,5,5.0
+https://openalex.org/I201787326,1,riga technical university,5,5.0
+https://openalex.org/I4210149401,1,instituto de química y fisicoquímica biológicas,5,5.0
+https://openalex.org/I60324483,1,k s hegde medical academy,5,5.0
+https://openalex.org/I27765905,1,north-west university,5,5.0
+https://openalex.org/I4387154206,1,regione lazio,5,5.0
+https://openalex.org/I1301411061,1,pasteur institute of iran,5,5.0
+https://openalex.org/I4210119988,1,centre for chronic disease control,5,5.0
+https://openalex.org/I160302567,1,north eastern regional institute of science and technology,5,5.0
+https://openalex.org/I90767664,1,persian gulf university,5,5.0
+https://openalex.org/I91138267,1,islamic azad university of shiraz,5,5.0
+https://openalex.org/I114176345,1,university of calicut,5,5.0
+https://openalex.org/I1284598098,1,king abdulaziz city for science and technology,5,5.0
+https://openalex.org/I4210148816,1,institute of advanced study in science and technology,5,5.0
+https://openalex.org/I896053408,1,american university of antigua,5,5.0
+https://openalex.org/I195631090,1,majmaah university,5,5.0
+https://openalex.org/I117965899,1,university of hawaiʻi at mānoa,5,5.0
+https://openalex.org/I55240360,1,yeungnam university,5,5.0
+https://openalex.org/I992397,1,university of borås,5,5.0
+https://openalex.org/I89652312,1,northwest a&f university,5,5.0
+https://openalex.org/I4210125216,1,mahavir cancer institute and research centre,5,5.0
+https://openalex.org/I72951846,1,washington state university,5,5.0
+https://openalex.org/I2802208705,1,danderyds sjukhus,5,5.0
+https://openalex.org/I4210147764,1,institute of microbial technology,5,5.0
+https://openalex.org/I86987016,1,kth royal institute of technology,5,5.0
+https://openalex.org/I4210142231,1,central university of jammu,5,5.0
+https://openalex.org/I4210133311,2,shoolini university,9,4.5
+https://openalex.org/I74885063,3,sharda university,13,4.333333333333333
+https://openalex.org/I162030827,3,thapar institute of engineering & technology,13,4.333333333333333
+https://openalex.org/I57093077,4,swinburne university of technology,17,4.25
+https://openalex.org/I96413208,5,swinburne university of technology sarawak campus,21,4.2
+https://openalex.org/I6498739,2,indian statistical institute,8,4.0
+https://openalex.org/I2800404181,1,guru gobind singh medical college and hospital,4,4.0
+https://openalex.org/I189442560,2,gyeongsang national university,8,4.0
+https://openalex.org/I36090812,1,netaji subhas university of technology,4,4.0
+https://openalex.org/I155781252,1,university of south carolina,4,4.0
+https://openalex.org/I926076166,1,texas tech university health sciences center,4,4.0
+https://openalex.org/I12315562,1,texas tech university,4,4.0
+https://openalex.org/I177181097,1,durban university of technology,4,4.0
+https://openalex.org/I876193797,5,vellore institute of technology university,20,4.0
+https://openalex.org/I4210129200,1,o. p. jindal global university,4,4.0
+https://openalex.org/I4399657946,2,rajalakshmi engineering college,8,4.0
+https://openalex.org/I164185940,1,texas a&m university at galveston,4,4.0
+https://openalex.org/I71052956,1,university of reading,4,4.0
+https://openalex.org/I171210897,1,aligarh muslim university,4,4.0
+https://openalex.org/I9360294,1,university of bologna,4,4.0
+https://openalex.org/I39705031,1,catholic university of daegu,4,4.0
+https://openalex.org/I128420443,1,central salt and marine chemicals research institute,4,4.0
+https://openalex.org/I26771391,2,jaipuria institute of management,8,4.0
+https://openalex.org/I200859690,1,universiti teknologi brunei,4,4.0
+https://openalex.org/I4210124766,1,kidney health australia,4,4.0
+https://openalex.org/I4401726783,1,vit-ap university,4,4.0
+https://openalex.org/I92715842,1,university of west bohemia,4,4.0
+https://openalex.org/I886702836,1,deen dayal upadhyaya gorakhpur university,4,4.0
+https://openalex.org/I157669161,1,international islamic university chittagong,4,4.0
+https://openalex.org/I175691731,1,pondicherry university,4,4.0
+https://openalex.org/I4210126338,1,software competence center hagenberg (austria),4,4.0
+https://openalex.org/I28710699,1,hellenic mediterranean university,4,4.0
+https://openalex.org/I205490536,1,dongguk university,4,4.0
+https://openalex.org/I106826634,1,jain university,4,4.0
+https://openalex.org/I45294948,2,post graduate institute of medical education and research,7,3.5
+https://openalex.org/I92008406,2,university of stavanger,7,3.5
+https://openalex.org/I91357014,2,banaras hindu university,7,3.5
+https://openalex.org/I4210142847,1,svs medical college,3,3.0
+https://openalex.org/I143247161,1,babasaheb bhimrao ambedkar university,3,3.0
+https://openalex.org/I49278261,1,assam university,3,3.0
+https://openalex.org/I4210128956,1,central institute of technology kokrajhar,3,3.0
+https://openalex.org/I2799638773,1,bodoland university,3,3.0
+https://openalex.org/I2800857658,1,north east institute of science and technology,3,3.0
+https://openalex.org/I178535277,1,university of the west of england,3,3.0
+https://openalex.org/I4210090100,1,städtisches klinikum dresden,3,3.0
+https://openalex.org/I85564003,1,bangladesh university of textiles,3,3.0
+https://openalex.org/I4210089305,1,"dr. d. y. patil medical college, hospital and research centre",3,3.0
+https://openalex.org/I152815399,1,singapore university of technology and design,3,3.0
+https://openalex.org/I4210087873,1,institute for stem cell biology and regenerative medicine,3,3.0
+https://openalex.org/I4391767661,1,state key laboratory of reproductive medicine,3,3.0
+https://openalex.org/I2613432,1,university of south florida,3,3.0
+https://openalex.org/I4210131323,1,university of asia pacific,3,3.0
+https://openalex.org/I1320354487,1,target (united states),3,3.0
+https://openalex.org/I251738,1,edinburgh napier university,3,3.0
+https://openalex.org/I139322472,1,universiti sains malaysia,3,3.0
+https://openalex.org/I17301866,1,university of alabama,3,3.0
+https://openalex.org/I276256525,1,babu banarasi das university,3,3.0
+https://openalex.org/I932239252,1,sastra university,3,3.0
+https://openalex.org/I82571370,1,gla university,3,3.0
+https://openalex.org/I33586908,2,pandit deendayal petroleum university,6,3.0
+https://openalex.org/I29563240,1,gujarat technological university,3,3.0
+https://openalex.org/I134695357,1,university of talca,3,3.0
+https://openalex.org/I9073902,1,"university of chemistry and technology, prague",3,3.0
+https://openalex.org/I167751958,1,institute of chemical technology,3,3.0
+https://openalex.org/I114724429,2,central university of punjab,6,3.0
+https://openalex.org/I4921948,1,pusan national university,3,3.0
+https://openalex.org/I4388482725,1,mangalmay institute of management and technology,3,3.0
+https://openalex.org/I5847235,5,university of petroleum and energy studies,14,2.8
+https://openalex.org/I252758333,9,govind ballabh pant university of agriculture and technology,24,2.6666666666666665
+https://openalex.org/I99364266,3,academy of scientific and innovative research,8,2.6666666666666665
+https://openalex.org/I51452335,2,panjab university,5,2.5
+https://openalex.org/I226983648,2,narsee monjee institute of management studies,5,2.5
+https://openalex.org/I172446870,2,university of cagliari,5,2.5
+https://openalex.org/I4210141984,2,centre for advanced bioenergy research,5,2.5
+https://openalex.org/I4210142124,2,international centre for genetic engineering and biotechnology,5,2.5
+https://openalex.org/I155125381,2,galgotias university,5,2.5
+https://openalex.org/I32480017,2,florida polytechnic university,5,2.5
+https://openalex.org/I75444546,2,west bengal university of animal and fishery sciences,5,2.5
+https://openalex.org/I59475050,9,jamia millia islamia,20,2.2222222222222223
+https://openalex.org/I70971781,8,dr. b. r. ambedkar national institute of technology jalandhar,17,2.125
+https://openalex.org/I156406944,1,defence institute of advanced technology,2,2.0
+https://openalex.org/I106349282,2,central electrochemical research institute,4,2.0
+https://openalex.org/I169877490,2,university of mumbai,4,2.0
+https://openalex.org/I126193024,1,london metropolitan university,2,2.0
+https://openalex.org/I59179055,1,shri mata vaishno devi university,2,2.0
+https://openalex.org/I20581793,1,university of kent,2,2.0
+https://openalex.org/I110002522,1,university of essex,2,2.0
+https://openalex.org/I99729588,1,indian institute of technology bhubaneswar,2,2.0
+https://openalex.org/I99682543,1,university of minho,2,2.0
+https://openalex.org/I4210135619,1,instituto de tecnología química,2,2.0
+https://openalex.org/I13268429,1,madurai kamaraj university,2,2.0
+https://openalex.org/I64295750,2,indian institute of technology indore,4,2.0
+https://openalex.org/I4210162011,1,jubilant life sciences (india),2,2.0
+https://openalex.org/I165831266,1,nirma university,2,2.0
+https://openalex.org/I126601174,1,tezpur university,2,2.0
+https://openalex.org/I94616015,1,punjab technical university,2,2.0
+https://openalex.org/I26072440,1,indian institute of information technology allahabad,2,2.0
+https://openalex.org/I1288043984,1,techno india university,2,2.0
+https://openalex.org/I4210150297,1,institute of business management,2,2.0
+https://openalex.org/I2801014300,1,florida gulf coast university,2,2.0
+https://openalex.org/I4210146488,1,institute of molecular medicine,2,2.0
+https://openalex.org/I91699865,1,indian institute of management lucknow,2,2.0
+https://openalex.org/I301324184,1,xavier school of management,2,2.0
+https://openalex.org/I70764227,1,indus university,2,2.0
+https://openalex.org/I296362101,1,indira gandhi national tribal university,2,2.0
+https://openalex.org/I229991691,1,chhatrapati shahu ji maharaj university,2,2.0
+https://openalex.org/I4210086881,1,singapore-huj alliance for research and enterprise,2,2.0
+https://openalex.org/I36893310,2,university of hyderabad,4,2.0
+https://openalex.org/I4210094618,1,ct group of institutions,2,2.0
+https://openalex.org/I112576028,1,central leather research institute,2,2.0
+https://openalex.org/I203088144,1,nova southeastern university,2,2.0
+https://openalex.org/I4210089564,1,gujarat cancer society,2,2.0
+https://openalex.org/I112524849,1,yamagata university,2,2.0
+https://openalex.org/I189109744,1,indian institute of technology dhanbad,1,1.0
+https://openalex.org/I4210138251,1,"indian institute of information technology, nagpur",1,1.0
+https://openalex.org/I8977528,1,dr. hari singh gour university,1,1.0
+https://openalex.org/I4210154014,1,national institute of pharmaceutical education and research,1,1.0
+https://openalex.org/I105094715,1,national institute of technology kurukshetra,1,1.0
+https://openalex.org/I3132208328,1,rama devi women's university,1,1.0
+https://openalex.org/I4210133503,2,central university of haryana,2,1.0
+https://openalex.org/I51226738,1,dong-a university,1,1.0
+https://openalex.org/I4210124532,1,nihr mindtech medtech co-operative,1,1.0
+https://openalex.org/I37048141,1,indian council of medical research,1,1.0
+https://openalex.org/I173093425,1,chang gung university,1,1.0
+https://openalex.org/I4210151893,1,national centre for disease informatics and research,1,1.0
+https://openalex.org/I196652580,1,swami ramanand teerth marathwada university,1,1.0
+https://openalex.org/I71495548,1,indian institute of management calcutta,1,1.0
+https://openalex.org/I55016150,1,manav rachna international institute of research and studies,1,1.0
+https://openalex.org/I2802630050,1,indira gandhi centre for atomic research,1,1.0
+https://openalex.org/I4626487,1,king faisal university,1,1.0
+https://openalex.org/I1323093577,1,bml munjal university,1,1.0
+https://openalex.org/I193073490,2,siksha o anusandhan university,1,0.5

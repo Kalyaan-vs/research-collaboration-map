@@ -1,0 +1,82 @@
+[
+  {
+    "institution": "University of Pennsylvania",
+    "weighted_degree_centrality": 1053
+  },
+  {
+    "institution": "University of Michigan\u2013Ann Arbor",
+    "weighted_degree_centrality": 1009
+  },
+  {
+    "institution": "University of California, San Diego",
+    "weighted_degree_centrality": 911
+  },
+  {
+    "institution": "Massachusetts General Hospital",
+    "weighted_degree_centrality": 755
+  },
+  {
+    "institution": "Memorial Sloan Kettering Cancer Center",
+    "weighted_degree_centrality": 749
+  },
+  {
+    "institution": "University College London",
+    "weighted_degree_centrality": 727
+  },
+  {
+    "institution": "Harvard University",
+    "weighted_degree_centrality": 714
+  },
+  {
+    "institution": "Centre National de la Recherche Scientifique",
+    "weighted_degree_centrality": 637
+  },
+  {
+    "institution": "The University of Texas MD Anderson Cancer Center",
+    "weighted_degree_centrality": 595
+  },
+  {
+    "institution": "University of Cambridge",
+    "weighted_degree_centrality": 573
+  },
+  {
+    "institution": "The University of Texas Southwestern Medical Center",
+    "weighted_degree_centrality": 567
+  },
+  {
+    "institution": "Cancer Institute (WIA)",
+    "weighted_degree_centrality": 564
+  },
+  {
+    "institution": "Fred Hutch Cancer Center",
+    "weighted_degree_centrality": 561
+  },
+  {
+    "institution": "University of Colorado Denver",
+    "weighted_degree_centrality": 559
+  },
+  {
+    "institution": "Moffitt Cancer Center",
+    "weighted_degree_centrality": 543
+  },
+  {
+    "institution": "University of Oxford",
+    "weighted_degree_centrality": 542
+  },
+  {
+    "institution": "Inserm",
+    "weighted_degree_centrality": 523
+  },
+  {
+    "institution": "Fox Chase Cancer Center",
+    "weighted_degree_centrality": 489
+  },
+  {
+    "institution": "University of Washington",
+    "weighted_degree_centrality": 482
+  },
+  {
+    "institution": "Imperial College London",
+    "weighted_degree_centrality": 475
+  }
+]

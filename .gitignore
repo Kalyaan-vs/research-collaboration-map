@@ -2,16 +2,16 @@
 __pycache__/
 *.pyc
 
-# Virtual environment
-../.venv/
+# Virtual env
+.venv/
 venv/
 
-# OS files
+# IDE
+.idea/
+
+# OS
 .DS_Store
 Thumbs.db
 
-# Large raw data (optional)
+# Raw OpenAlex data (DO NOT COMMIT)
 data/raw/
-
-# Environment variables
-.env

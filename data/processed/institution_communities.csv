@@ -1,0 +1,383 @@
+institution,community_id
+University College Dublin,0
+Imperial College London,2
+University of Tübingen,0
+University of Amsterdam,2
+Northwestern University,2
+Centre National de la Recherche Scientifique,3
+University of Cambridge,2
+University of Chicago,2
+University College London,2
+Nagoya University,2
+Tata Institute of Fundamental Research,2
+Fermi National Accelerator Laboratory,5
+University of Helsinki,2
+Helsinki Institute of Physics,2
+ETH Zurich,2
+Monash University,2
+Argonne National Laboratory,5
+University of Wisconsin–Madison,5
+Lawrence Berkeley National Laboratory,5
+University of Illinois Urbana-Champaign,5
+University of Sussex,5
+The Ohio State University,5
+Universidad Autónoma de Madrid,5
+Ludwig-Maximilians-Universität München,5
+University of Minnesota,2
+Austrian Academy of Sciences,3
+Johns Hopkins University,2
+University of Liverpool,2
+King's College London,2
+Tohoku University,2
+Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2
+Université Paris-Saclay,3
+Yale University,2
+"University of California, San Diego",7
+Humboldt-Universität zu Berlin,2
+University of Virginia,2
+"University of Maryland, College Park",2
+Memorial Sloan Kettering Cancer Center,7
+Children's Hospital of Los Angeles,3
+The University of Texas MD Anderson Cancer Center,7
+Harvard University,2
+Garvan Institute of Medical Research,3
+Inserm,2
+Baylor College of Medicine,3
+University of Milan,3
+Universität Ulm,3
+University of Washington,2
+Université Paris Cité,3
+Fudan University,2
+Tata Memorial Hospital,3
+Hospital for Sick Children,2
+Institut Gustave Roussy,3
+Robert Bosch Hospital,3
+Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,3
+University of Alabama at Birmingham,3
+University of Oxford,2
+Massachusetts General Hospital,7
+Fred Hutch Cancer Center,7
+Assistance Publique – Hôpitaux de Paris,2
+"National University Cancer Institute, Singapore",3
+Dr. Margarete Fischer-Bosch-Institute of Clinical Pharmacology,3
+Bambino Gesù Children's Hospital,3
+Jena University Hospital,3
+Texas Children's Hospital,3
+Amsterdam University Medical Centers,3
+Istituti di Ricovero e Cura a Carattere Scientifico,3
+Queen Elizabeth Hospital,3
+University of Southampton,3
+Heinrich Heine University Düsseldorf,2
+Indiana University – Purdue University Indianapolis,3
+University of Pennsylvania,2
+Vrije Universiteit Amsterdam,3
+University of Gothenburg,2
+Stanford University,3
+Boston Children's Hospital,2
+Université de Bordeaux,2
+National University of Singapore,2
+Duke University,2
+Cornell University,5
+Charles University,3
+University of Michigan–Ann Arbor,7
+Leiden University Medical Center,2
+Mayo Clinic in Arizona,2
+Weill Cornell Medicine,2
+University of North Carolina at Chapel Hill,2
+University of Toronto,2
+Normandie Université,3
+University of Edinburgh,2
+Icahn School of Medicine at Mount Sinai,2
+University of Queensland,2
+Erasmus MC,2
+Institut de Recherche pour le Développement,3
+University of Pretoria,3
+University of Copenhagen,2
+Kyushu University,2
+Kyoto University,2
+Chinese Academy of Sciences,10
+Friedrich-Alexander-Universität Erlangen-Nürnberg,2
+Heidelberg University,2
+"Agency for Science, Technology and Research",2
+Children's Hospital of Philadelphia,2
+École Polytechnique Fédérale de Lausanne,5
+University of Padua,2
+The University of Tokyo,2
+Broad Institute,2
+Boston University,2
+Brigham and Women's Hospital,2
+National Institutes of Health,2
+Centre for Human Genetics,2
+Radboud University Nijmegen,2
+National Taiwan University,2
+Centre for Cellular and Molecular Biology,2
+Washington University in St. Louis,2
+University of Massachusetts Amherst,2
+Singapore National Eye Center,2
+Novo Nordisk Foundation,2
+VA Boston Healthcare System,2
+Copenhagen University Hospital,2
+Gentofte Hospital,2
+Rigshospitalet,2
+Jackson Memorial Hospital,2
+Radboud University Medical Center,2
+Helmholtz Zentrum München,2
+National Human Genome Research Institute,2
+"Institute of Biomedical Sciences, Academia Sinica",2
+Singapore Eye Research Institute,2
+National Taiwan University Hospital,2
+Institute for Molecular Medicine Finland,2
+National University Health System,2
+RIKEN Center for Integrative Medical Sciences,2
+Harbor–UCLA Medical Center,2
+Wake Forest University,2
+University of Tartu,2
+Vanderbilt University Medical Center,2
+Osaka University,2
+University of Southern Denmark,2
+Université de Lille,2
+Institut Pasteur de Lille,2
+National Institute on Aging,2
+McMaster University,2
+Utrecht University,2
+Finnish Institute for Health and Welfare,2
+Tel Aviv University,2
+University of Pittsburgh,2
+"University of California, Santa Cruz",2
+"University of California, Berkeley",2
+Wellcome Sanger Institute,2
+Kaiser Permanente,2
+University of Freiburg,2
+Johns Hopkins Medicine,2
+University of Ljubljana,2
+University of Sydney,2
+University of Alberta,2
+Université de Montpellier,2
+Centre Hospitalier Universitaire de Montpellier,2
+KU Leuven,2
+Universitat Autònoma de Barcelona,2
+Emory University,2
+University of Colorado Denver,7
+University of British Columbia,10
+Queen Mary University of London,2
+Universitätsklinikum Erlangen,2
+George Washington University,2
+University of Melbourne,2
+Queen's University,2
+Trinity College Dublin,2
+McGill University,2
+UNSW Sydney,10
+University of Malaya,2
+Chinese University of Hong Kong,5
+Yonsei University,2
+Johannes Gutenberg University Mainz,0
+University Medical Center of the Johannes Gutenberg University Mainz,0
+University of Würzburg,2
+Columbia University Irving Medical Center,2
+University of Geneva,2
+University of Turku,2
+Ollscoil na Gaillimhe – University of Galway,2
+Seoul National University Bundang Hospital,2
+Charité - Universitätsmedizin Berlin,2
+University of Manchester,10
+The University of Texas at Austin,10
+University of Tennessee Health Science Center,7
+University of Southern California,2
+Turku University Hospital,2
+Columbia University,2
+University of Bern,2
+University of Warwick,0
+University of Delaware,0
+Fox Chase Cancer Center,7
+Moffitt Cancer Center,7
+The University of Texas Southwestern Medical Center,7
+"University of California, Davis",7
+Barnes-Jewish Hospital,7
+City Of Hope National Medical Center,7
+St. Jude Children's Research Hospital,7
+Cleveland Clinic,7
+Cape Town HVTN Immunology Laboratory / Hutchinson Centre Research Institute of South Africa,7
+Seattle Cancer Care Alliance,7
+Breast Cancer Research Foundation,7
+The Ohio State University Comprehensive Cancer Center – Arthur G. James Cancer Hospital and Richard J. Solove Research Institute,7
+Cancer Institute (WIA),7
+Susan Thompson Buffett Foundation,7
+Kettering University,7
+Jewish Hospital,7
+University of Wisconsin Carbone Cancer Center,7
+University Hospitals Seidman Cancer Center,7
+Cancer Research Center,7
+University of Colorado Cancer Center,7
+Dana-Farber Brigham Cancer Center,7
+Sidney Kimmel Comprehensive Cancer Center,7
+Smilow Cancer Hospital,7
+UCSF Helen Diller Family Comprehensive Cancer Center,7
+Robert H. Lurie Comprehensive Cancer Center of Northwestern University,7
+Moores Cancer Center,7
+UCLA Jonsson Comprehensive Cancer Center,7
+Vanderbilt-Ingram Cancer Center,7
+Stanford Cancer Institute,7
+Duke Cancer Institute,7
+Fred and Pamela Buffett Cancer Center,7
+UC Davis Comprehensive Cancer Center,7
+Harold C. Simmons Comprehensive Cancer Center,7
+O'Neal Comprehensive Cancer Center,7
+National Comprehensive Cancer Network,7
+University of Utah,7
+Huntsman Cancer Institute,7
+University of Groningen,2
+Aarhus University,2
+Technical University of Denmark,2
+UC San Diego Health System,7
+Universitat de Barcelona,0
+University of Western Australia,0
+"University of California, Los Angeles",2
+Pontificia Universidad Católica de Chile,2
+Lund University,2
+Duke-NUS Medical School,2
+University of Nottingham,10
+University of Calgary,5
+Odense University Hospital,2
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2
+University of Trieste,2
+Universidade de São Paulo,2
+Chinese Academy of Medical Sciences & Peking Union Medical College,2
+Hebrew University of Jerusalem,2
+Centro de Investigación Biomédica en Red Diabetes y Enfermedades Metabólicas Asociadas,2
+National Center for Global Health and Medicine,2
+Hospital de Sant Pau,2
+University of Arizona,5
+Barcelona Institute for Global Health,0
+Hôpital Lyon Sud,0
+University of Ottawa,0
+Marien Ngouabi University,0
+Ulsan College,5
+Humanitas University,5
+Khon Kaen University,5
+"University of California, San Francisco",5
+Kyorin University,5
+Russian Railways,5
+Asan Medical Center,5
+University of Ulsan,5
+Russian Cancer Research Center NN Blokhin,5
+Humanity & Health,5
+Sri Venkateshwaraa Medical College Hospital and Research Centre,5
+Hôpital Robert-Debré,5
+Clinica Universidad de Navarra,5
+Mayo Clinic in Florida,5
+IRCCS Humanitas Research Hospital,5
+Kindai University,5
+LMU Klinikum,5
+Yale Cancer Center,7
+Beth Israel Deaconess Medical Center,3
+Université de Montréal,3
+Oregon Health & Science University,3
+Aichi Medical University Hospital,3
+Medical College of Wisconsin,3
+Barts Health NHS Trust,3
+Aga Khan University Nairobi,3
+Hotel Dieu Hospital,2
+Levine Cancer Institute,2
+City of Hope,2
+Homi Bhabha National Institute,3
+Centre International de Recherche sur le Cancer,3
+Roswell Park Comprehensive Cancer Center,7
+Dana-Farber Cancer Institute,2
+University of Miami,2
+Pennsylvania State University,2
+University of Leicester,2
+Freeman Hospital,2
+University of Mississippi Medical Center,2
+University of Leeds,2
+University of Ibadan,2
+Shanghai Jiao Tong University,2
+National Cancer Institute,2
+University of Lausanne,2
+Peking University,2
+Hospices Civils de Lyon,7
+Indian Institute of Technology Hyderabad,2
+St Petersburg University,18
+Indian Institute of Science Bangalore,18
+Rush University Medical Center,2
+Hong Kong Polytechnic University,19
+University of Piraeus,19
+Audencia Business School,19
+University of Georgia,19
+BI Norwegian Business School,19
+Curtin University,19
+The University of Texas Rio Grande Valley,19
+Swansea University,19
+Universität der Bundeswehr München,19
+ESIC Business & Marketing School,19
+National Institute of Industrial Engineering,19
+EAE Business School,19
+Symbiosis International University,19
+École de management de Normandie,19
+École de management de Lyon,19
+Galgotias University,12
+Govind Ballabh Pant University of Agriculture and Technology,12
+Jamia Millia Islamia,12
+Dr. B. R. Ambedkar National Institute of Technology Jalandhar,12
+Nanyang Technological University,2
+Simon Fraser University,2
+Sri Ramachandra Institute of Higher Education and Research,6
+Sri Sivasubramaniya Nadar College of Engineering,6
+Fondazione IRCCS Istituto Nazionale dei Tumori,2
+Institució Catalana de Recerca i Estudis Avançats,10
+Consejo Nacional de Investigaciones Científicas y Técnicas,10
+University of Ghana,10
+Addis Ababa University,10
+University of Cape Town,2
+Murdoch Children's Research Institute,2
+Red Cross War Memorial Children's Hospital,2
+University of the Witwatersrand,0
+Oregon State University,0
+Universidad Nacional Autónoma de México,0
+All India Institute of Medical Sciences,13
+All India Institute of Medical Sciences Raipur,13
+All India Institute of Medical Sciences Bhopal,13
+Georgia State University,14
+Swinburne University of Technology,14
+Malaviya National Institute of Technology Jaipur,14
+Swinburne University of Technology Sarawak Campus,14
+Keck Hospital of USC,2
+The Francis Crick Institute,2
+Lovely Professional University,15
+Central University of Rajasthan,15
+Peter the Great St. Petersburg Polytechnic University,15
+Uttaranchal University,15
+University of Nairobi,16
+Karolinska Institutet,16
+University of Kinshasa,16
+Sorbonne Université,2
+Western University,10
+Universidade do Porto,10
+Manipal Academy of Higher Education,17
+"Kasturba Medical College, Manipal",17
+Nitte University,17
+University of Glasgow,2
+Kumamoto University,2
+EcoHealth Alliance,2
+Carnegie Mellon University,10
+University of Delhi,20
+Dr. Yashwant Singh Parmar University of Horticulture and Forestry,20
+University of Akron,14
+Free University of Bozen-Bolzano,14
+Bursa Uludağ Üni̇versi̇tesi̇,1
+Jazan University,1
+University of Cagliari,4
+Centre for Advanced Bioenergy Research,4
+International Centre for Genetic Engineering and Biotechnology,4
+Saveetha University,6
+Rajalakshmi Engineering College,6
+University of Sharjah,10
+Université Bourgogne Franche-Comté,10
+Central Electrochemical Research Institute,8
+Academy of Scientific and Innovative Research,8
+Daffodil International University,9
+University of Dhaka,9
+BGC Trust University Bangladesh,9
+Sharda University,9
+University of Tarapacá,6
+Tabriz University of Medical Sciences,11
+Sechenov University,11
